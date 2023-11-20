@@ -1,0 +1,142 @@
+{
+  "emop_sbc_sicro3_sinapi": {
+    "sbc": {
+      "precisao": "99.93",
+      "itens": "9017",
+      "erros": "6"
+    },
+    "sicro3": {
+      "precisao": "99.86",
+      "itens": "2191",
+      "erros": "3"
+    },
+    "emop": {
+      "precisao": "99.75",
+      "itens": "5300",
+      "erros": "13"
+    },
+    "sinapi": {
+      "precisao": "99.82",
+      "itens": "4937",
+      "erros": "9"
+    },
+    "seinfra": {
+      "precisao": "95.83",
+      "itens": "11828",
+      "erros": "493"
+    },
+    "precisao_geral": "98.43"
+  },
+  "sicro3_sinapi": {
+    "sbc": {
+      "precisao": "95.9",
+      "itens": "9017",
+      "erros": "370"
+    },
+    "sicro3": {
+      "precisao": "100.0",
+      "itens": "2191",
+      "erros": "0"
+    },
+    "emop": {
+      "precisao": "95.79",
+      "itens": "5300",
+      "erros": "223"
+    },
+    "sinapi": {
+      "precisao": "99.8",
+      "itens": "4937",
+      "erros": "10"
+    },
+    "seinfra": {
+      "precisao": "95.49",
+      "itens": "11828",
+      "erros": "533"
+    },
+    "precisao_geral": "96.59"
+  },
+  "sinapi": {
+    "sbc": {
+      "precisao": "97.08",
+      "itens": "9017",
+      "erros": "263"
+    },
+    "sicro3": {
+      "precisao": "83.34",
+      "itens": "2191",
+      "erros": "365"
+    },
+    "emop": {
+      "precisao": "95.79",
+      "itens": "5300",
+      "erros": "223"
+    },
+    "sinapi": {
+      "precisao": "99.9",
+      "itens": "4937",
+      "erros": "5"
+    },
+    "seinfra": {
+      "precisao": "95.71",
+      "itens": "11828",
+      "erros": "508"
+    },
+    "precisao_geral": "95.9"
+  },
+  "sbc_sinapi": {
+    "sbc": {
+      "precisao": "99.98",
+      "itens": "9017",
+      "erros": "2"
+    },
+    "sicro3": {
+      "precisao": "80.83",
+      "itens": "2191",
+      "erros": "420"
+    },
+    "emop": {
+      "precisao": "90.06",
+      "itens": "5300",
+      "erros": "527"
+    },
+    "sinapi": {
+      "precisao": "99.74",
+      "itens": "4937",
+      "erros": "13"
+    },
+    "seinfra": {
+      "precisao": "95.82",
+      "itens": "11828",
+      "erros": "494"
+    },
+    "precisao_geral": "95.62"
+  },
+  "sbc_sicro3_sinapi": {
+    "sbc": {
+      "precisao": "99.97",
+      "itens": "9017",
+      "erros": "3"
+    },
+    "sicro3": {
+      "precisao": "99.73",
+      "itens": "2191",
+      "erros": "6"
+    },
+    "emop": {
+      "precisao": "91.62",
+      "itens": "5300",
+      "erros": "444"
+    },
+    "sinapi": {
+      "precisao": "99.7",
+      "itens": "4937",
+      "erros": "15"
+    },
+    "seinfra": {
+      "precisao": "95.86",
+      "itens": "11828",
+      "erros": "490"
+    },
+    "precisao_geral": "97.12"
+  }
+}
