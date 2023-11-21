@@ -47,10 +47,10 @@ class Argumentos:
 			exit()		
 
 def comparador(base):
-	file_path_previsao = f"./arquivos/previsoes/previsao_{base}.json"
-	file_path_original = f"./arquivos/bases/{base}.json"
+	caminho_arquivo_previsao = f"./arquivos/previsoes/previsao_{base}.json"
+	caminho_arquivo_original = f"./arquivos/bases/{base}.json"
 
-	with open(file_path_previsao, 'r') as file_previsao, open(file_path_original, 'r') as file_original:
+	with open(caminho_arquivo_previsao, 'r') as file_previsao, open(caminho_arquivo_original, 'r') as file_original:
 		previsao = json.load(file_previsao)
 		original = json.load(file_original)
 
@@ -86,24 +86,36 @@ def gerar_log(args):
 			original = json.load(file)
 
 		scikit_learn.preditor(args.modelo, base)
-		file_path_previsao = f"./arquivos/previsoes/previsao_{base}.json"
-		file_path_original = f"./arquivos/bases/{base}.json"
+		caminho_arquivo_previsao = f"./arquivos/previsoes/previsao_{base}.json"
+		caminho_arquivo_original = f"./arquivos/bases/{base}.json"
 
-		with open(file_path_previsao, 'r') as file_previsao, open(file_path_original, 'r') as file_original:
-			previsao = json.load(file_previsao)
-			original = json.load(file_original)
+		with open(caminho_arquivo_previsao, 'r') as arquivo_previsao, open(caminho_arquivo_original, 'r') as arquivo_original:
+			previsao = json.load(arquivo_previsao)
+			original = json.load(arquivo_original)
 
+		array_tipos = ["", "equipamento", "permanente", "mão de obra", "material", "serviços", "taxas", "outros"]
 		erros = 0
+		mensagens = []
+
 		for codigo, valor in previsao.items():
 			if original[codigo]["tipo"] != valor["tipo"]:
+				descricao = original[codigo]['descricao']
+				tipo_preditor = valor['tipo']
+				tipo_original = original[codigo]['tipo'] 
+				if valor['tipo'] <= 7:
+					tipo_preditor = array_tipos[valor['tipo']]
+				if original[codigo]['tipo'] <= 7:
+					tipo_original = array_tipos[original[codigo]['tipo']]
+				mensagens.append({"codigo": f"{codigo}", "descricao": f"{descricao}", "preditor": f"{tipo_preditor}", "original": f"{tipo_original}"})
 				erros += 1
 
 		itens_totais = len(previsao)
 		precisao = round(100 - (erros / itens_totais * 100), 2)
 		novo_log[base] = {}
+		novo_log[base]["erros"] = mensagens
 		novo_log[base]["precisao"] = str(precisao)
 		novo_log[base]["itens"] = str(itens_totais)
-		novo_log[base]["erros"] = str(erros)
+		novo_log[base]["n_erros"] = str(erros)
 
 	novo_log["precisao_geral"] = calcular_precisao_geral(novo_log)
 
@@ -115,7 +127,7 @@ def calcular_precisao_geral(hash):
 	erros = 0
 	itens = 0
 	for _, sub_hash in hash.items():
-		erros += int(sub_hash["erros"])
+		erros += int(sub_hash["n_erros"])
 		itens += int(sub_hash["itens"])
 	return str(round(100 - (erros / itens * 100), 2))
 

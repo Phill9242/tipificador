@@ -17897,7 +17897,7 @@
   },
   "005141": {
     "descricao": "COMPRESSOR DE AR 60PCM",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "H",
     "preco_desonerado": 30.06,
     "preco_onerado": 30.06,
@@ -27369,7 +27369,7 @@
   },
   "003655": {
     "descricao": "ENCARREGADO DE OBRAS",
-    "tipo": 3,
+    "tipo": 4,
     "unidade": "H",
     "preco_desonerado": 11.04,
     "preco_onerado": 11.04,
@@ -27457,7 +27457,7 @@
   },
   "089998": {
     "descricao": "ENGENHEIRO AMBIENTAL SENIOR",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 36.36,
     "preco_onerado": 36.36,
@@ -33521,7 +33521,7 @@
   },
   "030577": {
     "descricao": "GRADE ARADORA DE DISCOS BALDAN 10\"x32\"",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 3.53,
     "preco_onerado": 3.53,
@@ -45009,7 +45009,7 @@
   },
   "031072": {
     "descricao": "MAQUINA DEMARC.FAIXAS TRAFEGO CONSMAQ FX-10D",
-    "tipo": 3,
+    "tipo": 4,
     "unidade": "H",
     "preco_desonerado": 36.2,
     "preco_onerado": 36.2,
@@ -45289,7 +45289,7 @@
   },
   "030644": {
     "descricao": "MARTELO ROMPEDOR BOSCH ELETRICO 1250W",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 24.0,
     "preco_onerado": 24.0,

@@ -361,7 +361,7 @@
   },
   "00093": {
     "descricao": "MAQUINA DEMARCADORA DE FAIXA,C/3 PISTOLAS E 2 TANQUES PARA TINTA COM CAP.MIN.200L CADA,M.DIESEL 30HP,CAP.COMP.2240L/MIN",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 442900.0,
     "preco_onerado": 442900.0,
@@ -369,7 +369,7 @@
   },
   "00094": {
     "descricao": "DUMPER, PRECO S/PNEUS, C/MOTOR DIESEL DE18HP-2750RPM, CACAMBA DE (1300X1660X780)MM, CARGA SOLIDA DE 1000L",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 123785.0,
     "preco_onerado": 123785.0,
@@ -449,7 +449,7 @@
   },
   "00113": {
     "descricao": "BOMBA MANUAL, PARA CONCRETO PROTENDIDO (ALUGUEL)",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "DIA",
     "preco_desonerado": 90.0,
     "preco_onerado": 90.0,
@@ -1201,7 +1201,7 @@
   },
   "00341": {
     "descricao": "PA CARREGADEIRA DE PNEUS, PRECO SEM PNEUS, PESO EM TORNO DE 18T, MOTOR DIESEL EMTORNO DE 183CV, PA CAPAC. APROX. 3,10M3",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 1316936.84,
     "preco_onerado": 1316936.84,
@@ -1761,7 +1761,7 @@
   },
   "00526": {
     "descricao": "CILINDRO HIDRAULICO DE DUPLA ACAO C/CAPAC.300 TONELADAS, RETORNO HIDRAULICO, COMANDO MANUAL DIST.DOTADO BOMBA A GASOLINA",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 464330.0,
     "preco_onerado": 464330.0,
@@ -2041,7 +2041,7 @@
   },
   "00598": {
     "descricao": "MAQUINA FRESADORA A FRIO, C/LARGURA DE FRESAGEM DE 1,00M, CAPAC.DO MOTOR 105KW EDESEMP.FRESAGEM 150,00 A 500,00M2/H",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 2200000.0,
     "preco_onerado": 2200000.0,
@@ -2065,7 +2065,7 @@
   },
   "00607": {
     "descricao": "CONJUNTO MOVEL DE BRITAGEM,TRANSPORTAVEL,CAP.80T/H DE BRITA,COMPREENDENDO TREMONHA E ALIM,BRIT,PENEIRA,TRANSP E CALHA VI",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 7515807.0,
     "preco_onerado": 7515807.0,
@@ -2641,7 +2641,7 @@
   },
   "00796": {
     "descricao": "AGUA MINERAL 20L EXCLUSIVE GARRAFAO",
-    "tipo": 4,
+    "tipo": 7,
     "unidade": "UN",
     "preco_desonerado": 0.0,
     "preco_onerado": 0.0,
@@ -2793,7 +2793,7 @@
   },
   "00862": {
     "descricao": "BOMBA HIDRAULICA CENTRIFUGA, COM MOTOR ELETRICO, DE 05,0CV-220/380V",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 4426.9,
     "preco_onerado": 4426.9,
@@ -2873,7 +2873,7 @@
   },
   "00889": {
     "descricao": "COMPRESSOR DE AR PORTATIL E REBOCAVEL, P. TRAB. APROX. 102PSI, C/MOTOR DIESEL 077CV E DESC. LIVRE EFET. APROX. 295PCM",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 192870.13,
     "preco_onerado": 192870.13,
@@ -3041,7 +3041,7 @@
   },
   "00961": {
     "descricao": "EQUIPAMENTO DE CONCR.PROJ., ACIONAM.ELETR.10CV,MISTURA (VIA) SECA,DIST.TRANSP.HORIZ.500,00M, VERT.100,00, P/MANGOTE 2\"",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 114250.0,
     "preco_onerado": 114250.0,
@@ -3057,7 +3057,7 @@
   },
   "00971": {
     "descricao": "BOMBA HIDRAULICA CENTRIFUGA, COM MOTOR ELETRICO, DE 01,0CV-110/220V",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 882.5,
     "preco_onerado": 882.5,
@@ -3065,7 +3065,7 @@
   },
   "00972": {
     "descricao": "BOMBA HIDRAULICA CENTRIFUGA, COM MOTOR ELETRICO, DE 01,5CV-110/220V",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 1424.39,
     "preco_onerado": 1424.39,
@@ -3073,7 +3073,7 @@
   },
   "00973": {
     "descricao": "BOMBA HIDRAULICA CENTRIFUGA, COM MOTOR ELETRICO, DE 0,75CV-110/220V",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 785.17,
     "preco_onerado": 785.17,
@@ -3113,7 +3113,7 @@
   },
   "00982": {
     "descricao": "BOMBA HIDRAULICA OU CENTRIFUGA, COM MOTOR ELETRICO, DE 10,0CV-220/380V",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 7489.95,
     "preco_onerado": 7489.95,
@@ -3121,7 +3121,7 @@
   },
   "00985": {
     "descricao": "BOMBA HIDRAULICA CENTRIFUGA, COM MOTOR ELETRICO, DE 0,50CV-110/220V",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 772.19,
     "preco_onerado": 772.19,
@@ -3185,7 +3185,7 @@
   },
   "01301": {
     "descricao": "MOTONIVELADORA, PRECO SEM PNEUS, COM PESO OPERACIONAL EM TORNO DE 18T, COM MOTORDIESEL EM TORNO DE 125CV",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 1264890.09,
     "preco_onerado": 1264890.09,
@@ -3193,7 +3193,7 @@
   },
   "01305": {
     "descricao": "PA CARREGADEIRA DE PNEUS, PRECO SEM PNEUS, PESO EM TORNO DE 12T, MOTOR DIESEL EMTORNO DE 121CV, PA CAPAC. APROX. 1,30M3",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 721364.84,
     "preco_onerado": 721364.84,
@@ -3201,7 +3201,7 @@
   },
   "01307": {
     "descricao": "TRATOR DE ESTEIRAS COM POTENCIA EM TORNODE 200HP, COM LAMINA E ESCARIFICADOR",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 1975000.0,
     "preco_onerado": 1975000.0,
@@ -3209,7 +3209,7 @@
   },
   "01309": {
     "descricao": "TRATOR DE ESTEIRAS COM POTENCIA EM TORNODE 315HP, SEM LAMINA, SEM ESCARIFICADOR",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 4650380.86,
     "preco_onerado": 4650380.86,
@@ -3217,7 +3217,7 @@
   },
   "01310": {
     "descricao": "TRATOR DE ESTEIRAS COM POTENCIA EM TORNODE 315HP, COM LAMINA, SEM ESCARIFICADOR",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 5040952.26,
     "preco_onerado": 5040952.26,
@@ -3225,7 +3225,7 @@
   },
   "01311": {
     "descricao": "TRATOR DE ESTEIRAS COM POTENCIA EM TORNODE 315HP, COM LAMINA E ESCARIFICADOR",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 4824518.74,
     "preco_onerado": 4824518.74,
@@ -3233,7 +3233,7 @@
   },
   "01314": {
     "descricao": "MAQUINA POLIDORA, 4HP-12A/220V",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 7713.67,
     "preco_onerado": 7713.67,
@@ -3249,7 +3249,7 @@
   },
   "01316": {
     "descricao": "DISTRIBUIDOR DE BETUME (ASFALTO), PRECOS/PNEUS, SOB PRESSAO, C/MOTOR A GASOL.CAPAC.EFETIVA TANQUE 5.000L,M.DIESEL 132CV",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 433136.63,
     "preco_onerado": 433136.63,
@@ -3257,7 +3257,7 @@
   },
   "01320": {
     "descricao": "VIBRO-ACABADORA DE ASFALTO, SOBRE ESTEIRA, C/MOTOR DIESEL DE 69CV (2.000RPM) C/EXT. P/PAVIMENTACAO DE 4,27M DE LARG.",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 1650000.0,
     "preco_onerado": 1650000.0,
@@ -3265,7 +3265,7 @@
   },
   "01322": {
     "descricao": "GRADE ARADORA MECANICA, C/NUM.DE DISCO 24, LARG.DO CORTE 250CM, E EIXO DE 1.5/8\", POT.MOTOR 120 A 130CV, ESPES.230MM",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 37142.0,
     "preco_onerado": 37142.0,
@@ -3273,7 +3273,7 @@
   },
   "01323": {
     "descricao": "GUINDAUTO MONTADO SOBRE CHASSIS DE CAMINHAO, EXCLUSIVE O CHASSIS, CAPACIDADE DE3,5T",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 129950.0,
     "preco_onerado": 129950.0,
@@ -3281,7 +3281,7 @@
   },
   "01328": {
     "descricao": "TRATOR DE ESTEIRAS COM POTENCIA EM TORNODE 80CV, COM LAMINA E ESCARIFICADOR",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 1422000.0,
     "preco_onerado": 1422000.0,
@@ -3289,7 +3289,7 @@
   },
   "01329": {
     "descricao": "TRATOR DE ESTEIRAS COM POTENCIA EM TORNODE 140CV, COM LAMINA E ESCARIFICADOR",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 1760000.0,
     "preco_onerado": 1760000.0,
@@ -3297,7 +3297,7 @@
   },
   "01332": {
     "descricao": "ROMPEDOR PNEUMATICO (MARTELETE), COM 32,6KG DE PESO, CONSUMO DE AR 38,8L/S, FREQUENCIA IMPACTO 1.100 IMP/MIN.",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 9607.27,
     "preco_onerado": 9607.27,
@@ -3305,7 +3305,7 @@
   },
   "01334": {
     "descricao": "INJETOR P/ARGAMASSA OU AREIA, COM MISTURADOR VERTICAL, MOTOR ELETRICO E CHASSIS",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 290000.0,
     "preco_onerado": 290000.0,
@@ -3313,7 +3313,7 @@
   },
   "01337": {
     "descricao": "MAQUINA DE SOLDA A ARCO, 375A, COM MOTORDIESEL 33CV A 1.800RPM, MONTADA SOBRE CARRETA DE 2 RODAS",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 107535.09,
     "preco_onerado": 107535.09,
@@ -3481,7 +3481,7 @@
   },
   "01400": {
     "descricao": "BOMBA DE ALTA PRESSAO, ELETRICA, PARA CONCRETO PROTENDIDO (ALUGUEL)",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "DIA",
     "preco_desonerado": 165.0,
     "preco_onerado": 165.0,
@@ -3489,7 +3489,7 @@
   },
   "01401": {
     "descricao": "BOMBA ELETRICA, PARA CONCRETO PROTENDIDO(ALUGUEL)",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "DIA",
     "preco_desonerado": 165.0,
     "preco_onerado": 165.0,
@@ -3593,7 +3593,7 @@
   },
   "01420": {
     "descricao": "MICRO TRATOR A MOTOR, COM APARADOR DE GRAMA, INCLUSIVE VARREDURA E RECOLHIMENTODE ENTULHO",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 12294.78,
     "preco_onerado": 12294.78,
@@ -3601,7 +3601,7 @@
   },
   "01422": {
     "descricao": "BOMBA P/ARGAMASSA, COM UNIDADE MISTURADORA E BOMBEADORA ACOPLADAS P/900 A 4.800LITROS DE MISTURA SECA, C/MOTOR ELETRICO",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 290000.0,
     "preco_onerado": 290000.0,
@@ -3609,7 +3609,7 @@
   },
   "01423": {
     "descricao": "BOMBA INJETORA MANUAL, INCLUINDO TANQUE,PARA CALDA DE CIMENTO, COM PALHETA MISTURADORA",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 14333.105,
     "preco_onerado": 14333.105,
@@ -3617,7 +3617,7 @@
   },
   "01424": {
     "descricao": "COMPRESSOR DE AR PORTATIL E REBOCAVEL, P. TRAB. APROX. 102PSI, C/MOTOR DIESEL 040CV E DESC. LIVRE EFET. APROX. 200PCM",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 166942.11,
     "preco_onerado": 166942.11,
@@ -3625,7 +3625,7 @@
   },
   "01425": {
     "descricao": "COMPRESSOR DE AR PORTATIL E REBOCAVEL, P. TRAB. APROX. 102PSI, C/MOTOR DIESEL 108CV E DESC. LIVRE EFETIVA APROX. 400 PCM",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 333422.64,
     "preco_onerado": 333422.64,
@@ -3633,7 +3633,7 @@
   },
   "01428": {
     "descricao": "CAMINHAO BASCULANTE, NO TOCO, PRECO SEMPNEUS, CAPACIDADE DE 5,00M3",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 442159.38,
     "preco_onerado": 442159.38,
@@ -3649,7 +3649,7 @@
   },
   "01433": {
     "descricao": "BETONEIRA PARA 320 LITROS DE MISTURA SECA, SEM CARREGAMENTO MECANICO E TAMBOR REVERSIVEL, COM MOTOR ELETRICO",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 4398.09,
     "preco_onerado": 4398.09,
@@ -3657,7 +3657,7 @@
   },
   "01434": {
     "descricao": "BETONEIRA PARA 320 LITROS DE MISTURA SECA, SEM CARREGAMENTO MECANICO E TAMBOR REVERSIVEL, COM MOTOR A GASOLINA",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 10050.0,
     "preco_onerado": 10050.0,
@@ -3665,7 +3665,7 @@
   },
   "01435": {
     "descricao": "DISCO ELETRICO, PARA COMPACTAR E DESEMPENAR  PISOS DE CONCRETO, COM MOTOR DE 2CV, 4 POLOS, 220/380V",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 10504.97,
     "preco_onerado": 10504.97,
@@ -3673,7 +3673,7 @@
   },
   "01436": {
     "descricao": "DESEMPENADEIRA ELETRICA P/ACABAMENTO DEPISOS DE CONCRETO, COMPACTADORA E ADENSADORA, COM MOTOR DE 2CV, 4 POLOS 220/380V",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 6458.1,
     "preco_onerado": 6458.1,
@@ -3681,7 +3681,7 @@
   },
   "01437": {
     "descricao": "COMPRESSOR DE AR ESTACIONARIO, C/MOTOR ELETRICO, P. TRAB. APROX. 145PSI E DESC.LIVRE EFETIVA  APROX. 700PCM",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 566850.31,
     "preco_onerado": 566850.31,
@@ -3689,7 +3689,7 @@
   },
   "01438": {
     "descricao": "MOTOR DIESEL DE 165CV A 1.800RPM, EM SERVICO CONTINUO, CARGA VARIAVEL COM BASE,RAD.E BATERIAS P/SER ACOPL.A COMPR.FIXO",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 91600.0,
     "preco_onerado": 91600.0,
@@ -3705,7 +3705,7 @@
   },
   "01440": {
     "descricao": "GRUPO GER. ABERTO TRIF.220/127V,FREQ.50/60HZ C/REG.TEN.FREQ.AUT.QUADRO COM.MAN.TANQUE COMB.POT.145/125KVA INT./CONT",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 112430.0,
     "preco_onerado": 112430.0,
@@ -3713,7 +3713,7 @@
   },
   "01441": {
     "descricao": "PERFURATRIZ PNEUMATICA, C/26KG DE PESO (P/USO SUBTER.), CONS.DE AR 63L/S, FREQ.IMPACTOS 38 IMP/S,COMPR.71CM,DIAM.70MM",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 9455.5906,
     "preco_onerado": 9455.5906,
@@ -3721,7 +3721,7 @@
   },
   "01442": {
     "descricao": "AVANCO P/PERFURATRIZ PNEUM., C/23,5KG PESO, CONSUMO AR 56T, FREQUENCIA IMPACTOS34 IMP/S, COMPR.64CM, DIAM.PISTAO 65MM",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 12925.32,
     "preco_onerado": 12925.32,
@@ -3729,7 +3729,7 @@
   },
   "01443": {
     "descricao": "BOMBA COM MOTOR DIESEL PARA SONDAGEM",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 8900.0,
     "preco_onerado": 8900.0,
@@ -3737,7 +3737,7 @@
   },
   "01445": {
     "descricao": "SONDA A PERCUSSAO EQUIPADA P/ENSAIOS, COMPOSTA DE REENVIO COM CABEAMENTO REFRIGERADO DE 3\" A 6\"",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 58000.0,
     "preco_onerado": 58000.0,
@@ -3745,7 +3745,7 @@
   },
   "01446": {
     "descricao": "SONDA ROTATIVA, C/MOTOR A GASOLINA 30HP",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 334577.76,
     "preco_onerado": 334577.76,
@@ -3753,7 +3753,7 @@
   },
   "01448": {
     "descricao": "TALHA-GUINCHO MANUAL, C/CABO, ALAVANCA,CARRETEL E GANCHOS, SENDO C/CAPAC.ICAMENTO 4000KG,TRACAO 5000KG,PESO TALHA 30KG",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 3110.4357,
     "preco_onerado": 3110.4357,
@@ -3761,7 +3761,7 @@
   },
   "01450": {
     "descricao": "BOMBA SUBMERSA COM MOTOR ELETRICO, DE 5CV-220/380V, PARA POCOS PROFUNDOS",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 6848.47,
     "preco_onerado": 6848.47,
@@ -3769,7 +3769,7 @@
   },
   "01456": {
     "descricao": "CAMINHAO BETONEIRA, PRECO SEM PNEUS, CAPACIDADE DE 7,00M3",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 789932.3,
     "preco_onerado": 789932.3,
@@ -3777,7 +3777,7 @@
   },
   "01457": {
     "descricao": "CAMINHAO BETONEIRA, PRECO SEM PNEUS, CAPACIDADE DE 5,00M3",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 616932.3,
     "preco_onerado": 616932.3,
@@ -3785,7 +3785,7 @@
   },
   "01458": {
     "descricao": "BETONEIRA PARA 600 LITROS DE MISTURA SECA, COM CARREGAMENTO MECANICO E TAMBOR REVERSIVEL, COM MOTOR ELETRICO",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 38000.0,
     "preco_onerado": 38000.0,
@@ -3793,7 +3793,7 @@
   },
   "01459": {
     "descricao": "MISTURADOR HORIZONTAL CONCRETO, P/1000LDE MISTURA SECA, C/MOTOR ELETR.15CV, CARREG.AUTOM.,VELOC.TAMBOR 20RPM, ROD.FERRO",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 68206.73,
     "preco_onerado": 68206.73,
@@ -3833,7 +3833,7 @@
   },
   "01478": {
     "descricao": "GERADOR MONOFASICO A GASOLINA POTENCIA MAX. 2.5KVA, 110/220V, FREQ.60HZ",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 1972.48,
     "preco_onerado": 1972.48,
@@ -3841,7 +3841,7 @@
   },
   "01480": {
     "descricao": "GRUPO GER. ABERTO TRANSPORTAVEL TRIF.220/127V, FREQ.50/60HZ C/REG.TEN.FREQ.AUT.QUADRO COM.MAN.TANQUE COMB.POT.60/53KVA",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 87800.0,
     "preco_onerado": 87800.0,
@@ -3857,7 +3857,7 @@
   },
   "01484": {
     "descricao": "PERFURATRIZ PNEUMAT.23,5KG PESO (P/SERV.FURACAO DE FOGACHO, PERFUR.BANC.BAIXAS ESERV.SIMIL.)CONS.AR 56L/S,DIAM.PIS.65MM",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 7107.0,
     "preco_onerado": 7107.0,
@@ -3881,7 +3881,7 @@
   },
   "01487": {
     "descricao": "VASSOURA MECANICA REBOCAVEL, SEM ESCOVA,PRECO SEM PNEUS, LARGURA DE TRABALHO DE2,44M",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 78238.73,
     "preco_onerado": 78238.73,
@@ -3889,7 +3889,7 @@
   },
   "01488": {
     "descricao": "ESCOVA PARA VASSOURA MECANICA, CONJUNTODE 8 ESCOVAS",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 1904.0,
     "preco_onerado": 1904.0,
@@ -3897,7 +3897,7 @@
   },
   "01492": {
     "descricao": "REGUA VIBRADORA DUPLA, COM MOTOR A GASOLINA 4 TEMPOS, 4HP, COM ATE 6 METROS",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 5768.0,
     "preco_onerado": 5768.0,
@@ -3913,7 +3913,7 @@
   },
   "01557": {
     "descricao": "CARRETA P/PERF.SOBRE ESTEIRAS,PNEUMATICAFREQ.IMPACTOS 2.310/MIN, SIST.TRACAO ACIONADO POR MOTORES HIDRAUL.2 VELOCIDADES",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 286340.0,
     "preco_onerado": 286340.0,
@@ -3921,7 +3921,7 @@
   },
   "01558": {
     "descricao": "CAMINHAO TANQUE, PRECO SEM PNEUS, CAPACIDADE DE 10000 LITROS",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 508932.3,
     "preco_onerado": 508932.3,
@@ -3929,7 +3929,7 @@
   },
   "01559": {
     "descricao": "CAMINHAO TANQUE, PRECO SEM PNEUS, CAPACIDADE DE 15000 LITROS",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 534932.3,
     "preco_onerado": 534932.3,
@@ -3937,7 +3937,7 @@
   },
   "01560": {
     "descricao": "CAMINHAO TANQUE, PRECO SEM PNEUS, CAPACIDADE DE 20000 LITROS",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 575932.3,
     "preco_onerado": 575932.3,
@@ -3945,7 +3945,7 @@
   },
   "01561": {
     "descricao": "CARRETA (CAVALO + REBOQUE) TANQUE, PRECOSEM PNEUS, CAPACIDADE DE 30000 LITROS",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 815159.38,
     "preco_onerado": 815159.38,
@@ -4073,7 +4073,7 @@
   },
   "01584": {
     "descricao": "MOTOR 5CV C/UMA PONTA EIXO, C/ROSCA A ESQUERDA, DOTADO FLANGE DUPLO ZINC. P/FIXACAO SERRA CIRC.OU DISCO E PORCA FIXACAO",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 1389.38,
     "preco_onerado": 1389.38,
@@ -4097,7 +4097,7 @@
   },
   "01588": {
     "descricao": "CARRETA (CAVALO + REBOQUE) PARA TRANSPORTE PESADO, PRECO SEM PNEUS, REBAIXADO, CAPACIDADE PARA CARGA UTIL 30T",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 768242.15,
     "preco_onerado": 768242.15,
@@ -4105,7 +4105,7 @@
   },
   "01589": {
     "descricao": "CAMINHAO BASCULANTE, NO TOCO, PRECO SEMPNEUS, CAPACIDADE DE 7,00M3",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 527159.38,
     "preco_onerado": 527159.38,
@@ -4113,7 +4113,7 @@
   },
   "01590": {
     "descricao": "MAQUINA DE JUNTAS (SERRA P/CONCRETO), C/MOTOR A GAS.8,25CV, PART.MANUAIS, CHASSIS REFOR.,P/ACOM.SERRAS 14\",PRECO S/DISCO",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 5787.57,
     "preco_onerado": 5787.57,
@@ -4121,7 +4121,7 @@
   },
   "01592": {
     "descricao": "BETONEIRA PARA 600 LITROS DE MISTURA SECA, COM CARREGAMENTO MECANICO E TAMBOR REVERSIVEL, COM MOTOR DIESEL",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 40592.45,
     "preco_onerado": 40592.45,
@@ -4129,7 +4129,7 @@
   },
   "01593": {
     "descricao": "USINA PARA MISTURA A FRIO,50T/H,C/ALIM-DOSADOR FRIOS,ELEV,SILOTREMONHA,ALIM FINOS,MIST.E TANQUE P/ARM.EMULSAO,EXCL.ESTE",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 116445.0,
     "preco_onerado": 116445.0,
@@ -4137,7 +4137,7 @@
   },
   "01594": {
     "descricao": "USINA MOVEL DE MISTURA DE ASFALTO CONTINUA, COM CAPACIDADE DE PRODUCAO DE ATE 100T/H",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 3296000.0,
     "preco_onerado": 3296000.0,
@@ -4161,7 +4161,7 @@
   },
   "01597": {
     "descricao": "CAMINHAO TANQUE, PRECO SEM PNEUS, CAPACIDADE DE 6000 LITROS",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 405159.38,
     "preco_onerado": 405159.38,
@@ -4169,7 +4169,7 @@
   },
   "01598": {
     "descricao": "CAMINHAO BASCULANTE, NO TOCO, PRECO SEMPNEUS, CAPACIDADE DE 4,00M3",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 399159.38,
     "preco_onerado": 399159.38,
@@ -4185,7 +4185,7 @@
   },
   "01601": {
     "descricao": "CAMINHAO BASCULANTE EXCLUSIVAMENTE FORADE ESTRADA,CACAMBA DE FABRICA,CAPACIDADEMINIMA 30T CARGA UTIL, PRECO SEM PNEUS",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 1544470.15,
     "preco_onerado": 1544470.15,
@@ -4209,7 +4209,7 @@
   },
   "01901": {
     "descricao": "MAO-DE-OBRA DE SERVENTE PARA SERVICOS DECONSERVACAO, INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 15.22,
     "preco_onerado": 15.22,
@@ -4257,7 +4257,7 @@
   },
   "01909": {
     "descricao": "MAO-DE-OBRA DE AUXILIAR DE DESENHISTA, INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 24.48,
     "preco_onerado": 24.48,
@@ -4281,7 +4281,7 @@
   },
   "01913": {
     "descricao": "MAO-DE-OBRA DE AUXILIAR DE ALMOXARIFADO,INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 20.37,
     "preco_onerado": 20.37,
@@ -4289,7 +4289,7 @@
   },
   "01914": {
     "descricao": "MAO-DE-OBRA DE ESTAGIARIO DA CONSTRUCAOCIVIL, INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 13.25,
     "preco_onerado": 13.25,
@@ -4297,7 +4297,7 @@
   },
   "01915": {
     "descricao": "MAO-DE-OBRA DE ENGENHEIRO OU ARQUITETO JUNIOR, INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 112.66,
     "preco_onerado": 112.66,
@@ -4337,7 +4337,7 @@
   },
   "01920": {
     "descricao": "MAO-DE-OBRA DE PINTOR DE LETRAS, INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 26.73,
     "preco_onerado": 26.73,
@@ -4385,7 +4385,7 @@
   },
   "01927": {
     "descricao": "MAO-DE-OBRA DE CARPINTEIRO DE CARROCERIA, INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.0,
     "preco_onerado": 0.0,
@@ -4401,7 +4401,7 @@
   },
   "01929": {
     "descricao": "MAO-DE-OBRA DE BORRACHEIRO DE VIATURAS,INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.0,
     "preco_onerado": 0.0,
@@ -4409,7 +4409,7 @@
   },
   "01930": {
     "descricao": "MAO-DE-OBRA DE LANTERNEIRO, INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.0,
     "preco_onerado": 0.0,
@@ -4417,7 +4417,7 @@
   },
   "01931": {
     "descricao": "MAO-DE-OBRA DE PINTOR DE VIATURAS, INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.0,
     "preco_onerado": 0.0,
@@ -4425,7 +4425,7 @@
   },
   "01932": {
     "descricao": "MAO-DE-OBRA DE SOLDADOR DE VIATURAS, INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.0,
     "preco_onerado": 0.0,
@@ -4465,7 +4465,7 @@
   },
   "01937": {
     "descricao": "MAO-DE-OBRA DE ASFALTADOR, INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.0,
     "preco_onerado": 0.0,
@@ -4497,7 +4497,7 @@
   },
   "01941": {
     "descricao": "MAO-DE-OBRA DE MARROEIRO, INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 26.73,
     "preco_onerado": 26.73,
@@ -4521,7 +4521,7 @@
   },
   "01944": {
     "descricao": "MAO-DE-OBRA DE SOLDADOR DA CONSTRUCAO CIVIL, INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 28.76,
     "preco_onerado": 28.76,
@@ -4537,7 +4537,7 @@
   },
   "01946": {
     "descricao": "MAO-DE-OBRA DE AUXILIAR DE DESENHO TOPOGRAFICO, INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 24.48,
     "preco_onerado": 24.48,
@@ -4553,7 +4553,7 @@
   },
   "01948": {
     "descricao": "MAO-DE-OBRA DE SECCIONISTA, INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.0,
     "preco_onerado": 0.0,
@@ -4561,7 +4561,7 @@
   },
   "01949": {
     "descricao": "MAO-DE-OBRA DE NIVELADOR, INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 26.73,
     "preco_onerado": 26.73,
@@ -4569,7 +4569,7 @@
   },
   "01950": {
     "descricao": "MAO-DE-OBRA DE TOPOGRAFO A (SERVICOS DECAMPO E ESCRITORIO, COM RESPONSABILIDADEDE DIRIGI-LOS),INCLUSIVE ENCARGOS SOCIAI",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 36.94,
     "preco_onerado": 36.94,
@@ -4577,7 +4577,7 @@
   },
   "01951": {
     "descricao": "MAO-DE-OBRA DE DESENHISTA A (DESENHO TOPOGRAFICO A PARTIR DE CADERNETAS), INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 36.94,
     "preco_onerado": 36.94,
@@ -4585,7 +4585,7 @@
   },
   "01952": {
     "descricao": "MAO-DE-OBRA DE AUXILIAR DE CALCULO TOPOGRAFICO, INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 24.48,
     "preco_onerado": 24.48,
@@ -4593,7 +4593,7 @@
   },
   "01953": {
     "descricao": "MAO-DE-OBRA DE JARDINEIRO, INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 24.95,
     "preco_onerado": 24.95,
@@ -4641,7 +4641,7 @@
   },
   "01959": {
     "descricao": "MAO-DE-OBRA DE TECNICO DE SONDAGEM, INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 44.47,
     "preco_onerado": 44.47,
@@ -4689,7 +4689,7 @@
   },
   "01966": {
     "descricao": "MAO-DE-OBRA DE PINTOR, INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 26.73,
     "preco_onerado": 26.73,
@@ -4697,7 +4697,7 @@
   },
   "01967": {
     "descricao": "MAO-DE-OBRA DE CARPINTEIRO DE ESQUADRIASDE MADEIRA INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 28.76,
     "preco_onerado": 28.76,
@@ -4713,7 +4713,7 @@
   },
   "01969": {
     "descricao": "MAO-DE-OBRA DE OPERADOR DE MAQUINAS AUX.(COMPRESSOR, ROLO COMPACTADOR LEVE...),INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 26.73,
     "preco_onerado": 26.73,
@@ -4745,7 +4745,7 @@
   },
   "01973": {
     "descricao": "MAO-DE-OBRA DE MECANICO DE CAMINHAO E TRATOR, INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 30.02,
     "preco_onerado": 30.02,
@@ -4769,7 +4769,7 @@
   },
   "01976": {
     "descricao": "MAO-DE-OBRA DE MARMORISTA DE MARMORE E GRANITO, INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 26.73,
     "preco_onerado": 26.73,
@@ -4809,7 +4809,7 @@
   },
   "01981": {
     "descricao": "MAO-DE-OBRA DE MOTORISTA DE CAMINHAO E CARRETA, INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 26.73,
     "preco_onerado": 26.73,
@@ -4817,7 +4817,7 @@
   },
   "01982": {
     "descricao": "MAO-DE-OBRA DE ENCUNHADOR, INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 26.73,
     "preco_onerado": 26.73,
@@ -4841,7 +4841,7 @@
   },
   "01985": {
     "descricao": "MAO-DE-OBRA DE ENGENHEIRO OU ARQUITETO SENIOR, INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 225.33,
     "preco_onerado": 225.33,
@@ -4865,7 +4865,7 @@
   },
   "01988": {
     "descricao": "MAO-DE-OBRA DE DESENHISTA B (DESENHO DECADASTRO DE GALERIAS), INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 28.76,
     "preco_onerado": 28.76,
@@ -4873,7 +4873,7 @@
   },
   "01989": {
     "descricao": "MAO-DE-OBRA DE CAVOUQUEIRO, INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 26.73,
     "preco_onerado": 26.73,
@@ -4881,7 +4881,7 @@
   },
   "01990": {
     "descricao": "MAO-DE-OBRA DE CARPINTEIRO DE FORMA DE CONCRETO, INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 26.73,
     "preco_onerado": 26.73,
@@ -4897,7 +4897,7 @@
   },
   "01992": {
     "descricao": "MAO-DE-OBRA DE CALAFATE, INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 26.73,
     "preco_onerado": 26.73,
@@ -4905,7 +4905,7 @@
   },
   "01993": {
     "descricao": "MAO-DE-OBRA DE BOMBEIRO HIDRAULICO DA CONSTRUCAO CIVIL, INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 26.73,
     "preco_onerado": 26.73,
@@ -4929,7 +4929,7 @@
   },
   "01997": {
     "descricao": "MAO-DE-OBRA DE ASSENTADOR DE TUBOS (REDES SUBTERRANEAS), INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 26.73,
     "preco_onerado": 26.73,
@@ -4937,7 +4937,7 @@
   },
   "01998": {
     "descricao": "MAO-DE-OBRA DE ARMADOR DE CONCRETO ARMADO, INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 26.73,
     "preco_onerado": 26.73,
@@ -4985,7 +4985,7 @@
   },
   "02226": {
     "descricao": "COTACAO DA LIBRA ESTERLINA, VALOR COMERCIAL DE VENDA",
-    "tipo": 4,
+    "tipo": 7,
     "unidade": "UN",
     "preco_desonerado": 0.0,
     "preco_onerado": 0.0,
@@ -5649,7 +5649,7 @@
   },
   "02395": {
     "descricao": "AR CONDICIONADO, COM CAPACIDADE DE 18000BTU-220V",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 3510.98,
     "preco_onerado": 3510.98,
@@ -6337,7 +6337,7 @@
   },
   "02587": {
     "descricao": "FOGAO A GAS INDUSTRIAL, PINTADO, 3 BOCAS, GRELHA DE (30X30)CM, SEM FORNO",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 916.7,
     "preco_onerado": 916.7,
@@ -6345,7 +6345,7 @@
   },
   "02588": {
     "descricao": "FOGAO A GAS INDUSTRIAL, PINTADO, DE 4 BOCAS, GRELHA DE (30X30)CM, COM FORNO",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 1108.47,
     "preco_onerado": 1108.47,
@@ -6353,7 +6353,7 @@
   },
   "02589": {
     "descricao": "FOGAO A GAS INDUSTRIAL, PINTADO DE 2 BOCAS, GRELHA DE (30X30)CM, SEM FORNO",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 538.08,
     "preco_onerado": 538.08,
@@ -6857,7 +6857,7 @@
   },
   "02822": {
     "descricao": "BALANCA RODOVIARIA ELETRONICA, COM PLATAFORMA DE (18,00X3,00)M, COM CAPACIDADE DE 60T",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 92150.0,
     "preco_onerado": 92150.0,
@@ -7265,7 +7265,7 @@
   },
   "03500": {
     "descricao": "CAMINHAO BASCULANTE, NO TOCO, PRECO SEMPNEUS, CAPACIDADE DE 10,00M3",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 515932.3,
     "preco_onerado": 515932.3,
@@ -7273,7 +7273,7 @@
   },
   "03508": {
     "descricao": "CAMINHAO BASCULANTE TIPO MEDIO-PESADO, TRUCADO, PRECO SEM PNEUS, CAPACIDADE DE 12,00M3",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 569532.3,
     "preco_onerado": 569532.3,
@@ -7337,7 +7337,7 @@
   },
   "03529": {
     "descricao": "GUINDAUTO MONTADO SOBRE CHASSIS DE CAMINHAO, EXCLUSIVE O CHASSIS, CAPACIDADE DE4,1T",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 169000.0,
     "preco_onerado": 169000.0,
@@ -7353,7 +7353,7 @@
   },
   "03538": {
     "descricao": "BOMBA HIDRAULICA CENTRIFUGA, COM MOTOR ELETRICO, DE 02,0CV-220/380V",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 1524.3,
     "preco_onerado": 1524.3,
@@ -7361,7 +7361,7 @@
   },
   "03539": {
     "descricao": "BOMBA HIDRAULICA CENTRIFUGA, COM MOTOR ELETRICO, DE 03,0CV-220/380V",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 1817.85,
     "preco_onerado": 1817.85,
@@ -7385,7 +7385,7 @@
   },
   "03549": {
     "descricao": "VACUO SEWER-JET, COMPOSTO DE CHASSIS NOTOCO EQUIP.COMB.JATO D`AGUA ALTA PRES.C/VACUO, CAPTAC.MIN.ARMAZ.6,00M3,MANG.4\"",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 754159.38,
     "preco_onerado": 754159.38,
@@ -7921,7 +7921,7 @@
   },
   "03935": {
     "descricao": "FOGAO A GAS INDUSTRIAL, PINTADO, DE 6 BOCAS, GRELHA DE (30X30)CM, COM FORNO",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 1680.54,
     "preco_onerado": 1680.54,
@@ -9081,7 +9081,7 @@
   },
   "04648": {
     "descricao": "ARADO REVERSIVEL DE 3 DISCOS, ADAPTAVELA TRATOR, PARA PREPARO DE TERRENO",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 24900.0,
     "preco_onerado": 24900.0,
@@ -9089,7 +9089,7 @@
   },
   "04649": {
     "descricao": "GUINCHO CARREGADOR, ADAPTAVEL A TRATOR DE 45 A 75CV CATEGORIA II DE 800KG",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 2800.0,
     "preco_onerado": 2800.0,
@@ -9097,7 +9097,7 @@
   },
   "04650": {
     "descricao": "ROCADEIRA DESLOCAVEL, ADAPTAVEL A TRATORDE 45 A 75CV, CATEGORIA II",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 15900.0,
     "preco_onerado": 15900.0,
@@ -9105,7 +9105,7 @@
   },
   "04651": {
     "descricao": "ROCADEIRA COSTAL, MOTORIZADA, C/MOTOR AGASOLINA",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 938.12,
     "preco_onerado": 938.12,
@@ -9113,7 +9113,7 @@
   },
   "04652": {
     "descricao": "MOTO SERRA A GASOLINA, P/ABATE, DESGALHAMENTO E TORAGEM DE ARVORES",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 925.43,
     "preco_onerado": 925.43,
@@ -10993,7 +10993,7 @@
   },
   "05402": {
     "descricao": "CHUVEIRO ELETRICO, SENDO O CHUVEIRO EM PLASTICO, DE 110/220V",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 44.4,
     "preco_onerado": 44.4,
@@ -11001,7 +11001,7 @@
   },
   "05403": {
     "descricao": "AR CONDICIONADO, COM CAPACIDADE DE 30000BTU-220V",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 4259.17,
     "preco_onerado": 4259.17,
@@ -11009,7 +11009,7 @@
   },
   "05404": {
     "descricao": "AR CONDICIONADO, COM CAPACIDADE DE 07500BTU-110V",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 1175.68,
     "preco_onerado": 1175.68,
@@ -11017,7 +11017,7 @@
   },
   "05405": {
     "descricao": "AR CONDICIONADO, COM CAPACIDADE DE 10000BTU-110V",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 1447.91,
     "preco_onerado": 1447.91,
@@ -11561,7 +11561,7 @@
   },
   "05544": {
     "descricao": "BOMBA SUBMERSIVEL PARA AGUA SERVIDAS OULIMPAS, DE 0,50CV - 110/220V",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 2613.55,
     "preco_onerado": 2613.55,
@@ -11569,7 +11569,7 @@
   },
   "05545": {
     "descricao": "BOMBA SUBMERSIVEL PARA AGUAS SERVIDAS OULIMPAS, DE 1,0CV - 110/220V",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 2808.93,
     "preco_onerado": 2808.93,
@@ -11577,7 +11577,7 @@
   },
   "05546": {
     "descricao": "BOMBA SUBMERSIVEL, PARA AGUAS SERVIDAS OU LIMPAS, DE 2,0 - 220/380V",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 3405.8,
     "preco_onerado": 3405.8,
@@ -11585,7 +11585,7 @@
   },
   "05547": {
     "descricao": "BOMBA SUBMERSIVEL, PARA AGUAS SERVIDAS OU LIMPAS, DE 3,0CV - 220/380V",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 3758.99,
     "preco_onerado": 3758.99,
@@ -11593,7 +11593,7 @@
   },
   "05550": {
     "descricao": "BOMBA SUBMERSIVEL, PARA AGUAS FECAIS, ESGOTO DOMESTICO, DE 0,50CV - 220V",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 2445.27,
     "preco_onerado": 2445.27,
@@ -11601,7 +11601,7 @@
   },
   "05551": {
     "descricao": "BOMBA SUBMERSIVEL, PARA AGUAS FECAIS, ESGOTO DOMESTICO, DE 1,0CV - 220V",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 3962.92,
     "preco_onerado": 3962.92,
@@ -11609,7 +11609,7 @@
   },
   "05552": {
     "descricao": "BOMBA SUBMERSIVEL, PARA AGUAS FECAIS, ESGOTO E DOMESTICO, DE 2,00CV - 220V",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 4751.6,
     "preco_onerado": 4751.6,
@@ -12145,7 +12145,7 @@
   },
   "05652": {
     "descricao": "CHAVE GUARDA MOTOR, TRIFASICA, INCLUINDOCHAVE MAGNETICA COM RELE TERMICO E BOTOEIRA \"LIGA E DESLIGA\", ATE 3CV-220V",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 239.96,
     "preco_onerado": 239.96,
@@ -12153,7 +12153,7 @@
   },
   "05653": {
     "descricao": "CHAVE GUARDA MOTOR, TRIFASICA, INCLUINDOCHAVE MAGNETICA COM RELE TERMICO E BOTOEIRA \"LIGA E DESLIGA\", ATE 5CV-220V",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 316.75,
     "preco_onerado": 316.75,
@@ -12161,7 +12161,7 @@
   },
   "05654": {
     "descricao": "CHAVE GUARDA MOTOR, TRIFASICA, INCLUINDOCHAVE MAGNETICA COM RELE TERMICO E BOTOEIRA \"LIGA E DESLIGA\", ATE 7,5/10CV-220V",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 334.5,
     "preco_onerado": 334.5,
@@ -12897,7 +12897,7 @@
   },
   "05816": {
     "descricao": "ESCAVADEIRA HIDRAULICA DE ESTEIRA, PESOEM TORNO DE 17T, MOTOR DIESEL EM TORNO DE 111CV, CACAMBA CAPAC. APROX. DE 0,78M3",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 938500.0,
     "preco_onerado": 938500.0,
@@ -12905,7 +12905,7 @@
   },
   "05817": {
     "descricao": "RETROESCAVADEIRA, PRECO SEM PNEUS, PESOEM TORNO DE 7T, MOTOR DIESEL EM TORNO DE75CV, CAPAC. APROX. CACAMBA DE 0,76M3",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 428477.38,
     "preco_onerado": 428477.38,
@@ -12913,7 +12913,7 @@
   },
   "05818": {
     "descricao": "COMPACTADOR VIBRATORIO, PE-DE-CARNEIRO",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 592100.0,
     "preco_onerado": 592100.0,
@@ -12921,7 +12921,7 @@
   },
   "05820": {
     "descricao": "ROLO VIBRATORIO LISO, AUTO-PROPULSOR, COM MOTOR DIESEL DE 76HP, CAPAC.7T, LARG.TOTAL 2,015M",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 557700.0,
     "preco_onerado": 557700.0,
@@ -12929,7 +12929,7 @@
   },
   "05821": {
     "descricao": "USINA PRE-MISTURADORA DE SOLOS P/ESTABIL.DE BASE, CAPAC. 350 A 600T/H, CORREIA TRANSF.36\"X19,10M, EQUIP.COMPL. (USC-2)",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 3100000.0,
     "preco_onerado": 3100000.0,
@@ -12937,7 +12937,7 @@
   },
   "05824": {
     "descricao": "CARRETA (CAVALO + REBOQUE) PARA TRANSPORTE PESADO, PRECO SEM PNEUS, CAPACIDADE PARA CARGA UTIL 60/80T",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 1331242.15,
     "preco_onerado": 1331242.15,
@@ -14489,7 +14489,7 @@
   },
   "06916": {
     "descricao": "MAO-DE-OBRA DE ARTIFICE PARA ESTRUTURA DE CONCRETO, INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 28.76,
     "preco_onerado": 28.76,
@@ -14505,7 +14505,7 @@
   },
   "06918": {
     "descricao": "MAO-DE-OBRA DE CORTADOR CHAPA DE ACO (SERVI\u00c7O DE SINALIZACAO VERTICAL), INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 28.76,
     "preco_onerado": 28.76,
@@ -14513,7 +14513,7 @@
   },
   "06919": {
     "descricao": "MAO-DE-OBRA DE ESTAMPADOR DE SERVICOS DESINALIZA\u00c7\u00c3O VERTICAL, INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 28.76,
     "preco_onerado": 28.76,
@@ -14521,7 +14521,7 @@
   },
   "06920": {
     "descricao": "MAO DE OBRA DE RISCADOR (SERVICOS DE SINALIZACAO VERTICAL), INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 28.76,
     "preco_onerado": 28.76,
@@ -14681,7 +14681,7 @@
   },
   "07028": {
     "descricao": "AR CONDICIONADO, COM CAPACIDADE DE 12000BTU-110/220V",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 2345.22,
     "preco_onerado": 2345.22,
@@ -14745,7 +14745,7 @@
   },
   "07053": {
     "descricao": "BOMBA AUTO-ASPIRANTE PARA AGUA LIMPA, 1/3CV-110V",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 1019.7,
     "preco_onerado": 1019.7,
@@ -14753,7 +14753,7 @@
   },
   "07054": {
     "descricao": "BOMBA AUTO-ASPIRANTE PARA AGUA LIMPA, 1/2CV-110V",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 1112.4,
     "preco_onerado": 1112.4,
@@ -14761,7 +14761,7 @@
   },
   "07055": {
     "descricao": "BOMBA AUTO-ASPIRANTE PARA AGUA LIMPA, 1CV-110V",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 1204.77,
     "preco_onerado": 1204.77,
@@ -14769,7 +14769,7 @@
   },
   "07056": {
     "descricao": "BOMBA HIDRAULICA CENTRIFUGA, COM MOTOR ELETRICO, DE 0,33CV-110/220V",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 670.22,
     "preco_onerado": 670.22,
@@ -15465,7 +15465,7 @@
   },
   "07176": {
     "descricao": "VEICULO DE PASSEIO, PRECO SEM PNEUS, COMMOTOR 1.0 LITROS BI-COMBUSTIVEL (GASOLINA E ETANOL), 2 PORTAS E 5 PASSAGEIROS",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 61629.59,
     "preco_onerado": 61629.59,
@@ -16889,7 +16889,7 @@
   },
   "07573": {
     "descricao": "MINI PA CARREGADEIRA C/MOTOR DIESEL E CARGA OPERACIONAL DE APROX.629KG E ALT. DEDESCARGA DE APROX.2,4M",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 330876.09,
     "preco_onerado": 330876.09,
@@ -16921,7 +16921,7 @@
   },
   "07630": {
     "descricao": "CENTRAL DE AR COMPRIMIDO DUPLEX, COM VAZAO DE APROXIMADAMENTE 60M3/H, 02 COMPRESSORES COM POT. MEDIA DE APROX. 10HP",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 169575.0,
     "preco_onerado": 169575.0,
@@ -16929,7 +16929,7 @@
   },
   "07631": {
     "descricao": "CENTRAL DE AR COMPRIMIDO DUPLEX, COM VAZAO DE APROXIMADAMENTE 140M3/H, 02 COMPRESSORES COM POT. MEDIA DE APROX. 20HP",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 181570.0,
     "preco_onerado": 181570.0,
@@ -16937,7 +16937,7 @@
   },
   "07632": {
     "descricao": "CENTRAL DE VACUO DUPLEX, COM VAZAO DE APROXIMADAMENTE 26M3/H, 02 MOTO-BOMBAS DEVACUO COM POT. MEDIA DE APROX. 3HP",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 55800.0,
     "preco_onerado": 55800.0,
@@ -16945,7 +16945,7 @@
   },
   "07633": {
     "descricao": "CENTRAL DE VACUO DUPLEX, COM VAZAO DE APROXIMADAMENTE 53M3/H, 02 MOTO-BOMBAS DEVACUO COM POT. MEDIA DE APROX. 4HP",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 82400.0,
     "preco_onerado": 82400.0,
@@ -16953,7 +16953,7 @@
   },
   "07634": {
     "descricao": "CENTRAL DE VACUO DUPLEX, COM VAZAO DE APROXIMADAMENTE 92M3/H, 02 MOTO-BOMBAS DEVACUO COM POT. MEDIA DE APROX. 5HP",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 99000.0,
     "preco_onerado": 99000.0,
@@ -17937,7 +17937,7 @@
   },
   "07901": {
     "descricao": "CENTRAL DE AR COMPRIMIDO DUPLEX, COM VAZAO DE APROXIMADAMENTE 20M3/H, 02 COMPRESSORES COM POT. MEDIA DE APROX. 5,0HP",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 110150.0,
     "preco_onerado": 110150.0,
@@ -17945,7 +17945,7 @@
   },
   "07902": {
     "descricao": "CENTRAL DE AR COMPRIMIDO DUPLEX, COM VAZAO DE APRIXIMADAMENTE 40M3/H, 02  COMPRESSORES COM POT. MEDIA DE APROX. 7,5HP",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 155750.0,
     "preco_onerado": 155750.0,
@@ -17953,7 +17953,7 @@
   },
   "07903": {
     "descricao": "CENTRAL DE AR COMPRIMIDO DUPLEX, COM VAZAO DE APROX. 220M3/H, 02 COMPRESSORES COM POT. MEDIA DE APROX. 30HP",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 288000.0,
     "preco_onerado": 288000.0,
@@ -17961,7 +17961,7 @@
   },
   "07904": {
     "descricao": "CENTRAL DE AR COMPRIMIDO DUPLEX, COM VAZAO DE APROX. 360M3/H, 02 COMPRESSORES COM POT. MEDIA DE APROX. 50HP",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 407710.05,
     "preco_onerado": 407710.05,
@@ -17969,7 +17969,7 @@
   },
   "07905": {
     "descricao": "CENTRAL DE VACUO DUPLEX, COM VAZAO DE APROXIMADAMENTE 118M3/H, 02 MOTO-BOMBAS DEVACUO COM POT. MEDIA  DE APROX. 8HP",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 124000.0,
     "preco_onerado": 124000.0,
@@ -17977,7 +17977,7 @@
   },
   "07906": {
     "descricao": "CENTRAL DE VACUO DUPLEX, COM VAZAO DE APROXIMADAMENTE 160M3/H, 02 MOTO-BOMBAS DEVACUO COM POT. MEDIA DE APROX. 15HP",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 156000.0,
     "preco_onerado": 156000.0,
@@ -18665,7 +18665,7 @@
   },
   "08046": {
     "descricao": "MAO-DE-OBRA DE AUXILIAR DE ENFERMAGEM, INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 24.48,
     "preco_onerado": 24.48,
@@ -22689,7 +22689,7 @@
   },
   "10963": {
     "descricao": "MAO-DE-OBRA DE ARQUITETO OU ENGENHEIRO JUNIOR-PROJETO E CONSULTORIA, INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 125.92,
     "preco_onerado": 125.92,
@@ -22697,7 +22697,7 @@
   },
   "10964": {
     "descricao": "MAO-DE-OBRA DE ARQUITETO OU ENGENHEIRO PLENO-PROJETO E CONSULTORIA, INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 185.56,
     "preco_onerado": 185.56,
@@ -22705,7 +22705,7 @@
   },
   "10965": {
     "descricao": "MAO-DE-OBRA DE ARQUITETO OU ENGENHEIRO SENIOR DE CONSULTORIA, INCLUSIVE ENCARGOSSOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 265.09,
     "preco_onerado": 265.09,
@@ -22713,7 +22713,7 @@
   },
   "10966": {
     "descricao": "MAO-DE-OBRA DE BIOLOGO JUNIOR, PARA SERVICOS DE CONSULTORIA, INCLUSIVE ENCARGOSSOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 88.14,
     "preco_onerado": 88.14,
@@ -22721,7 +22721,7 @@
   },
   "10967": {
     "descricao": "MAO-DE-OBRA DE BIOLOGO PLENO, PARA SERVICOS DE CONSULTORIA, INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 129.9,
     "preco_onerado": 129.9,
@@ -22729,7 +22729,7 @@
   },
   "10968": {
     "descricao": "MAO-DE-OBRA DE BIOLOGO SENIOR, PARA SERVICOS DE CONSULTORIA, INCLUSIVE ENCARGOSSOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 185.56,
     "preco_onerado": 185.56,
@@ -22737,7 +22737,7 @@
   },
   "10969": {
     "descricao": "MAO-DE-OBRA DE AGRONOMO JUNIOR, PARA SERVICOS DE CONSULTORIA, INCLUSIVE ENCARGOSSOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 125.92,
     "preco_onerado": 125.92,
@@ -22745,7 +22745,7 @@
   },
   "10970": {
     "descricao": "MAO-DE-OBRA DE AGRONOMO PLENO, PARA SERVICOS DE CONSULTORIA, INCLUSIVE ENCARGOSSOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 185.56,
     "preco_onerado": 185.56,
@@ -22753,7 +22753,7 @@
   },
   "10971": {
     "descricao": "MAO-DE-OBRA DE AGRONOMO SENIOR, PARA SERVICOS DE CONSULTORIA, INCLUSIVE ENCARGOSSOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 265.09,
     "preco_onerado": 265.09,
@@ -22761,7 +22761,7 @@
   },
   "10972": {
     "descricao": "MAO-DE-OBRA DE GEOLOGO JUNIOR, PARA SERVICOS DE CONSULTORIA, INCLUSIVE ENCARGOSSOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 88.14,
     "preco_onerado": 88.14,
@@ -22769,7 +22769,7 @@
   },
   "10973": {
     "descricao": "MAO-DE-OBRA DE GEOLOGO PLENO, PARA SERVICOS DE CONSULTORIA, INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 129.9,
     "preco_onerado": 129.9,
@@ -22777,7 +22777,7 @@
   },
   "10974": {
     "descricao": "MAO-DE-OBRA DE GEOLOGO SENIOR, PARA SERVICOS DE CONSULTORIA, INCLUSIVE ENCARGOSSOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 185.56,
     "preco_onerado": 185.56,
@@ -22785,7 +22785,7 @@
   },
   "10975": {
     "descricao": "MAO-DE-OBRA DE ANALISTA AMBIENTAL, PARASERVICOS DE CONSULTORIA, INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 113.33,
     "preco_onerado": 113.33,
@@ -22793,7 +22793,7 @@
   },
   "10976": {
     "descricao": "MAO-DE-OBRA DE TECNICO ESPECIALIZADO, PARA SERVICOS DE CONSULTORIA, INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 59.18,
     "preco_onerado": 59.18,
@@ -22801,7 +22801,7 @@
   },
   "10977": {
     "descricao": "MAO-DE-OBRA DE AUXILIAR TECNICO, PARA SERVICOS DE CONSULTORIA, INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 27.7,
     "preco_onerado": 27.7,
@@ -22809,7 +22809,7 @@
   },
   "10978": {
     "descricao": "MAO-DE-OBRA DE SECRETARIA PARA SERVICOSDE CONSULTORIA, INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 42.81,
     "preco_onerado": 42.81,
@@ -22817,7 +22817,7 @@
   },
   "10979": {
     "descricao": "MAO-DE-OBRA DE ARQUITETO OU ENGENHEIRO COORDENADOR - SERVICOS DE CONSULTORIA, INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 304.86,
     "preco_onerado": 304.86,
@@ -22825,7 +22825,7 @@
   },
   "10980": {
     "descricao": "MAO-DE-OBRA DE DESENHISTA CADISTA JUNIOR-PROJETO E CONSULTORIA, INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 34.38,
     "preco_onerado": 34.38,
@@ -22833,7 +22833,7 @@
   },
   "10981": {
     "descricao": "MAO-DE-OBRA DE DESENHISTA CADISTA PLENO-PROJETO E CONSULTORIA, INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 39.29,
     "preco_onerado": 39.29,
@@ -22841,7 +22841,7 @@
   },
   "10982": {
     "descricao": "MAO-DE-OBRA DE DESENHISTA CADISTA SENIOR-PROJETO E CONSULTORIA, INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 49.11,
     "preco_onerado": 49.11,
@@ -22849,7 +22849,7 @@
   },
   "10983": {
     "descricao": "MAO-DE-OBRA DE PROJETISTA CADISTA JUNIOR-PROJETO E CONSULTORIA, INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 57.29,
     "preco_onerado": 57.29,
@@ -22857,7 +22857,7 @@
   },
   "10984": {
     "descricao": "MAO-DE-OBRA DE PROJETISTA CADISTA PLENO-PROJETO E CONSULTORIA, INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 65.48,
     "preco_onerado": 65.48,
@@ -22865,7 +22865,7 @@
   },
   "10985": {
     "descricao": "MAO-DE-OBRA DE PROJETISTA CADISTA SENIOR-PROJETO E CONSULTORIA, INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 81.85,
     "preco_onerado": 81.85,
@@ -22873,7 +22873,7 @@
   },
   "10986": {
     "descricao": "MAO-DE-OBRA DE ADVOGADO, PARA SERVICOS DE CONSULTORIA, INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 107.03,
     "preco_onerado": 107.03,
@@ -22889,7 +22889,7 @@
   },
   "10988": {
     "descricao": "MAO-DE-OBRA DE CONSULTOR, INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 357.87,
     "preco_onerado": 357.87,
@@ -22897,7 +22897,7 @@
   },
   "10989": {
     "descricao": "MAO-DE-OBRA DE PROGRAMADOR INFORMATICA JUNIOR, PARA SERVICOS DE CONSULTORIA, INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 51.63,
     "preco_onerado": 51.63,
@@ -22905,7 +22905,7 @@
   },
   "10990": {
     "descricao": "MAO-DE-OBRA DE PROGRAMADOR DE INFORMATICA PLENO, PARA SERVICOS DE CONSULTORIA, INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 59.18,
     "preco_onerado": 59.18,
@@ -22913,7 +22913,7 @@
   },
   "10991": {
     "descricao": "MAO-DE-OBRA DE PROGRAMADOR DE INFORMATICA SENIOR, PARA SERVICOS DE CONSULTORIA,INLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 74.29,
     "preco_onerado": 74.29,
@@ -22921,7 +22921,7 @@
   },
   "10992": {
     "descricao": "MAO-DE-OBRA DE ANALISTA DE SISTEMA JUNIOR, PARA SERVICOS DE CONSULTORIA, INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 70.51,
     "preco_onerado": 70.51,
@@ -22929,7 +22929,7 @@
   },
   "10993": {
     "descricao": "MAO-DE-OBRA DE ANALISTA DE SISTEMA PLENO, PARA SERVICOS DE CONSULTORIA, INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 80.59,
     "preco_onerado": 80.59,
@@ -22937,7 +22937,7 @@
   },
   "10994": {
     "descricao": "MAO-DE-OBRA DE ANALISTA DE SISTEMA SENIOR, PARA SERVICOS DE CONSULTORIA, INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 100.73,
     "preco_onerado": 100.73,
@@ -22945,7 +22945,7 @@
   },
   "10995": {
     "descricao": "MAO-DE-OBRA DE DIGITADOR, INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 24.48,
     "preco_onerado": 24.48,
@@ -23017,7 +23017,7 @@
   },
   "11017": {
     "descricao": "DISTANCIOMETRO ELETRONICO COMPLETO, ALUGUEL",
-    "tipo": 3,
+    "tipo": 4,
     "unidade": "H",
     "preco_desonerado": 2.5,
     "preco_onerado": 2.5,
@@ -23049,7 +23049,7 @@
   },
   "11022": {
     "descricao": "ENCADERNACAO ATE 100 FOLHAS",
-    "tipo": 4,
+    "tipo": 7,
     "unidade": "UN",
     "preco_desonerado": 0.0,
     "preco_onerado": 0.0,
@@ -23057,7 +23057,7 @@
   },
   "11024": {
     "descricao": "MAO-DE-OBRA DE MUSEOLOGO RESTAURADOR, INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 61.08,
     "preco_onerado": 61.08,
@@ -25313,7 +25313,7 @@
   },
   "11488": {
     "descricao": "PLATAFORMA P/TRANSPORTE VERTICAL, PERCURSO DE 4,00M, CAPAC. DE 230KG, VELOCIDADEDE 6M/MIN",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 37000.0,
     "preco_onerado": 37000.0,
@@ -26201,7 +26201,7 @@
   },
   "11692": {
     "descricao": "PROJETOR TIPO PRJ-07 (1XVS250W)",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 667.4456,
     "preco_onerado": 667.4456,
@@ -31617,7 +31617,7 @@
   },
   "13097": {
     "descricao": "ELEVADOR HIDRAULICO, CAPACIDADE PARA ATE6 PASSAGEIROS (450KG), VELOC. APROX. DE36M/MIN (0,60M/S), 2 PARADAS/ENTRADAS",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 143000.0,
     "preco_onerado": 143000.0,
@@ -31625,7 +31625,7 @@
   },
   "13098": {
     "descricao": "ELEVADOR HIDRAULICO, CAPACIDADE PARA ATE8 PASSAGEIROS (600KG), VELOC. APROX. DE36M/MIN (0,60M/S), 4 PARADAS/ENTRADAS",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 172000.0,
     "preco_onerado": 172000.0,
@@ -32033,7 +32033,7 @@
   },
   "13164": {
     "descricao": "RESERVATORIO EM FIBRA DE VIDRO OU POLIETILENO, C/CAPAC.EM TORNO DE 3000L,INCL.TAMPA DE VEDACAO C/ESCOTILHA E FIXADORES",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 2000.0,
     "preco_onerado": 2000.0,
@@ -32041,7 +32041,7 @@
   },
   "13165": {
     "descricao": "RESERVATORIO ENTERRADO PRFV,10.000L,DIM.APROX.(D=2,60M/A=2,00M),P/AGUA POTAVEL/APROV.A.CHUVA,ABNT NBR 15527,12217 E 8220",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 9476.0,
     "preco_onerado": 9476.0,
@@ -32049,7 +32049,7 @@
   },
   "13166": {
     "descricao": "RESERVATORIO ENTERRADO PRFV,20.000L,DIM.APROX.(D=3,00M/A=2,84M),P/AGUA POTAVEL/APROV.A.CHUVA,ABNT NBR 15527,12217 E 8220",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 16000.0,
     "preco_onerado": 16000.0,
@@ -32057,7 +32057,7 @@
   },
   "13167": {
     "descricao": "RESERVATORIO ENTERRADO PRFV,30.000L,DIM.APROX.(D=3,00M/A=4,26M),P/AGUA POTAVEL/APROV.A.CHUVA,ABNT NBR 15527,12217 E 8220",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 32960.0,
     "preco_onerado": 32960.0,
@@ -32065,7 +32065,7 @@
   },
   "13168": {
     "descricao": "RESERVATORIO METALICO PARA AGUA POTAVELESTILO TACA AGUA TOTAL, COM CAPACIDADE PARA 50M3",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 60770.0,
     "preco_onerado": 60770.0,
@@ -32073,7 +32073,7 @@
   },
   "13169": {
     "descricao": "RESERVATORIO METALICO PARA AGUA POTAVELESTILO TACA AGUA TOTAL, COM CAPACIDADE PARA 100M3",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 108438.4,
     "preco_onerado": 108438.4,
@@ -32081,7 +32081,7 @@
   },
   "13170": {
     "descricao": "BEBEDOURO ELETRICO,110/220V,DE MESA,P/GARRAFAO,EXCLUSIVE ESTE,C/DUAS SAIDAS,AGUAGELADA/TEMP.AMBIENTE,ABNT NBR 16236",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 360.4,
     "preco_onerado": 360.4,
@@ -32089,7 +32089,7 @@
   },
   "13171": {
     "descricao": "APARELHO DE AR CONDICIONADO DE 10.000BTU, 1HP, C/CONTROLE REMOTO",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 2006.44,
     "preco_onerado": 2006.44,
@@ -32097,7 +32097,7 @@
   },
   "13172": {
     "descricao": "APARELHO DE AR CONDICIONADO DE 12.000BTU, 1HP, COM CONTROLE REMOTO",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 2382.9362,
     "preco_onerado": 2382.9362,
@@ -32449,7 +32449,7 @@
   },
   "13257": {
     "descricao": "BOMBA HIDRAULICA CENTRIFUGA, COM MOTOR ELETRICO, POTENCIA DE 7,5CV, EXCLUSIVE ACESSORIOS",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 7317.84,
     "preco_onerado": 7317.84,
@@ -32465,7 +32465,7 @@
   },
   "13260": {
     "descricao": "SISTEMA DE PRESSURIZACAO DE REDE PARA COMBATE A INCENDIO COM BOMBA DE 10CV, 60HZ, DIAMETRO 3\"",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 0.0,
     "preco_onerado": 0.0,
@@ -32633,7 +32633,7 @@
   },
   "13284": {
     "descricao": "VENTILADOR DE PAREDE, OSCILANTE,DIAMETRO24\", MOTOR DE 1 A 6HP, ROTACAO 1150RPM,VAZAO 300M3/MINUTO, 110/220V",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 235.87,
     "preco_onerado": 235.87,
@@ -32641,7 +32641,7 @@
   },
   "13285": {
     "descricao": "CENTRAL DE GRAVACAO DIGITAL DE CFTV, 16CANAIS",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 511.86,
     "preco_onerado": 511.86,
@@ -32761,7 +32761,7 @@
   },
   "13302": {
     "descricao": "ESTACAO DE CHAMADA DE LEITO, HOSPITALAR,C/INTER.DE EMBUTIR C/COM.DE CHAMADAS, EMERG.PRES.FIX.SOBRE CX.4\"X4\" EMB.PAREDE",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 440.84,
     "preco_onerado": 440.84,
@@ -32777,7 +32777,7 @@
   },
   "13305": {
     "descricao": "CENTRAL DE ATENDIMENTO PARA POSTO DE ENFERMAGEM,SALAS/CENTROS CIRURGICOS,ATENDENDO ATE 20 LEITOS,C/SINAL.SONORA/LUMINOSA",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 2781.0,
     "preco_onerado": 2781.0,
@@ -33545,7 +33545,7 @@
   },
   "13502": {
     "descricao": "GUINDASTE ARTICULADO COM CAPACIDADE MAX.DE 30T/M E ALCANCE MAX. VERTICAL DO SOLO DE APROX. 17,0M, EXCLUSIVE CHASSIS",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 263300.0,
     "preco_onerado": 263300.0,
@@ -33553,7 +33553,7 @@
   },
   "13504": {
     "descricao": "GUINDASTE TIPO GRUA C/CAPACACIDADE DE CARGA DE 1200KG E TORRE TOTAL DE 27,00 METROS REFERENCIA ML 1025 SA SITI",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 895000.0,
     "preco_onerado": 895000.0,
@@ -33569,7 +33569,7 @@
   },
   "13508": {
     "descricao": "PLATAFORMA PANTOGRAFICA, C/CAP.DE TRABALHO ATE 10M ALT.,CAPAC.MAXIMA DE CARGA DISTRIB.3000KG, REF.PP-100-PANT-EL DA KABI",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 210000.0,
     "preco_onerado": 210000.0,
@@ -33577,7 +33577,7 @@
   },
   "13509": {
     "descricao": "PA CARREGADEIRA DE PNEUS, PRECO SEM PNEUS, PESO EM TORNO DE 23T, POTENCIA EM TORNO DE 287HP, PA CAPAC. APROX. DE 4,03M3",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 851364.84,
     "preco_onerado": 851364.84,
@@ -33585,7 +33585,7 @@
   },
   "13511": {
     "descricao": "ROMPEDOR HIDR. ADAPT.A RETROESCAVADEIRA(EXCL.ESTA) C/PESO OPERAC.435KG FREQ.IMPACTOS 400 A 1000BPM,INCL.PONT.84MM DIAME",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 65173.0,
     "preco_onerado": 65173.0,
@@ -33593,7 +33593,7 @@
   },
   "13512": {
     "descricao": "ROMPEDOR HIDRAULICO ADAPTAVEL A ESCAV.HIDRAULICA (EXCL.ESTA) C/PESO OPERAC.1700KG,FREQ.IMPACTOS 320 A 600BPM,130MM DIAM.",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 215511.0,
     "preco_onerado": 215511.0,
@@ -33601,7 +33601,7 @@
   },
   "13513": {
     "descricao": "ROLO COMPACTADOR DE UM CILINDRO, MOTOR 80HP, PESO 8.100KG, LARGURA DO CILINDRO 1676MM, PARA COMPACTACAO DE ASFALTO",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 750081.89,
     "preco_onerado": 750081.89,
@@ -33609,7 +33609,7 @@
   },
   "13514": {
     "descricao": "ROLO COMPACTADOR DE PNEUS, 7 RODAS, MOTOR 99HP, PESO 21.000KG, LARGURA DE ROLAGEM 1800MM, PARA COMPACTACAO DE ASFALTO",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 887800.0,
     "preco_onerado": 887800.0,
@@ -33617,7 +33617,7 @@
   },
   "13515": {
     "descricao": "ROLO COMPACTADOR DE PNEUS, 9 RODAS, MOTOR 99HP, PESO 14.000KG, LARGURA DE ROLAGEM 1760MM, PARA COMPACTACAO DE ASFALTO",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 933500.0,
     "preco_onerado": 933500.0,
@@ -33625,7 +33625,7 @@
   },
   "13516": {
     "descricao": "ROLO COMPACTADOR PE-DE-CARNEIRO DUPLO C/2 TAMBORES, TRACAO NECESSARIA 65CV, REF.CMV",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 260904.0,
     "preco_onerado": 260904.0,
@@ -33633,7 +33633,7 @@
   },
   "13517": {
     "descricao": "SISTEMA DE AQUEC.C/1 TANQUE FIXO 30.000LP/ASFALTO E 1 TANQUE DE 20.000L P/COMB., C/SIST.CIRC.ASFALTO",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 475000.0,
     "preco_onerado": 475000.0,
@@ -33641,7 +33641,7 @@
   },
   "13518": {
     "descricao": "USINA CONCRETO C/DOSADOR, MIST.P/4 AGREGADOS,VOL.CX 18M3,C/BALANCA AGREGADOS C/CAPAC.4500KG,REF.INDUMOVIL 70LL EXC.SILOS",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 658491.12,
     "preco_onerado": 658491.12,
@@ -33649,7 +33649,7 @@
   },
   "13519": {
     "descricao": "SILO DE ESTOCAGEM A GRANEL P/CIM.C/CAP.50T, CONSTR.CHAPA 3MM, ESTRUT.PERFIS LAMIN.PINTURA ANTIFERRUGINOSA",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 86042.6057,
     "preco_onerado": 86042.6057,
@@ -33657,7 +33657,7 @@
   },
   "13520": {
     "descricao": "SILO DE ESTOCAGEM GRANEL P/CIMENTO,C/CAPAC.100T, CONSTR.CHAPA 3MM, ESTRUT.PERFISLAMIN.ANTIFER.MOTIV. 1/2CV",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 110283.96,
     "preco_onerado": 110283.96,
@@ -33665,7 +33665,7 @@
   },
   "13521": {
     "descricao": "SILO DE ESTOCAGEM GRANEL P/CIM.CAP.120T,CONSTR.CHAPA 3MM,ESTRUT.PERFIS LAMIN.ANTIFER.MOTOVIBRADOR 1/2CV",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 290723.4037,
     "preco_onerado": 290723.4037,
@@ -33673,7 +33673,7 @@
   },
   "13522": {
     "descricao": "SILO DE AGREGADOS C/CAP.10M3, DOSAGEM AUTOMATICA ATRAVES DE CELULAS ELETR.CARGAE CARREG.POR SIST.ESTEIRAS",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 272313.7713,
     "preco_onerado": 272313.7713,
@@ -33681,7 +33681,7 @@
   },
   "13523": {
     "descricao": "SILO DE AGREGADOS C/CAP.40M3, DOSAGEM AUTOM.ATRAVES CELULAS ELETR.CARGA E CARREGAMENTO POR SIST.DE ESTEIRAS",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 365736.9401,
     "preco_onerado": 365736.9401,
@@ -33689,7 +33689,7 @@
   },
   "13524": {
     "descricao": "USINA CONCRETO C/DOS.P/5 AGREG.,VOL.CX 30M3, C/BAL.AGREG.C/CAPAC.7000KG, BAL.ALIM.1300KG,VOL.P/CICLO 3M3,H.NOM.120M3",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 712400.0,
     "preco_onerado": 712400.0,
@@ -33697,7 +33697,7 @@
   },
   "13531": {
     "descricao": "MOTOBOMBA AUTO-ESCORVANTE,GASOLINA,6,5CV,PARTIDA MANUAL,4 TEMPOS,VAZAO MAXIMA 60M3/H ATE 92M3/H,ALT.MANOMET. ATE 30MCA",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 1270.92,
     "preco_onerado": 1270.92,
@@ -33705,7 +33705,7 @@
   },
   "13537": {
     "descricao": "RETIFICADORA DE SOLDA ELETRICA DE 430A,MODELO TRR 2600, BANBOZZI OU SIMILAR",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 6312.87,
     "preco_onerado": 6312.87,
@@ -33713,7 +33713,7 @@
   },
   "13538": {
     "descricao": "EQUIPAMENTO PARA VIDEO INSP. NO INT. DECOLETORES E GALERIAS C/D. A PARTIR DE 400MM,DESLOC. ATE 100M,C/MALETA E MONITOR",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 30900.0,
     "preco_onerado": 30900.0,
@@ -33721,7 +33721,7 @@
   },
   "13539": {
     "descricao": "VASSOURA MECANICA, COM ASPIRACAO (SUCCAO) E ESCOVA, CAPACIDADE DE 4M3, EXCLUSIVECHASSIS DE CAMINHAO",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 1366465.44,
     "preco_onerado": 1366465.44,
@@ -33729,7 +33729,7 @@
   },
   "13540": {
     "descricao": "DISTRIBUIDOR (ESPARGIDOR) DE ASFALTO (BMB),M.DIESEL,POT. DE 92CV,CAP.APROX.TANQUE 10.000LTS,MONT.SOBRE CHASSIS CAMINHAO",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 1378942.0,
     "preco_onerado": 1378942.0,
@@ -33745,7 +33745,7 @@
   },
   "13544": {
     "descricao": "VALETADEIRA COM CAPACIDADE DE EXECUCAO DE VALAS EM TORNO DE 15CM DE LARGURA E 80CM DE PROFUNDIDADE",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 390341.39,
     "preco_onerado": 390341.39,
@@ -33753,7 +33753,7 @@
   },
   "13547": {
     "descricao": "VIBROACABADORA DE ASFALTO,SOBRE RODAS,CAPACIDADE APROX. SILO DE 10,5T,LARGURA APROX. DE 4,55M E POTENCIA APROX. DE 100CV",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 1156822.87,
     "preco_onerado": 1156822.87,
@@ -33761,7 +33761,7 @@
   },
   "13548": {
     "descricao": "KIT DO SISTEMA DE NIVELAMENTO ELETRONICOP/COMPLEMENTACAO DAS VIBRO ACABADORAS",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 99374.18,
     "preco_onerado": 99374.18,
@@ -33769,7 +33769,7 @@
   },
   "13569": {
     "descricao": "MAQUINA ROTATIVA P/PERF.POCOS PROFUNDOSREBAIXAMENTO, SOBRE CAMINHAO 12T (INCL.ESTE)",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 2471107.5,
     "preco_onerado": 2471107.5,
@@ -33833,7 +33833,7 @@
   },
   "13577": {
     "descricao": "MARTELO ELETRICO PERFURADOR ROTATIVO E DE IMPACTO, POTENCIA DE 750W, 3900 IMPACTOS POR MIN. P/PERF.DE CONCR.ATE 1\" DIAM.",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 453.1,
     "preco_onerado": 453.1,
@@ -34057,7 +34057,7 @@
   },
   "13630": {
     "descricao": "MAO-DE-OBRA DE RASTILHEIRO, INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 28.76,
     "preco_onerado": 28.76,
@@ -34105,7 +34105,7 @@
   },
   "13640": {
     "descricao": "MAO-DE-OBRA DE TECNICO A PARA OBRAS RODOVIARIAS, INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 44.47,
     "preco_onerado": 44.47,
@@ -34409,7 +34409,7 @@
   },
   "13731": {
     "descricao": "VEICULO DE PASSEIO, PRECO SEM PNEUS, COMMOTOR 1.6 LITROS BI-COMB (G+E), 4 P, 5P, C/AR COND, DIR HIDR E VID ELET DIANT",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 99141.59,
     "preco_onerado": 99141.59,
@@ -35113,7 +35113,7 @@
   },
   "13890": {
     "descricao": "MAO-DE-OBRA DE ENGENHEIRO SANITARISTA, PARA SERVICOS DE CONSULTORIA DE ENGENHARIA E ARQUIT., INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 185.56,
     "preco_onerado": 185.56,
@@ -35121,7 +35121,7 @@
   },
   "13891": {
     "descricao": "MAO-DE-OBRA DE ENGENHEIRO SANITARISTA, PARA SERVICOS DE CONSULTORIA DE ENGENHARIA E ARQUIT., EXCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 84.0,
     "preco_onerado": 84.0,
@@ -35129,7 +35129,7 @@
   },
   "13892": {
     "descricao": "MAO-DE-OBRA DE ADVOGADO, PARA SERVICOS DE CONSULTORIA DE ENGENHARIA E ARQUITETURA, EXCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 48.45,
     "preco_onerado": 48.45,
@@ -35137,7 +35137,7 @@
   },
   "13893": {
     "descricao": "MAO-DE-OBRA DE ANALISTA AMBIENTAL, PARASERVICOS DE CONSULTORIA DE ENGENHARIA EARQUIT., EXCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 51.3,
     "preco_onerado": 51.3,
@@ -35145,7 +35145,7 @@
   },
   "13894": {
     "descricao": "MAO-DE-OBRA DE ENFERMEIRO, INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 44.47,
     "preco_onerado": 44.47,
@@ -35209,7 +35209,7 @@
   },
   "13902": {
     "descricao": "MAO-DE-OBRA DE COZINHEIRO, INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 28.76,
     "preco_onerado": 28.76,
@@ -35217,7 +35217,7 @@
   },
   "13903": {
     "descricao": "BOMBA SUBMERSIVEL, PARA AGUAS SERVIDAS OU LIMPAS, DE 4,0CV - 220/380V",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 4106.57,
     "preco_onerado": 4106.57,
@@ -35657,7 +35657,7 @@
   },
   "13989": {
     "descricao": "EQUIPAMENTO SELF CONTAINED, CONDENSACAOA AR, 10TR",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 41077.13,
     "preco_onerado": 41077.13,
@@ -35665,7 +35665,7 @@
   },
   "13990": {
     "descricao": "EQUIPAMENTO SELF CONTAINED, CONDENSACAOA AR, 15TR",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 50287.21,
     "preco_onerado": 50287.21,
@@ -35673,7 +35673,7 @@
   },
   "13991": {
     "descricao": "EQUIPAMENTO SELF CONTAINED, CONDENSACAOA AR, 25TR",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 85560.0,
     "preco_onerado": 85560.0,
@@ -35681,7 +35681,7 @@
   },
   "13992": {
     "descricao": "EQUIPAMENTO SELF CONTAINED, CONDENSACAOA AR, 30TR",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 100027.0,
     "preco_onerado": 100027.0,
@@ -35689,7 +35689,7 @@
   },
   "13993": {
     "descricao": "EQUIPAMENTO SELF CONTAINED, CONDENSACAOA AR, 40TR",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 139863.0,
     "preco_onerado": 139863.0,
@@ -35697,7 +35697,7 @@
   },
   "13999": {
     "descricao": "EQUIPAMENTO CHILLER (RESFR.DE LIQUIDOS),CONDENSACAO A AR, REGIME DE TRAB.(TEMPER.) 0,1\u00baC (EVAP.) ATE 45\u00baC (COND.) 50TR",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 191640.32,
     "preco_onerado": 191640.32,
@@ -35705,7 +35705,7 @@
   },
   "14000": {
     "descricao": "EQUIPAMENTO CHILLER (RESFR.DE LIQUIDOS),CONDENSACAO A AR, REGIME DE TRAB.(TEMPER.) 0,1\u00baC (EVAP.) ATE 45\u00baC (COND.) 100TR",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 386462.56,
     "preco_onerado": 386462.56,
@@ -35713,7 +35713,7 @@
   },
   "14001": {
     "descricao": "EQUIPAMENTO CHILLER (RESFR.DE LIQUIDOS),CONDENSACAO A AR, REGIME DE TRAB.(TEMPER.) 0,1\u00baC (EVAP.) ATE 45\u00baC (COND.) 150TR",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 630667.69,
     "preco_onerado": 630667.69,
@@ -35721,7 +35721,7 @@
   },
   "14002": {
     "descricao": "EQUIPAMENTO CHILLER (RESFR.DE LIQUIDOS),CONDENSACAO A AR, REGIME DE TRAB.(TEMPER.) 0,1\u00baC (EVAP.) ATE 45\u00baC (COND.) 250TR",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 1077450.4866,
     "preco_onerado": 1077450.4866,
@@ -35761,7 +35761,7 @@
   },
   "14013": {
     "descricao": "MOTOCICLETA, 125 CILINDRADAS, X/E",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 15130.7,
     "preco_onerado": 15130.7,
@@ -35769,7 +35769,7 @@
   },
   "14015": {
     "descricao": "ESCAVADEIRA HIDRAULICA DE ESTEIRA, PESOEM TORNO DE 23T, MOTOR DIESEL EM TORNO DE 172HP, CACAMBA CAPAC. APROX. DE 1,14M3",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 1100419.4,
     "preco_onerado": 1100419.4,
@@ -35777,7 +35777,7 @@
   },
   "14016": {
     "descricao": "GUINDASTE ARTICULADO COM CAPACIDADE MAX.DE 20T/M E ALCANCE MAX. VERTICAL DO SOLO DE APROX. 17,0M, EXCLUSIVE CHASSIS",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 252088.58,
     "preco_onerado": 252088.58,
@@ -35785,7 +35785,7 @@
   },
   "14017": {
     "descricao": "GUINDASTE ARTICULADO COM CAPACIDADE MAX.DE 31T/M E ALCANCE MAX. VERTICAL DO SOLO DE APROX. 17,0M, EXCLUSIVE CHASSIS",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 263300.0,
     "preco_onerado": 263300.0,
@@ -35897,7 +35897,7 @@
   },
   "14120": {
     "descricao": "EQUIPAMENTO SELF CONTAINED, CONDENSACAOA AR, 20TR",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 66947.45,
     "preco_onerado": 66947.45,
@@ -35905,7 +35905,7 @@
   },
   "14122": {
     "descricao": "EQUIPAMENTO CHILLER (RESF LIQUIDOS), CONDENSACAO A AR, REGIME DE TRABALHO (TEMP). 0,1\u00baC (EVAPO) ATE 45\u00baC (COND), 200TR",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 772925.12,
     "preco_onerado": 772925.12,
@@ -35913,7 +35913,7 @@
   },
   "14126": {
     "descricao": "GRUPO GER. ABERTO TRIF.220/127V,FREQ.50/60HZ,C/REG.TEN.FREQ.AUT.QUADRO COM.AUT.TANQUE COMB.POT.75/60KVA INT./CONT",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 87800.0,
     "preco_onerado": 87800.0,
@@ -35921,7 +35921,7 @@
   },
   "14127": {
     "descricao": "GRUPO GER. ABERTO TRIF.220/127V,FREQ.50/60HZ,C/REG.TEN.FREQ.AUT.QUADRO COM.MAN.TANQUE COMB.POT.75/60KVA INT./CONT",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 86630.0,
     "preco_onerado": 86630.0,
@@ -35929,7 +35929,7 @@
   },
   "14128": {
     "descricao": "GRUPO GER ABERTO TRIF.380/220V,FREQ.50/60HZ,C/REG.TEN.FREQ.AUT.QUADRO COM.AUT. TANQUE COMB.POT.75/60KVA INT./CONT",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 87800.0,
     "preco_onerado": 87800.0,
@@ -35937,7 +35937,7 @@
   },
   "14129": {
     "descricao": "GRUPO GER. ABERTO TRIF.380/220V,FREQ.50/60HZ,C/REG.TEN.FREQ.AUT.QUADRO COM.MAN.TANQUE COMB.POT.75/60KVA INT./CONT",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 86630.0,
     "preco_onerado": 86630.0,
@@ -35945,7 +35945,7 @@
   },
   "14130": {
     "descricao": "GRUPO GER. ABERTO TRIF.220/127V,FREQ.50/60HZ,C/REG.TEN.FREQ.AUT.QUADRO COM.AUT.TANQUE COMB.POT.81/65KVA INT./CONT",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 99910.0,
     "preco_onerado": 99910.0,
@@ -35953,7 +35953,7 @@
   },
   "14131": {
     "descricao": "GRUPO GER. ABERTO TRIF.220/127V,FREQ.50/60HZ,C/REG.TEN.FREQ.AUT.QUADRO COM.MAN.TANQUE COMB.POT.81/65KVA INT./CONT",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 99900.0,
     "preco_onerado": 99900.0,
@@ -35961,7 +35961,7 @@
   },
   "14132": {
     "descricao": "GRUPO GER. ABERTO TRIF.380/220V,FREQ.50/60HZ,C/REG.TEN.FREQ.AUT.QUADRO COM.AUT.TANQUE COMB.POT.81/65KVA INT./CONT",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 99910.0,
     "preco_onerado": 99910.0,
@@ -35969,7 +35969,7 @@
   },
   "14133": {
     "descricao": "GRUPO GER. ABERTO TRIF.380/220V,FREQ.50/60HZ,C/REG.TEN.FREQ.AUT.QUADRO COM.MAN.TANQUE COMB.POT.81/65KVA INT./CONT",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 99900.0,
     "preco_onerado": 99900.0,
@@ -35977,7 +35977,7 @@
   },
   "14134": {
     "descricao": "GRUPO GER. ABERTO TRIF.220/127V,FREQ.50/60HZ,C/REG.TEN.FREQ.AUT.QUADRO COM.AUT.TANQUE COMB.POT.115/92KVA INT./CONT",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 113300.0,
     "preco_onerado": 113300.0,
@@ -35985,7 +35985,7 @@
   },
   "14135": {
     "descricao": "GRUPO GER. ABERTO TRIF.220/127V,FREQ.50/60HZ,C/REG.TEN.FREQ.AUT.QUADRO COM.MAN.TANQUE COMB.POT.115/92KVA INT./CONT",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 108970.0,
     "preco_onerado": 108970.0,
@@ -35993,7 +35993,7 @@
   },
   "14136": {
     "descricao": "GRUPO GER ABERTO TRIF.380/220V,FREQ.50/60HZ,C/REG.TEN.FREQ.AUT.QUADRO COM.AUT. TANQUE COMB.POT.115/92KVA INT./CONT",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 113300.0,
     "preco_onerado": 113300.0,
@@ -36001,7 +36001,7 @@
   },
   "14137": {
     "descricao": "GRUPO GER. ABERTO TRIF.380/220V,FREQ.50/60HZ,C/REG.TEN.FREQ.AUT.QUADRO COM.MAN.TANQUE COMB.POT.115/92KVA INT./CONT",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 108970.0,
     "preco_onerado": 108970.0,
@@ -36009,7 +36009,7 @@
   },
   "14138": {
     "descricao": "GRUPO GER. ABERTO TRIF.220/127V,FREQ.50/60HZ,C/REG.TEN.FREQ.AUT.QUADRO COM.AUT.TANQUE COMB.POT.180/144KVA INT./CON",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 151740.0,
     "preco_onerado": 151740.0,
@@ -36017,7 +36017,7 @@
   },
   "14139": {
     "descricao": "GRUPO GER. ABERTO TRIF.220/127V,FREQ.50/60HZ,C/REG.TEN.FREQ.AUT.QUADRO COM.MAN.TANQUE COMB.POT.180/144KVA INT./CON",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 141000.0,
     "preco_onerado": 141000.0,
@@ -36025,7 +36025,7 @@
   },
   "14140": {
     "descricao": "GRUPO GER. ABERTO TRIF.380/220V,FREQ.50/60HZ,C/REG.TEN.FREQ.AUT.QUADRO COM.AUT.TANQUE COMB.POT.180/144KVA INT./CON",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 151740.0,
     "preco_onerado": 151740.0,
@@ -36033,7 +36033,7 @@
   },
   "14141": {
     "descricao": "GRUPO GER. ABERTO TRIF.380/220V,FREQ.50/60HZ,C/REG.TEN.FREQ.AUT.QUADRO COM.MAN.TANQUE COMB.POT.180/144KVA INT./CON",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 141000.0,
     "preco_onerado": 141000.0,
@@ -36041,7 +36041,7 @@
   },
   "14142": {
     "descricao": "GRUPO GER. ABERTO TRIF.220/127V,FREQ.50/60HZ,C/REG.TEN.FREQ.AUT.QUADRO COM.AUT.TANQUE COMB.POT.260/208KVA INT./CON",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 199820.0,
     "preco_onerado": 199820.0,
@@ -36049,7 +36049,7 @@
   },
   "14143": {
     "descricao": "GRUPO GER. ABERTO TRIF.220/127V,FREQ.50/60HZ,C/REG.TEN.FREQ.AUT.QUADRO COM.MAN.TANQUE COMB.POT.260/208KVA INT./CON",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 211870.0,
     "preco_onerado": 211870.0,
@@ -36057,7 +36057,7 @@
   },
   "14144": {
     "descricao": "GRUPO GER. ABERTO TRIF.380/220V,FREQ.50/60HZ,C/REG.TEN.FREQ.AUT.QUADRO COM.AUT.TANQUE COMB.POT.260/208KVA INT./CON",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 199820.0,
     "preco_onerado": 199820.0,
@@ -36065,7 +36065,7 @@
   },
   "14145": {
     "descricao": "GRUPO GER. ABERTO TRIF.380/220V,FREQ.50/60HZ,C/REG.TEN.FREQ.AUT.QUADRO COM.MAN.TANQUE COMB.POT.260/208KVA INT./CON",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 211870.0,
     "preco_onerado": 211870.0,
@@ -36073,7 +36073,7 @@
   },
   "14146": {
     "descricao": "GRUPO GER. ABERTO TRIF.220/127V,FREQ.50/60HZ,C/REG.TEN.FREQ.AUT.QUADRO COM.AUT.TANQUE COMB.POT.360/288KVA INT./CON",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 295080.0,
     "preco_onerado": 295080.0,
@@ -36081,7 +36081,7 @@
   },
   "14147": {
     "descricao": "GRUPO GER. ABERTO TRIF.220/127V,FREQ.50/60HZ,C/REG.TEN.FREQ.AUT.QUADRO COM.MAN.TANQUE COMB.POT.360/288KVA INT./CON",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 262380.0,
     "preco_onerado": 262380.0,
@@ -36089,7 +36089,7 @@
   },
   "14148": {
     "descricao": "GRUPO GER. ABERTO TRIF.380/220V,FREQ.50/60HZ,C/REG.TEN.FREQ.AUT.QUADRO COM.AUT.TANQUE COMB.POT.360/288KVA INT./CON",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 295080.0,
     "preco_onerado": 295080.0,
@@ -36097,7 +36097,7 @@
   },
   "14149": {
     "descricao": "GRUPO GER. ABERTO TRIF.380/220V,FREQ.50/60HZ,C/REG.TEN.FREQ.AUT.QUADRO COM.MAN.TANQUE COMB.POT.360/288KVA INT./CON",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 262380.0,
     "preco_onerado": 262380.0,
@@ -36105,7 +36105,7 @@
   },
   "14150": {
     "descricao": "GRUPO GER. ABERTO TRIF.220/127V,FREQ.50/60HZ,C/REG.TEN.FREQ.AUT.QUADRO COM.AUT.TANQUE COMB.POT.460/370KVA INT./CON",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 389400.0,
     "preco_onerado": 389400.0,
@@ -36113,7 +36113,7 @@
   },
   "14151": {
     "descricao": "GRUPO GER. ABERTO TRIF.220/127V,FREQ.50/60HZ,C/REG.TEN.FREQ.AUT.QUADRO COM.MAN.TANQUE COMB.POT.460/370KVA INT./CON",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 343400.0,
     "preco_onerado": 343400.0,
@@ -36121,7 +36121,7 @@
   },
   "14152": {
     "descricao": "GRUPO GER. ABERTO TRIF.380/220V,FREQ.50/60HZ,C/REG.TEN.FREQ.AUT.QUADRO COM.AUT.TANQUE COMB.POT.460/370KVA INT./COM",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 338870.0,
     "preco_onerado": 338870.0,
@@ -36129,7 +36129,7 @@
   },
   "14153": {
     "descricao": "GRUPO GER. ABERTO TRIF.380/220V,FREQ.50/60HZ,C/REG.TEN.FREQ.AUT.QUADRO COM.MAN.TANQUE COMB.POT.460/370KVA INT./CON",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 343400.0,
     "preco_onerado": 343400.0,
@@ -36137,7 +36137,7 @@
   },
   "14154": {
     "descricao": "GRUPO GER. ABERTO TRIF.220/127V,FREQ.50/60HZ,C/REG.TEN.FREQ.AUT.QUADRO COM.AUT.TANQUE COMB.POT.650/520KVA INT./CON",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 504700.0,
     "preco_onerado": 504700.0,
@@ -36145,7 +36145,7 @@
   },
   "14155": {
     "descricao": "GRUPO GER. ABERTO TRIF.220/127V,FREQ.50/60HZ,C/REG.TEN.FREQ.AUT.QUADRO COM.MAN.TANQUE COMB.POT.650/520KVA INT./CON",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 504700.0,
     "preco_onerado": 504700.0,
@@ -36153,7 +36153,7 @@
   },
   "14156": {
     "descricao": "GRUPO GER. ABERTO TRIF.380/220V,FREQ.50/60HZ,C/REG.TEN.FREQ.AUT.QUADRO COM.AUT.TANQUE COMB.POT.650/520KVA INT./CON",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 504700.0,
     "preco_onerado": 504700.0,
@@ -36161,7 +36161,7 @@
   },
   "14157": {
     "descricao": "GRUPO GER. ABERTO TRIF.380/220V,FREQ.50/60HZ,C/REG.TEN.FREQ.AUT.QUADRO COM.MAN.TANQUE COMB.POT.650/520KVA INT./CON",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 504700.0,
     "preco_onerado": 504700.0,
@@ -36169,7 +36169,7 @@
   },
   "14158": {
     "descricao": "GRUPO GER. ABERTO TRIF.220/127V,FREQ.50/60HZ,C/REG.TEN.FREQ.AUT.QUADRO COM.AUT.TANQUE COMB.POT.700/560KVA INT./CON",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 633480.0,
     "preco_onerado": 633480.0,
@@ -36177,7 +36177,7 @@
   },
   "14159": {
     "descricao": "GRUPO GER. ABERTO TRIF.220/127V,FREQ.50/60HZ,C/REG.TEN.FREQ.AUT.QUADRO COM.MAN.TANQUE COMB.POT.700/560KVA INT./CON",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 570580.0,
     "preco_onerado": 570580.0,
@@ -36185,7 +36185,7 @@
   },
   "14160": {
     "descricao": "GRUPO GER. ABERTO TRIF.380/220V,FREQ.50/60HZ,C/REG.TEN.FREQ.AUT.QUADRO COM.AUT.TANQUE COMB.POT.700/560KVA INT./CON",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 633480.0,
     "preco_onerado": 633480.0,
@@ -36193,7 +36193,7 @@
   },
   "14161": {
     "descricao": "GRUPO GER. ABERTO TRIF.380/220V,FREQ.50/60HZ,C/REG.TEN.FREQ.AUT.QUADRO COM.MAN.TANQUE COMB.POT.700/560KVA INT./CON",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 570580.0,
     "preco_onerado": 570580.0,
@@ -36201,7 +36201,7 @@
   },
   "14162": {
     "descricao": "GRUPO GER. ABERTO TRIF.220/127V,FREQ.50/60HZ,C/REG.TEN.FREQ.AUT.QUADRO COM.AUT.TANQUE COMB.POT.1000/800KVA INT./CONT",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 906400.0,
     "preco_onerado": 906400.0,
@@ -36209,7 +36209,7 @@
   },
   "14163": {
     "descricao": "GRUPO GER. ABERTO TRIF.220/127V,FREQ.50/60HZ,C/REG.TEN.FREQ.AUT.QUADRO COM.MAN.TANQUE COMB.POT.1000/800KVA INT./CONT",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 938500.0,
     "preco_onerado": 938500.0,
@@ -36217,7 +36217,7 @@
   },
   "14164": {
     "descricao": "GRUPO GER. ABERTO TRIF.380/220V,FREQ.50/60HZ,C/REG.TEN.FREQ.AUT.QUADRO COM.AUT.TANQUE COMB.POT.1000/800KVA INT./CONT",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 906400.0,
     "preco_onerado": 906400.0,
@@ -36225,7 +36225,7 @@
   },
   "14165": {
     "descricao": "GRUPO GER. ABERTO TRIF.380/220V,FREQ.50/60HZ,C/REG.TEN.FREQ.AUT.QUADRO COM.MAN.TANQUE COMB.POT.1000/800KVA INT./CONT",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 938500.0,
     "preco_onerado": 938500.0,
@@ -36401,7 +36401,7 @@
   },
   "14268": {
     "descricao": "LOCACAO DE PISO METALICO PARA ANDAIME TUBULAR, COM 0,33M DE LARGURA, EXCLUSIVE TRANSPORTE",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "MXMES",
     "preco_desonerado": 22.0,
     "preco_onerado": 22.0,
@@ -37177,7 +37177,7 @@
   },
   "14464": {
     "descricao": "EQUIPAMENTO CHILLER (RESFRIADOR DE LIQUIDOS), CONDENSACAO A AR, REG. TRAB. (TEMP): 0,1\u00b0C (EVAP) ATE 45\u00b0C (COND), 300TR",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 1085257.41,
     "preco_onerado": 1085257.41,
@@ -37185,7 +37185,7 @@
   },
   "14465": {
     "descricao": "EQUIPAMENTO CHILLER (RESFRIADOR DE LIQUIDOS), CONDENSACAO A AR, REG. TRAB. (TEMP): 0,1\u00b0C (EVAP) ATE 45\u00b0C (COND), 350TR",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 1159387.68,
     "preco_onerado": 1159387.68,
@@ -37193,7 +37193,7 @@
   },
   "14466": {
     "descricao": "EQUIPAMENTO CHILLER (RESFRIADOR DE LIQUIDOS), CONDENSACAO A AR, REG. TRAB. (TEMP): 0.1\u00b0C (EVAP) ATE 45\u00b0C (COND), 400TR",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 1934327.1332,
     "preco_onerado": 1934327.1332,
@@ -37993,7 +37993,7 @@
   },
   "14610": {
     "descricao": "MAO-DE-OBRA DE ENGENHEIRO PLENO, INCLUSIVE ENCARGOS SOCIAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 159.06,
     "preco_onerado": 159.06,
@@ -39145,7 +39145,7 @@
   },
   "14776": {
     "descricao": "LOCACAO DE EQUIPAMENTO PARA BLINDAGEM DEVALAS, COM MEDIDAS APROXIMADAS DE 2,40MDE PROFUNDIDADE POR 6,00M DE COMPRIMENT",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UNXMES",
     "preco_desonerado": 4300.0,
     "preco_onerado": 4300.0,
@@ -39153,7 +39153,7 @@
   },
   "14777": {
     "descricao": "LOCACAO DE EQUIPAMENTO PARA BLINDAGEM DEVALAS, COM MEDIDAS APROXIMADAS DE 3,00MDE PROFUNDIDADE POR 4,80M DE COMPRIMENT",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UNXMES",
     "preco_desonerado": 4300.0,
     "preco_onerado": 4300.0,
@@ -39161,7 +39161,7 @@
   },
   "14778": {
     "descricao": "LOCACAO DE EQUIPAMENTO PARA BLINDAGEM DEVALAS, COM MEDIDAS APROXIMADAS DE 3,00MDE PROFUNDIDADE POR 3,60M DE COMPRIMENT",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UNXMES",
     "preco_desonerado": 3450.0,
     "preco_onerado": 3450.0,
@@ -39169,7 +39169,7 @@
   },
   "14779": {
     "descricao": "LOCACAO DE ESTRONCA PARA EQUIPAMENTO DEBLINDAGEM",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "MXMES",
     "preco_desonerado": 94.76,
     "preco_onerado": 94.76,
@@ -39233,7 +39233,7 @@
   },
   "14787": {
     "descricao": "RECICLADORA DE ASFALTO A FRIO, SOBRE RODAS, LARGURA DE FRESAGEM 2,00M, 422HP",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 6250237.89,
     "preco_onerado": 6250237.89,
@@ -39625,7 +39625,7 @@
   },
   "14836": {
     "descricao": "LOCACAO DE ANDAIME METALICO COM ELEMENTOS TUBULARES SOBRE SAPATAS,C/ESCADA DE ACESSO E GUARDA-CORPO,EXCL.PISO E TRANSP.",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "M2XMES",
     "preco_desonerado": 13.0,
     "preco_onerado": 13.0,
@@ -39633,7 +39633,7 @@
   },
   "14837": {
     "descricao": "LOCACAO DE TORRE-ANDAIME METALICA COM ELEMENTOS TUBULARES SOBRE SAPATAS,(1,00X1,00)M OU (1,50X1,50)M,EXCL.PISO,SAP.,TRAN",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "MXMES",
     "preco_desonerado": 30.0,
     "preco_onerado": 30.0,
@@ -39641,7 +39641,7 @@
   },
   "14838": {
     "descricao": "LOCACAO DE ANDAIME SUSPENSO COM CABO PASSANTE,MANUAL,COM 2,00 A 6,00M DE EXT.,CABOS C/30M,INCL.MAT.FIX.EXCL.TELA E TRANS",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UNXMES",
     "preco_desonerado": 480.0,
     "preco_onerado": 480.0,
@@ -39649,7 +39649,7 @@
   },
   "14839": {
     "descricao": "RESISTIVIMETRO",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 43464.4,
     "preco_onerado": 43464.4,
@@ -39657,7 +39657,7 @@
   },
   "14840": {
     "descricao": "EQUIPAMENTO DE SOLDA POR TERMOFUSAO, PARA GEOMEMBRANAS PEAD, PARA ESPESSURAS DE0,5MM A 2,0MM",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 22459.15,
     "preco_onerado": 22459.15,
@@ -39665,7 +39665,7 @@
   },
   "14841": {
     "descricao": "EQUIPAMENTO DE SOLDA POR TERMOFUSAO, PARA GEOMEMBRANAS PEAD, PARA ESPESSURAS DE2,5MM",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 105590.45,
     "preco_onerado": 105590.45,
@@ -39913,7 +39913,7 @@
   },
   "14874": {
     "descricao": "CAMINHAO BASCULANTE TIPO PESADO, TRACADO6X4, PRECO SEM PNEUS E CAPACIDADE DE 18,4T",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 607532.3,
     "preco_onerado": 607532.3,
@@ -39937,7 +39937,7 @@
   },
   "14877": {
     "descricao": "ESCAVADEIRA HIDR.EST.BRACO ALONGADO,PESOAPROX.23T,M.DIESEL APROX.160CV,CACAMBAAPROX.0,55CV,ALT.APROX=15M,PRO.APROX=12M",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 1000000.0,
     "preco_onerado": 1000000.0,
@@ -39945,7 +39945,7 @@
   },
   "14878": {
     "descricao": "ESCAVADEIRA HIDRAULICA,ANFIBIA,PESO OPER.APROX.30T,MOTOR EM TORNO DE 150HP,CACAMBA CAP.APROX.0,50M3,ALC.MAX.APROX. 15M",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 2300000.0,
     "preco_onerado": 2300000.0,
@@ -39953,7 +39953,7 @@
   },
   "14879": {
     "descricao": "LOCACAO DE ANDAIME SUSPENSO ELETRICO DECABO PASSANTE,2 A 8M EXTENSAO,CABOS C/30M,INC.MAT.P/FIXACAO,EXC.TELA PROT.E TRAN",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UNXMES",
     "preco_desonerado": 1600.0,
     "preco_onerado": 1600.0,
@@ -39961,7 +39961,7 @@
   },
   "14880": {
     "descricao": "LOCACAO DE RODIZIOS DE FERRO PARA TORREDE ANDAIME TUBULAR, EXCLUSIVE TRANSPORTE",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UNXMES",
     "preco_desonerado": 21.25,
     "preco_onerado": 21.25,
@@ -39969,7 +39969,7 @@
   },
   "14881": {
     "descricao": "LOCACAO DE RODIZIOS DE BORRACHA PARA TORRE DE ANDAIME TUBULAR, EXCLUSIVE TRANSPORTE",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UNXMES",
     "preco_desonerado": 17.9,
     "preco_onerado": 17.9,
@@ -39977,7 +39977,7 @@
   },
   "14882": {
     "descricao": "LOCACAO DE BALSA MODULAR PARA ABRIGAR EQUIPAMENTOS E EQUIPE DE SONDAGEM (EXCLUSIVE ESTES),MED.APROX.(5X14)M,PONTAL 1,20M",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "MES",
     "preco_desonerado": 65000.0,
     "preco_onerado": 65000.0,
@@ -39985,7 +39985,7 @@
   },
   "14883": {
     "descricao": "LOCACAO DE LANCHA EM ALUMINIO COM MOTORDE 15 A 25HP, INCLUSIVE COMBUSTIVEL PARACURTAS DISTANCIAS",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "MES",
     "preco_desonerado": 65000.0,
     "preco_onerado": 65000.0,
@@ -40017,7 +40017,7 @@
   },
   "14887": {
     "descricao": "EQUIPAMENTO HIDRAULICO(BATE-ESTACAS),ACOOPLADO ESTEIRA(EXCLUSIVE ESTA),LARG.TRAB.=4,00M,ALT.UTIL TORRE=15M,MARTELO= 5,0T",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 3685000.0,
     "preco_onerado": 3685000.0,
@@ -40025,7 +40025,7 @@
   },
   "14888": {
     "descricao": "MARTELO HIDRAULICO VIBRATORIO,ACOPLADO ESCAVADEIRA HID.(EXCLUSIVE ESTA),L=70CM,ALT.E COMP.=2M,V=200L/MIN,MARTELO=1,2T",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 462580.0,
     "preco_onerado": 462580.0,
@@ -40889,7 +40889,7 @@
   },
   "20000": {
     "descricao": "MAO-DE-OBRA DE ADVOGADO, PARA SERVICOS DE CONSULTORIA, INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 92.74,
     "preco_onerado": 92.74,
@@ -40897,7 +40897,7 @@
   },
   "20001": {
     "descricao": "MAO-DE-OBRA DE AGRONOMO JUNIOR, PARA SERVICOS DE CONSULTORIA, INCLUSIVE ENCARGOSSOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 109.11,
     "preco_onerado": 109.11,
@@ -40905,7 +40905,7 @@
   },
   "20002": {
     "descricao": "MAO-DE-OBRA DE AGRONOMO PLENO, PARA SERVICOS DE CONSULTORIA, INCLUSIVE ENCARGOSSOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 160.79,
     "preco_onerado": 160.79,
@@ -40913,7 +40913,7 @@
   },
   "20003": {
     "descricao": "MAO-DE-OBRA DE AGRONOMO SENIOR, PARA SERVICOS DE CONSULTORIA, INCLUSIVE ENCARGOSSOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 229.7,
     "preco_onerado": 229.7,
@@ -40961,7 +40961,7 @@
   },
   "20009": {
     "descricao": "MAO-DE-OBRA DE ANALISTA AMBIENTAL, PARASERVICOS DE CONSULTORIA, INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 98.2,
     "preco_onerado": 98.2,
@@ -40969,7 +40969,7 @@
   },
   "20010": {
     "descricao": "MAO-DE-OBRA DE ANALISTA DE SISTEMA JUNIOR, PARA SERVICOS DE CONSULTORIA, INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 61.1,
     "preco_onerado": 61.1,
@@ -40977,7 +40977,7 @@
   },
   "20011": {
     "descricao": "MAO-DE-OBRA DE ANALISTA DE SISTEMA PLENO, PARA SERVICOS DE CONSULTORIA, INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 69.83,
     "preco_onerado": 69.83,
@@ -40985,7 +40985,7 @@
   },
   "20012": {
     "descricao": "MAO-DE-OBRA DE ANALISTA DE SISTEMA SENIOR, PARA SERVICOS DE CONSULTORIA, INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 87.29,
     "preco_onerado": 87.29,
@@ -41009,7 +41009,7 @@
   },
   "20015": {
     "descricao": "MAO-DE-OBRA DE ARMADOR DE CONCRETO ARMADO, INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 23.16,
     "preco_onerado": 23.16,
@@ -41017,7 +41017,7 @@
   },
   "20016": {
     "descricao": "MAO-DE-OBRA DE ARQUITETO OU ENGENHEIRO COORDENADOR-SERVICOS DE CONSULTORIA, INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 264.16,
     "preco_onerado": 264.16,
@@ -41025,7 +41025,7 @@
   },
   "20017": {
     "descricao": "MAO-DE-OBRA DE ARQUITETO OU ENGENHEIRO JUNIOR-PROJETO E CONSULTORIA, INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 109.11,
     "preco_onerado": 109.11,
@@ -41033,7 +41033,7 @@
   },
   "20018": {
     "descricao": "MAO-DE-OBRA DE ARQUITETO OU ENGENHEIRO PLENO-PROJETO E CONSULTORIA, INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 160.79,
     "preco_onerado": 160.79,
@@ -41041,7 +41041,7 @@
   },
   "20019": {
     "descricao": "MAO-DE-OBRA DE ARQUITETO OU ENGENHEIRO SENIOR DE CONSULTORIA, INCLUSIVE ENCARGOSSOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 229.7,
     "preco_onerado": 229.7,
@@ -41049,7 +41049,7 @@
   },
   "20020": {
     "descricao": "MAO-DE-OBRA DE ARTIFICE PARA ESTRUTURA DE CONCRETO, INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 24.92,
     "preco_onerado": 24.92,
@@ -41057,7 +41057,7 @@
   },
   "20021": {
     "descricao": "MAO-DE-OBRA DE ASFALTADOR, INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.0,
     "preco_onerado": 0.0,
@@ -41065,7 +41065,7 @@
   },
   "20022": {
     "descricao": "MAO-DE-OBRA DE ASSENTADOR DE TUBOS (REDES SUBTERRANEAS), INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 23.16,
     "preco_onerado": 23.16,
@@ -41089,7 +41089,7 @@
   },
   "20025": {
     "descricao": "MAO-DE-OBRA DE AUXILIAR DE ALMOXARIFADO,INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 17.65,
     "preco_onerado": 17.65,
@@ -41097,7 +41097,7 @@
   },
   "20026": {
     "descricao": "MAO-DE-OBRA DE AUXILIAR DE CALCULO TOPOGRAFICO, INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 21.21,
     "preco_onerado": 21.21,
@@ -41105,7 +41105,7 @@
   },
   "20027": {
     "descricao": "MAO-DE-OBRA DE AUXILIAR DE DESENHISTA, INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 21.21,
     "preco_onerado": 21.21,
@@ -41113,7 +41113,7 @@
   },
   "20028": {
     "descricao": "MAO-DE-OBRA DE AUXILIAR DE DESENHO TOPOGRAFICO, INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 21.21,
     "preco_onerado": 21.21,
@@ -41121,7 +41121,7 @@
   },
   "20029": {
     "descricao": "MAO-DE-OBRA DE AUXILIAR DE ENFERMAGEM, INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 21.21,
     "preco_onerado": 21.21,
@@ -41161,7 +41161,7 @@
   },
   "20034": {
     "descricao": "MAO-DE-OBRA DE AUXILIAR TECNICO, PARA SERVICOS DE CONSULTORIA, INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 24.0,
     "preco_onerado": 24.0,
@@ -41169,7 +41169,7 @@
   },
   "20035": {
     "descricao": "MAO-DE-OBRA DE BIOLOGO JUNIOR, PARA SERVICOS DE CONSULTORIA, INCLUSIVE ENCARGOSSOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 76.38,
     "preco_onerado": 76.38,
@@ -41177,7 +41177,7 @@
   },
   "20036": {
     "descricao": "MAO-DE-OBRA DE BIOLOGO PLENO, PARA SERVICOS DE CONSULTORIA, INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 112.55,
     "preco_onerado": 112.55,
@@ -41185,7 +41185,7 @@
   },
   "20037": {
     "descricao": "MAO-DE-OBRA DE BIOLOGO SENIOR, PARA SERVICOS DE CONSULTORIA, INCLUSIVE ENCARGOSSOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 160.79,
     "preco_onerado": 160.79,
@@ -41201,7 +41201,7 @@
   },
   "20039": {
     "descricao": "MAO-DE-OBRA DE BOMBEIRO HIDRAULICO DA CONSTRUCAO CIVIL, INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 23.16,
     "preco_onerado": 23.16,
@@ -41209,7 +41209,7 @@
   },
   "20040": {
     "descricao": "MAO-DE-OBRA DE BORRACHEIRO DE VIATURAS,INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.0,
     "preco_onerado": 0.0,
@@ -41217,7 +41217,7 @@
   },
   "20041": {
     "descricao": "MAO-DE-OBRA DE CALAFATE, INCLUSIVE E ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 23.16,
     "preco_onerado": 23.16,
@@ -41241,7 +41241,7 @@
   },
   "20044": {
     "descricao": "MAO-DE-OBRA DE CARPINTEIRO DE CARROCERIA, INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.0,
     "preco_onerado": 0.0,
@@ -41249,7 +41249,7 @@
   },
   "20045": {
     "descricao": "MAO-DE-OBRA DE CARPINTEIRO DE ESQUADRIASDE MADEIRA, INCLUSIVE ENCARGOS SOCIAISDESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 24.92,
     "preco_onerado": 24.92,
@@ -41257,7 +41257,7 @@
   },
   "20046": {
     "descricao": "MAO-DE-OBRA DE CARPINTEIRO DE FORMA DE CONCRETO, INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 23.16,
     "preco_onerado": 23.16,
@@ -41265,7 +41265,7 @@
   },
   "20047": {
     "descricao": "MAO-DE-OBRA DE CAVOUQUEIRO, INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 23.16,
     "preco_onerado": 23.16,
@@ -41289,7 +41289,7 @@
   },
   "20050": {
     "descricao": "MAO-DE-OBRA DE CONSULTOR, INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 310.1,
     "preco_onerado": 310.1,
@@ -41305,7 +41305,7 @@
   },
   "20052": {
     "descricao": "MAO-DE-OBRA DE CORTADOR DE CHAPA DE ACO(SERVICOS DE SINALIZACAO VERTICAL), INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 24.92,
     "preco_onerado": 24.92,
@@ -41313,7 +41313,7 @@
   },
   "20053": {
     "descricao": "MAO-DE-OBRA DE COZINHEIRO, INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 24.92,
     "preco_onerado": 24.92,
@@ -41321,7 +41321,7 @@
   },
   "20054": {
     "descricao": "MAO-DE-OBRA DE DESENHISTA A (DESENHO TOPOGRAFICO A PARTIR DE CADERNETAS), INCLUSIVE E ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 32.01,
     "preco_onerado": 32.01,
@@ -41329,7 +41329,7 @@
   },
   "20055": {
     "descricao": "MAO-DE-OBRA DE DESENHISTA B (DESENHO DECADASTRO DE GALERIAS), INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 24.92,
     "preco_onerado": 24.92,
@@ -41337,7 +41337,7 @@
   },
   "20056": {
     "descricao": "MAO-DE-OBRA DE DESENHISTA CADISTA JUNIOR-PROJETO E CONSULTORIA, INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 29.79,
     "preco_onerado": 29.79,
@@ -41345,7 +41345,7 @@
   },
   "20057": {
     "descricao": "MAO-DE-OBRA DE DESENHISTA CADISTA PLENO-PROJETO E CONSULTORIA, INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 34.04,
     "preco_onerado": 34.04,
@@ -41353,7 +41353,7 @@
   },
   "20058": {
     "descricao": "MAO-DE-OBRA DE DESENHISTA CADISTA SENIOR-PROJETO E CONSULTORIA, INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 42.55,
     "preco_onerado": 42.55,
@@ -41361,7 +41361,7 @@
   },
   "20059": {
     "descricao": "MAO-DE-OBRA DE DIGITADOR, INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 21.21,
     "preco_onerado": 21.21,
@@ -41417,7 +41417,7 @@
   },
   "20066": {
     "descricao": "MAO-DE-OBRA DE ENCUNHADOR, INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 23.16,
     "preco_onerado": 23.16,
@@ -41425,7 +41425,7 @@
   },
   "20067": {
     "descricao": "MAO-DE-OBRA DE ENFERMEIRO, INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 38.53,
     "preco_onerado": 38.53,
@@ -41433,7 +41433,7 @@
   },
   "20068": {
     "descricao": "MAO-DE-OBRA DE ENGENHEIRO DE SEGURANCA DO TRABALHADO, INCLUSIVE ENCARGOS SOCIAISDESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 97.62,
     "preco_onerado": 97.62,
@@ -41449,7 +41449,7 @@
   },
   "20070": {
     "descricao": "MAO-DE-OBRA DE ENGENHEIRO OU ARQUITETO JUNIOR, INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 97.62,
     "preco_onerado": 97.62,
@@ -41457,7 +41457,7 @@
   },
   "20071": {
     "descricao": "MAO-DE-OBRA DE ENGENHEIRO OU ARQUITETO SENIOR, INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 195.25,
     "preco_onerado": 195.25,
@@ -41465,7 +41465,7 @@
   },
   "20072": {
     "descricao": "MAO-DE-OBRA DE ENGENHEIRO SANITARISTA, P/SERVICOS DE CONSULTORIA DE ENG.E ARQUITETURA,INCL.ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 160.79,
     "preco_onerado": 160.79,
@@ -41481,7 +41481,7 @@
   },
   "20074": {
     "descricao": "MAO-DE-OBRA DE ESTAGIARIO DA CONSTRUCAOCIVIL, INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 11.49,
     "preco_onerado": 11.49,
@@ -41489,7 +41489,7 @@
   },
   "20075": {
     "descricao": "MAO-DE-OBRA DE ESTAMPADOR DE SERVICOS DESINALIZACAO VERTICAL, INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 24.92,
     "preco_onerado": 24.92,
@@ -41521,7 +41521,7 @@
   },
   "20079": {
     "descricao": "MAO-DE-OBRA DE GEOLOGO JUNIOR, PARA SERVICOS DE CONSULTORIA, INCLUSIVE ENCARGOSSOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 76.38,
     "preco_onerado": 76.38,
@@ -41529,7 +41529,7 @@
   },
   "20080": {
     "descricao": "MAO-DE-OBRA DE GEOLOGO PLENO, PARA SERVICOS DE CONSULTORIA, INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 112.55,
     "preco_onerado": 112.55,
@@ -41537,7 +41537,7 @@
   },
   "20081": {
     "descricao": "MAO-DE-OBRA DE GEOLOGO SENIOR, PARA SERVICOS DE CONSULTORIA, INCLUSIVE ENCARGOSSOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 160.79,
     "preco_onerado": 160.79,
@@ -41561,7 +41561,7 @@
   },
   "20084": {
     "descricao": "MAO-DE-OBRA DE JARDINEIRO, INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 21.62,
     "preco_onerado": 21.62,
@@ -41593,7 +41593,7 @@
   },
   "20088": {
     "descricao": "MAO-DE-OBRA DE LANTERNEIRO, INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.0,
     "preco_onerado": 0.0,
@@ -41617,7 +41617,7 @@
   },
   "20091": {
     "descricao": "MAO-DE-OBRA DE MARMORISTA DE MARMORE E GRANITO, INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 23.16,
     "preco_onerado": 23.16,
@@ -41633,7 +41633,7 @@
   },
   "20093": {
     "descricao": "MAO-DE-OBRA DE MARROEIRO, INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 23.16,
     "preco_onerado": 23.16,
@@ -41657,7 +41657,7 @@
   },
   "20096": {
     "descricao": "MAO-DE-OBRA DE MECANICO DE CAMINHAO E TRATOR, INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 26.01,
     "preco_onerado": 26.01,
@@ -41729,7 +41729,7 @@
   },
   "20105": {
     "descricao": "MAO-DE-OBRA DE MOTORISTA DE CAMINHAO E CARRETA, INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 23.16,
     "preco_onerado": 23.16,
@@ -41745,7 +41745,7 @@
   },
   "20107": {
     "descricao": "MAO-DE-OBRA DE MUSEOLOGO RESTAURADOS, INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 52.93,
     "preco_onerado": 52.93,
@@ -41753,7 +41753,7 @@
   },
   "20108": {
     "descricao": "MAO-DE-OBRA DE NIVELADOR, INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 23.16,
     "preco_onerado": 23.16,
@@ -41785,7 +41785,7 @@
   },
   "20112": {
     "descricao": "MAO-DE-OBRA DE OPERADOR DE MAQUINAS AUX.(COMPRESSOR, ROLO COMPACTADOR LEVE...),INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 23.16,
     "preco_onerado": 23.16,
@@ -41817,7 +41817,7 @@
   },
   "20116": {
     "descricao": "MAO-DE-OBRA DE PINTOR DE LETRAS, INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 23.16,
     "preco_onerado": 23.16,
@@ -41825,7 +41825,7 @@
   },
   "20117": {
     "descricao": "MAO-DE-OBRA DE PINTOR DE VIATURAS, INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.0,
     "preco_onerado": 0.0,
@@ -41833,7 +41833,7 @@
   },
   "20118": {
     "descricao": "MAO-DE-OBRA DE PINTOR, INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 23.16,
     "preco_onerado": 23.16,
@@ -41841,7 +41841,7 @@
   },
   "20119": {
     "descricao": "MAO-DE-OBRA DE PROGRAMADOR DE INFORMATICA JUNIOR, PARA SERVICOS DE CONSULTORIA,INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 44.73,
     "preco_onerado": 44.73,
@@ -41849,7 +41849,7 @@
   },
   "20120": {
     "descricao": "MAO-DE-OBRA DE PROGRAMADOR DE INFORMATICA PLENO, PARA SERVICOS DE CONSULTORIA, INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 51.28,
     "preco_onerado": 51.28,
@@ -41857,7 +41857,7 @@
   },
   "20121": {
     "descricao": "MAO-DE-OBRA DE PROGRAMADOR DE INFORMATICA SENIOR, PRA SERVICOS DE CONSULTORIA, INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 64.37,
     "preco_onerado": 64.37,
@@ -41865,7 +41865,7 @@
   },
   "20122": {
     "descricao": "MAO-DE-OBRA DE PROJETISTA CADISTA JUNIOR-PROJETO E CONSULTORIA, INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 49.64,
     "preco_onerado": 49.64,
@@ -41873,7 +41873,7 @@
   },
   "20123": {
     "descricao": "MAO-DE-OBRA DE PROJETISTA CADISTA PLENO-PROJETO E CONSULTORIA, INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 56.74,
     "preco_onerado": 56.74,
@@ -41881,7 +41881,7 @@
   },
   "20124": {
     "descricao": "MAO-DE-OBRA DE PROJETISTA CADISTA SENIOR-PROJETO E CONSULTORIA, INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 70.92,
     "preco_onerado": 70.92,
@@ -41889,7 +41889,7 @@
   },
   "20125": {
     "descricao": "MAO-DE-OBRA DE RASTILHEIRO, INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 24.92,
     "preco_onerado": 24.92,
@@ -41897,7 +41897,7 @@
   },
   "20126": {
     "descricao": "MAO-DE-OBRA DE RISCADOR (SERVICOS DE SINALIZACAO VERTICAL), INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 24.92,
     "preco_onerado": 24.92,
@@ -41905,7 +41905,7 @@
   },
   "20127": {
     "descricao": "MAO-DE-OBRA DE SECCIONISTA, INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.0,
     "preco_onerado": 0.0,
@@ -41921,7 +41921,7 @@
   },
   "20129": {
     "descricao": "MAO-DE-OBRA DE SECRETARIA PARA SERVICOSDE CONSULTORIA, INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 37.1,
     "preco_onerado": 37.1,
@@ -41953,7 +41953,7 @@
   },
   "20133": {
     "descricao": "MAO-DE-OBRA DE SERVENTE PARA SERVICOS DECONSERVACAO, INCLUSIVE ENCARGOS SOCIAISDESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 13.19,
     "preco_onerado": 13.19,
@@ -41961,7 +41961,7 @@
   },
   "20134": {
     "descricao": "MAO-DE-OBRA DE SOLDADOR DA CONSTRUCAO CIVIL, INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 24.92,
     "preco_onerado": 24.92,
@@ -41969,7 +41969,7 @@
   },
   "20135": {
     "descricao": "MAO-DE-OBRA DE SOLDADOR DE VIATURAS, INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.0,
     "preco_onerado": 0.0,
@@ -42009,7 +42009,7 @@
   },
   "20140": {
     "descricao": "MAO-DE-OBRA DE SONDADOR D (AUXILIAR DE MENOR CATEGORIA QUE O ANTERIOR), INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 16.75,
     "preco_onerado": 16.75,
@@ -42025,7 +42025,7 @@
   },
   "20142": {
     "descricao": "MAO-DE-OBRA DE TECNICO A, PARA OBRAS RODOVIARIAS, INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 38.53,
     "preco_onerado": 38.53,
@@ -42065,7 +42065,7 @@
   },
   "20147": {
     "descricao": "MAO-DE-OBRA DE TECNICO DE SONDAGEM, INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 38.53,
     "preco_onerado": 38.53,
@@ -42073,7 +42073,7 @@
   },
   "20148": {
     "descricao": "MAO-DE-OBRA DE TECNICO ESPECIALIZADO, PARA SERVICOS DE CONSULTORIA, INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 51.28,
     "preco_onerado": 51.28,
@@ -42081,7 +42081,7 @@
   },
   "20149": {
     "descricao": "MAO-DE-OBRA DE TOPOGRAFO A (SERVICO DE CAMPO E ESCRIT.COM RESPONSAB. DIRIGI-LOS), INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 32.01,
     "preco_onerado": 32.01,
@@ -42121,7 +42121,7 @@
   },
   "20154": {
     "descricao": "MAO-DE-OBRA DE ENGENHEIRO PLENO, INCLUSIVE ENCARGOS SOCIAIS DESONERADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 137.82,
     "preco_onerado": 137.82,
@@ -42233,7 +42233,7 @@
   },
   "40013": {
     "descricao": "ALUGUEL CONTAINER P/SANITARIO-VESTIARIO,(2,30X6,00X2,50)M,INCLUS.INST.ELET/HID.,CONT:3VASOS S.,2LAV.,1MICT. E 4CHUVEIROS",
-    "tipo": 4,
+    "tipo": 7,
     "unidade": "UNXMES",
     "preco_desonerado": 1500.0,
     "preco_onerado": 1500.0,
@@ -42385,7 +42385,7 @@
   },
   "40032": {
     "descricao": "AR CONDICIONADO DE JANELA, DE 27.000 BTUFRIO, MECANICO - 220V",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 0.0,
     "preco_onerado": 0.0,

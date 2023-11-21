@@ -649,7 +649,7 @@
   },
   "E9112": {
     "descricao": "SINALIZADOR DIRECIONAL MOVEL COM SISTEMA FOTOVOLTAICO DE ENERGIA E MONTADO EM CHASSI SOBRE",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 3.3388,
     "preco_onerado": 3.3388,
@@ -1249,7 +1249,7 @@
   },
   "E9152": {
     "descricao": "FERRAMENTA DE FIXACAO A POLVORA DE ACAO DIRETA",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 0.1974,
     "preco_onerado": 0.1974,
@@ -1369,7 +1369,7 @@
   },
   "E9552": {
     "descricao": "NIVEL OTICO COM CAPACIDADE DE AUMENTO DE 32X",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 1.9215,
     "preco_onerado": 1.9215,
@@ -2537,7 +2537,7 @@
   },
   "E9740": {
     "descricao": "QUADRO TUBULAR CONTRAVENTADO PARA ANDAIME DE 1 X 1 X 1 M COM CAPACIDADE DE 2 T",
-    "tipo": 1,
+    "tipo": 4,
     "unidade": "UN",
     "preco_desonerado": 0.1305,
     "preco_onerado": 0.1305,
@@ -3289,7 +3289,7 @@
   },
   "E9737": {
     "descricao": "CONJUNTO PARA PRE-AQUECIMENTO DE TRILHO EM SOLDA ALUMINOTERMICA",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 0.6542,
     "preco_onerado": 0.6542,
@@ -4185,7 +4185,7 @@
   },
   "E9114": {
     "descricao": "PAINEL COM SETA LUMINOSA PARA MONTAGEM EM CAMINHAO",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 5.3022,
     "preco_onerado": 5.3022,

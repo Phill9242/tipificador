@@ -7,6 +7,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import classification_report
 from joblib import dump, load
 import os
+from unidecode import unidecode
 
 ARQUIVO_TREINO = './arquivos/treinador.json'
 
@@ -57,7 +58,7 @@ def preditor(pasta_modelo, base):
     with open(caminho_arquivo, "r") as file:
         dados_sem_tipo = json.load(file)
 
-    new_descriptions = [item['descricao'] for item in dados_sem_tipo.values()]
+    new_descriptions = [transliteracao(item['descricao']) for item in dados_sem_tipo.values()]
     new_units = [item['unidade'] for item in dados_sem_tipo.values()]
     new_preco = [item['precos_iguais'] for item in dados_sem_tipo.values()]
 
@@ -76,3 +77,7 @@ def preditor(pasta_modelo, base):
         json.dump(dados_sem_tipo, file, indent=2)
 
     print(f'Arquivo salvo com sucesso: previsao_{base}.json')
+
+
+def transliteracao(descricao):
+	return unidecode(descricao).upper()
