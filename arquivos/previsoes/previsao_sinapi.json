@@ -8313,7 +8313,7 @@
   },
   "00014615": {
     "descricao": "CARRINHO COM 2 PNEUS PARA TRANSPORTAR TUBO CONCRETO, ALTURA ATE 1,0 M E DIAMETRO ATE 1000MM, COM ESTRUTURA EM PERFIL OU TUBO METALICO",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 3769.76,
     "preco_onerado": 3769.76,
@@ -17833,7 +17833,7 @@
   },
   "00036500": {
     "descricao": "GRUPO GERADOR REBOCAVEL, POTENCIA *66* KVA, MOTOR A DIESEL",
-    "tipo": 1,
+    "tipo": 4,
     "unidade": "UN",
     "preco_desonerado": 109595.77,
     "preco_onerado": 109595.77,
@@ -20193,7 +20193,7 @@
   },
   "00038137": {
     "descricao": "LADRILHO HIDRAULICO, *20 X 20* CM, E= 2 CM, RAMPA, NATURAL",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "m\u00b2",
     "preco_desonerado": 64.9,
     "preco_onerado": 64.9,
@@ -20881,7 +20881,7 @@
   },
   "00040339": {
     "descricao": "LOCACAO DE CRUZETA PARA ESCORA METALICA",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "MES",
     "preco_desonerado": 5.75,
     "preco_onerado": 5.75,
@@ -20897,7 +20897,7 @@
   },
   "00040290": {
     "descricao": "LOCACAO DE FORMA PLASTICA PARA LAJE NERVURADA, DIMENSOES *60* X *60* X *16* CM",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UNXMES",
     "preco_desonerado": 15.18,
     "preco_onerado": 15.18,
@@ -23625,7 +23625,7 @@
   },
   "00014531": {
     "descricao": "MARTELO DEMOLIDOR PNEUMATICO MANUAL, COM REDUCAO DE VIBRACAO, PESO DE 21 KG",
-    "tipo": 1,
+    "tipo": 4,
     "unidade": "UN",
     "preco_desonerado": 17121.26,
     "preco_onerado": 17121.26,
@@ -31041,7 +31041,7 @@
   },
   "00014618": {
     "descricao": "SERRA CIRCULAR DE BANCADA COM MOTOR ELETRICO, POTENCIA DE *1600* W, PARA DISCO DE DIAMETRO DE 10\" (250 MM)",
-    "tipo": 1,
+    "tipo": 4,
     "unidade": "UN",
     "preco_desonerado": 1280.52,
     "preco_onerado": 1280.52,
@@ -31649,7 +31649,7 @@
   },
   "00010740": {
     "descricao": "TALHA ELETRICA 3 T, VELOCIDADE  2,1 M / MIN, POTENCIA 1,3 KW",
-    "tipo": 1,
+    "tipo": 4,
     "unidade": "UN",
     "preco_desonerado": 10905.54,
     "preco_onerado": 10905.54,
@@ -33865,7 +33865,7 @@
   },
   "00037525": {
     "descricao": "TELA PLASTICA TECIDA LISTRADA BRANCA E LARANJA, TIPO GUARDA CORPO, EM POLIETILENO MONOFILADO, ROLO 1,20 X 50 M (L X C)",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "M",
     "preco_desonerado": 2.73,
     "preco_onerado": 2.73,

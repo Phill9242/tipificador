@@ -55,34 +55,6 @@
     },
     "precisao_geral": "96.59"
   },
-  "sinapi": {
-    "sbc": {
-      "precisao": "97.08",
-      "itens": "9017",
-      "erros": "263"
-    },
-    "sicro3": {
-      "precisao": "83.34",
-      "itens": "2191",
-      "erros": "365"
-    },
-    "emop": {
-      "precisao": "95.79",
-      "itens": "5300",
-      "erros": "223"
-    },
-    "sinapi": {
-      "precisao": "99.9",
-      "itens": "4937",
-      "erros": "5"
-    },
-    "seinfra": {
-      "precisao": "95.71",
-      "itens": "11828",
-      "erros": "508"
-    },
-    "precisao_geral": "95.9"
-  },
   "sbc_sinapi": {
     "sbc": {
       "precisao": "99.98",
@@ -468,16 +440,87 @@
       "erros": "95"
     },
     "precisao_geral": "97.21"
+  },
+  "sinapi": {
+    "sinapi": {
+      "erros": {
+        "00038605": {
+          "codigo": "00038605",
+          "descricao": "ABERTURA PARA ENCAIXE DE CUBA OU LAVATORIO EM BANCADA DE MARMORE/ GRANITO OU OUTRO TIPO DE PEDRA NATURAL",
+          "preditor": "material",
+          "original": "servicos"
+        },
+        "00044057": {
+          "codigo": "00044057",
+          "descricao": "CAMINHAO TOCO, PESO BRUTO TOTAL 13200 KG, CARGA UTIL MAXIMA 9200 KG, DISTANCIA ENTRE EIXOS 3,31 M, POTENCIA 175 CV (INCLUI CABINE E CHASSI, NAO INCLUI CARROCERIA)",
+          "preditor": "equipamento",
+          "original": "equipamento permanente"
+        },
+        "00038642": {
+          "codigo": "00038642",
+          "descricao": "COMPRESSOR DE AR REBOCAVEL, VAZAO 152 PCM, PRESSAO EFETIVA DE TRABALHO 102 PSI, MOTOR DIESEL, POTENCIA 31,5 KW",
+          "preditor": "material",
+          "original": "equipamento"
+        },
+        "00026039": {
+          "codigo": "00026039",
+          "descricao": "DISTRIBUIDOR DE AGREGADOS AUTOPROPELIDO, CAP 3 M3, A DIESEL, 6 CC, 176 CV",
+          "preditor": "equipamento",
+          "original": "material"
+        },
+        "00003731": {
+          "codigo": "00003731",
+          "descricao": "LADRILHO HIDRAULICO, *20 X 20* CM, E= 2 CM, DADOS, COR NATURAL",
+          "preditor": "equipamento",
+          "original": "material"
+        },
+        "00038473": {
+          "codigo": "00038473",
+          "descricao": "MACARICO DE SOLDA 201 PARA EXTENSAO GLP OU ACETILENO",
+          "preditor": "material",
+          "original": "equipamento"
+        },
+        "00039813": {
+          "codigo": "00039813",
+          "descricao": "MAQUINA TIPO VASO/TANQUE/JATO DE PRESSAO PORTATIL PARA JATEAMENTO, CONTROLE AUTOMATICO E REMOTO, CAMARA DE 1 SAIDA, 280 L, DIAM. *670* MM, BICO JATO CURTO VENTURI DE 5/16\", MANGUEIRA DE 1\" DE 10 M, COMPLETA (VALVULAS POP UP E DOSADORA, FUNDO CONICO ETC)",
+          "preditor": "material",
+          "original": "equipamento"
+        },
+        "00009914": {
+          "codigo": "00009914",
+          "descricao": "USINA DE CONCRETO FIXA, CAPACIDADE NOMINAL DE 90 A 120 M3/H, SEM SILO",
+          "preditor": "equipamento",
+          "original": "material"
+        },
+        "00036149": {
+          "codigo": "00036149",
+          "descricao": "TRAVA-QUEDAS EM ACO PARA CORDA DE 12 MM, EXTENSOR DE 25 X 300 MM, COM MOSQUETAO TIPO GANCHO TRAVA DUPLA",
+          "preditor": "material",
+          "original": "equipamento"
+        },
+        "00044481": {
+          "codigo": "00044481",
+          "descricao": "GRANALHA DE ACO, ESFERICA (SHOT), PARA JATEAMENTO, PENEIRA 1,19 A 1,00 MM  (SAE S390)",
+          "preditor": "equipamento",
+          "original": "material"
+        },
+        "00036786": {
+          "codigo": "00036786",
+          "descricao": "GRANALHA DE ACO, ANGULAR (GRIT), PARA JATEAMENTO, PENEIRA 0,117 A 1,00 MM, (SAE G-40 A G-80)",
+          "preditor": "material",
+          "original": "equipamento"
+        },
+        "00013447": {
+          "codigo": "00013447",
+          "descricao": "MARTELO PERFURADOR PNEUMATICO MANUAL, DE SUPERFICIE, COM AVANCO DE COLUNA, PESO DE 22 KG",
+          "preditor": "material",
+          "original": "equipamento"
+        }
+      },
+      "precisao": "99.76",
+      "itens": "4937",
+      "n_erros": "12"
+    },
+    "precisao_geral": "99.76"
   }
 }
-
-// { "index" => 1,  "nome" => "Equipamento" },
-// { "index" => 2,  "nome" => "Equipamento para Aquisição Permanente" },
-// { "index" => 3,  "nome" => "Mão de Obra" },
-// { "index" => 4,  "nome" => "Material" },
-// { "index" => 5,  "nome" => "Serviços" },
-// { "index" => 6,  "nome" => "Taxas" },
-// { "index" => 9,  "nome" => "Administração" },
-// { "index" => 10, "nome" => "Aluguel" },
-// { "index" => 11, "nome" => "Verba" },
-// { "index" => 7,  "nome" => "Outros" },
