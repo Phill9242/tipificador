@@ -8321,7 +8321,7 @@
   },
   "00002711": {
     "descricao": "CARRINHO DE MAO DE ACO CAPACIDADE 50 A 60 L, PNEU COM CAMARA",
-    "tipo": 1,
+    "tipo": 4,
     "unidade": "UN",
     "preco_desonerado": 239.99,
     "preco_onerado": 239.99,
@@ -35529,7 +35529,7 @@
   },
   "00010743": {
     "descricao": "TROLEY MANUAL CAPACIDADE 1 T",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 637.12,
     "preco_onerado": 637.12,

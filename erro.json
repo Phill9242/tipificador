@@ -1,0 +1,3670 @@
+[
+  {
+    "codigo": "00038785",
+    "descricao": "LUMINARIA HERMETICA IP-65 PARA 2 DUAS LAMPADAS DE 14/16/18/20 W (NAO INCLUI REATOR E LAMPADAS)",
+    "preditor": "material",
+    "original": "mao de obra",
+    "base": "sinapi"
+  },
+  {
+    "codigo": "00038473",
+    "descricao": "MACARICO DE SOLDA 201 PARA EXTENSAO GLP OU ACETILENO",
+    "preditor": "material",
+    "original": "equipamento",
+    "base": "sinapi"
+  },
+  {
+    "codigo": "00013447",
+    "descricao": "MARTELO PERFURADOR PNEUMATICO MANUAL, DE SUPERFICIE, COM AVANCO DE COLUNA, PESO DE 22 KG",
+    "preditor": "material",
+    "original": "equipamento",
+    "base": "sinapi"
+  },
+  {
+    "codigo": "00026039",
+    "descricao": "DISTRIBUIDOR DE AGREGADOS AUTOPROPELIDO, CAP 3 M3, A DIESEL, 6 CC, 176 CV",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sinapi"
+  },
+  {
+    "codigo": "00036485",
+    "descricao": "USINA DE LAMA ASFALTICA, PROD 30 A 50 T/H, SILO DE AGREGADO 7 M3, RESERVATORIOS PARA EMULSAO E AGUA DE 2,3 M3 CADA, MISTURADOR TIPO PUGG-MILL A SER MONTADO SOBRE CAMINHAO",
+    "preditor": "material",
+    "original": "equipamento",
+    "base": "sinapi"
+  },
+  {
+    "codigo": "00038137",
+    "descricao": "LADRILHO HIDRAULICO, *20 X 20* CM, E= 2 CM, RAMPA, NATURAL",
+    "preditor": "material",
+    "original": "equipamento",
+    "base": "sinapi"
+  },
+  {
+    "codigo": "00010747",
+    "descricao": "MARTELO PERFURADOR PNEUMATICO MANUAL, PESO DE 25 KG, COM SILENCIADOR",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sinapi"
+  },
+  {
+    "codigo": "00036497",
+    "descricao": "GUINCHO DE ALAVANCA MANUAL, CAPACIDADE 3,2 T COM 20 M DE CABO DE ACO DIAMETRO 16,3 MM",
+    "preditor": "material",
+    "original": "servicos",
+    "base": "sinapi"
+  },
+  {
+    "codigo": "00036149",
+    "descricao": "TRAVA-QUEDAS EM ACO PARA CORDA DE 12 MM, EXTENSOR DE 25 X 300 MM, COM MOSQUETAO TIPO GANCHO TRAVA DUPLA",
+    "preditor": "material",
+    "original": "equipamento",
+    "base": "sinapi"
+  },
+  {
+    "codigo": "00002711",
+    "descricao": "CARRINHO DE MAO DE ACO CAPACIDADE 50 A 60 L, PNEU COM CAMARA",
+    "preditor": "material",
+    "original": "equipamento",
+    "base": "sinapi"
+  },
+  {
+    "codigo": "00010743",
+    "descricao": "TROLEY MANUAL CAPACIDADE 1 T",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sinapi"
+  },
+  {
+    "codigo": "E9507",
+    "descricao": "PLOTADORA DE RECORTE COM COMPUTADOR E PROGRAMA COMPUTACIONAL",
+    "preditor": "material",
+    "original": "equipamento",
+    "base": "sicro3"
+  },
+  {
+    "codigo": "E9074",
+    "descricao": "TANQUE DE ESTOCAGEM DE ASFALTO COM AGITADORES DE 60.000 L",
+    "preditor": "material",
+    "original": "equipamento",
+    "base": "sicro3"
+  },
+  {
+    "codigo": "E9114",
+    "descricao": "PAINEL COM SETA LUMINOSA PARA MONTAGEM EM CAMINHAO",
+    "preditor": "material",
+    "original": "equipamento",
+    "base": "sicro3"
+  },
+  {
+    "codigo": "030308",
+    "descricao": "ALUGUEL DE BOMBA CENTRIFUGA 7,5 CV 2.1/2\"X2\"",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "007819",
+    "descricao": "ALUGUEL DE GRUPO GERADOR 80 A 125KVA MOTOR A DIESEL, REBOCAVEL",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "019770",
+    "descricao": "ALUGUEL DIA JATO DE AREIA EQUIPAMENTO COMPLETO",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "021913",
+    "descricao": "ALUGUEL MENSAL SERRA PORTATIL MAKITA 5900-B",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "099753",
+    "descricao": "APLICADOR DE LAN DE VIDRO",
+    "preditor": "material",
+    "original": "mao de obra",
+    "base": "sbc"
+  },
+  {
+    "codigo": "099148",
+    "descricao": "APONTADOR",
+    "preditor": "material",
+    "original": "mao de obra",
+    "base": "sbc"
+  },
+  {
+    "codigo": "064035",
+    "descricao": "AR CONDICIONADO - FANCOLETE 1,5 TR'S 220V CARRIER DUTO FRIO 42BBA018A510HDC",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "032126",
+    "descricao": "AR CONDICIONADO - FANCOLETE BUILT-IN HIDRONICO 18.000 BTU'S SO FRIO 220V CARRIER",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "032127",
+    "descricao": "AR CONDICIONADO - FANCOLETE BUILT-IN HIDRONICO 30.000 BTU'S SO FRIO 220V CARRIER",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "000354",
+    "descricao": "AR CONDICIONADO - FANCOLETE CASSETE 1,7 TR'S 220V FRIO CARRIER",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "001384",
+    "descricao": "AR CONDICIONADO - FANCOLETE DUTO CARRIER 0,8 TR",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "001385",
+    "descricao": "AR CONDICIONADO - FANCOLETE DUTO CARRIER 1,5 TR'S",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "002070",
+    "descricao": "AR CONDICIONADO - FANCOLETE HW 1,8 TR'S FRIO 220V HITACHI",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "032129",
+    "descricao": "AR CONDICIONADO - FANCOLETE PISO TETO HIDRONICO 55.000 BTU'S SO FRIO 220V CARRIER",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "012531",
+    "descricao": "AR CONDICIONADO - MULTI SPLIT/SPLITAO CARRIER 5 TR'S",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "033274",
+    "descricao": "AR CONDICIONADO - SPLIT BUILT-IN VERSATILE 18.000 BTU'S FRIO 220V - 42BQA018510HC",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "064036",
+    "descricao": "AR CONDICIONADO - SPLIT DUTO INVERTER DAIKIN SKY AIR 36.000 BTU'S QUENTE FRIO SBQ36AVL - 220V",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "010028",
+    "descricao": "AR CONDICIONADO - UNIDADE CONDENSADORA VRF COM CAPACIDADE ENTRE 14,0 A 16,0 TR'S",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "036699",
+    "descricao": "AR CONDICIONADO - UNIDADE EVAPORADORA PAREDE DE 2,5 HP 220V/1PH C/ RECEPTOR",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "036700",
+    "descricao": "AR CONDICIONADO - UNIDADE EVAPORADORA PAREDE DE 3,0 HP 220V/1PH C/ RECEPTOR",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "036702",
+    "descricao": "AR CONDICIONADO - UNIDADE EVAPORADORA PAREDE DE 5,0 HP 220V/1PH C/ RECEPTOR",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "064034",
+    "descricao": "AR CONDICIONADO - UNIDADE EVAPORADORA VRF TIPO HI-WALL 2,0 TR'S",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "064037",
+    "descricao": "AR CONDICIONADO - UNIDADE EVAPORADORA VRF TIPO PISO/TETO 1,0 TR",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "080622",
+    "descricao": "AR CONDICIONADO - UNIDADE EVAPORADORA VRF TIPO PISO/TETO 2,0 TR'S",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "080623",
+    "descricao": "AR CONDICIONADO - UNIDADE EVAPORADORA VRF TIPO PISO/TETO 3,0 TR'S",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "080625",
+    "descricao": "AR CONDICIONADO - UNIDADE EVAPORADORA VRF TIPO PISO/TETO 4,0 TR'S",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "016101",
+    "descricao": "AR CONDICIONADO - UNIDADE RESFRIADORA 150 TR'S COM COMPRESSOR PARAFUSO",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "000355",
+    "descricao": "AR CONDICIONADO DE JANELA 12.000 BTU'S CONSUL FRIO",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "003707",
+    "descricao": "AR CONDICIONADO DE JANELA 7.500 BTU'S MANUAL FRIO SPRINGER MIDEA",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "036703",
+    "descricao": "AR CONDICIONADO DUTO HEAVY CARRIER 36.000 BTU'S - QUENTE/FRIO",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "036701",
+    "descricao": "AR CONDICIONADO DUTO HEAVY CARRIER 48.000 BTU'S QUENTE/FRIO",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "003706",
+    "descricao": "AR CONDICIONADO FAN COIL ZEN 39EB10P68HVA 10 TR'S CARRIER",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "069753",
+    "descricao": "AR CONDICIONADO SPLIT 12.000 BTU'S DUAL INVERTER ECONOMICO FRIO 127V LG",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "071412",
+    "descricao": "AR CONDICIONADO SPLIT 24.000 BTU'S CASSETE QUENTE/FRIO LG",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "000363",
+    "descricao": "AR CONDICIONADO SPLIT 36.000 BTUS TETO INVERTER XPOWER FRIO 220V MONO 42ZQVB36C5 CARRIER",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "085775",
+    "descricao": "AR CONDICIONADO SPLIT 9.000 BTU'S DUAL INVERTER ECONOMICO LG",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "036950",
+    "descricao": "AR CONDICIONADO SPLIT 9.000 BTU'S DUAL INVERTER VOICE LG S4-Q09WA51",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "036964",
+    "descricao": "AR CONDICIONADO SPLIT CASSETE 24.000 BTU'S SO FRIO 220V CARRIER",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "036965",
+    "descricao": "AR CONDICIONADO SPLIT CASSETE 36.000 BTU'S SO FRIO 220V MONOFASICO CARRIER",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "036967",
+    "descricao": "AR CONDICIONADO SPLIT CASSETE 42.000 BTU'S INVERTER - QUENTE/FRIO 220V FUJITSU",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "036963",
+    "descricao": "AR CONDICIONADO SPLIT CASSETE ATUALLE QUENTE/FRIO 48.000 BTU'S ELGIN",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "085774",
+    "descricao": "AR CONDICIONADO SPLIT CASSETE INVERTER 60.000 BTUS QUENTE E FRIO ATUW60GMLP0.AWGZBRZ LG",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "094249",
+    "descricao": "AR CONDICIONADO SPLIT DUTO INVERTER SKYAIR 36.000 BTUS QUENTE/FRIO 220V MONOFASICO DAIKIN",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "036968",
+    "descricao": "AR CONDICIONADO SPLIT ECOLOGIC 18.000 BTU'S QUENTE/FRIO 220V ELGIM",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "045101",
+    "descricao": "AR CONDICIONADO SPLIT HI-WALL 18.000 BTUS FRIO 220V SPRINGER MIDEA",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030779",
+    "descricao": "AR CONDICIONADO SPLIT HI-WALL 30.000 BTUS FRIO 220V SPRINGER MIDEA",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "005088",
+    "descricao": "AR CONDICIONADO SPLIT HI-WALL 9.000 BTUS ECOTURBO FRIO R410 220 VOLTS ELECTROLUX",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "071104",
+    "descricao": "AR CONDICIONADO SPLIT HW 9.000 BTUS DUAL INVERTER VOICE QUENTE/FRIO LG S4NW09WA51A.EB2GAMZ",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "071106",
+    "descricao": "AR CONDICIONADO SPLIT HW SPRINGER MIDEA AIR VOLUTION 12.000 BTU'S SO FRIO 220V",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "072411",
+    "descricao": "AR CONDICIONADO SPLIT INVERTER SMART 22.000 BTUS FRIO 220V LG",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "003698",
+    "descricao": "AR CONDICIONADO SPLIT INVERTER TRANE 9.000 BTU'S FRIO 4MYW16",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "000444",
+    "descricao": "AR CONDICIONADO SPLIT PISO/TETO 18.000 BTU'S CARRIER FRIO 220V",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "045103",
+    "descricao": "AR CONDICIONADO SPLIT PISO/TETO 36.000 BTU'S QUENTE/FRIO 220V GREE",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "068750",
+    "descricao": "AR CONDICIONADO SPLITAO 10 TR'S 220V TRIFASICO CARRIER",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023138",
+    "descricao": "AR CONDICIONADO SPLITAO 15 TR'S VERTICAL 380V TRIFASICO CARRIER",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "068752",
+    "descricao": "AR CONDICIONADO SPLITAO 20 TR'S 220V TRIFASICO CARRIER",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "036966",
+    "descricao": "AR CONDICIONADO SPLITAO 30 TR'S ECO STANDART 220V-3 CARRIER",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "012544",
+    "descricao": "AR CONDICIONADO SPLITAO FIXO 25 TR'S ECO STANDER 220V CARRIER",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "036962",
+    "descricao": "AR CONDICIONADO TRI SPLIT 3 X 12.000 BTU'S 220V FRIO SPRINGER MIDEA",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "068856",
+    "descricao": "AR CONDICIONADO TRI SPLIT INVERTER 3 X 9.000 BTU'S DAIKIN",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "099819",
+    "descricao": "ARMADOR OU FERREIRO",
+    "preditor": "material",
+    "original": "mao de obra",
+    "base": "sbc"
+  },
+  {
+    "codigo": "099300",
+    "descricao": "ARMADOR OU FERREIRO",
+    "preditor": "material",
+    "original": "mao de obra",
+    "base": "sbc"
+  },
+  {
+    "codigo": "099663",
+    "descricao": "AZULEJISTA/LADRILHISTA",
+    "preditor": "material",
+    "original": "mao de obra",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030309",
+    "descricao": "BOMBA CENTRIFUGA BC-22 F2 10 CV TRIFASICA 220/380V SCHNEIDER",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030303",
+    "descricao": "BOMBA CENTRIFUGA BC-98 1/3 CV 220V MONOFASICA SCHNEIDER",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "063008",
+    "descricao": "BOMBA CENTRIFUGA COM MOTOR ELETRICO TRIFASICO, 2HP, PARA RECALQUE D'AGUA SCM-1500 FERRARI",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "063009",
+    "descricao": "BOMBA CENTRIFUGA COM MOTOR ELETRICO TRIFASICO, BC-21 F 2 SCHNEIDER PARA RECALQUE D'AGUA",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "042254",
+    "descricao": "BOMBA DE LIMPEZA DE PRESSAO EOS PARA AR CONDICIONADO SPLIT EOS PCW-4S 220V",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "004611",
+    "descricao": "BOMBA EJETORA EP 1-0 1 CV MONOFASICO 127V DANCOR",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "060623",
+    "descricao": "BOMBA INCENDIO CENTRIFUGA 15 CV TRI TJM 678 DANCOR",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "001801",
+    "descricao": "BOMBA MONOESTAGIO BC-22R 1.1/2 7,5 CV TRIFASICA SCHNEIDER",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030315",
+    "descricao": "BOMBA MONOESTAGIO COM BOCAIS ROSQUEADOS BSP CA-7 ROTOR F F 3500 RPM 3 CV MONOFASICA 110/220V 20130082012 DARKA",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "032457",
+    "descricao": "BOMBA PARA POCO SUBMERSA 4R3R-07 0.5 CV MONOFASICA 220V LEAO",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "003215",
+    "descricao": "BOMBA SUBMERSA EBARA OP4 4BPS8I-9 3 CV MONOFASICA 220V",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "032572",
+    "descricao": "BOMBA SUBMERSA R20A-12 12 CV TRIFASICA 220V LEAO",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030316",
+    "descricao": "BOMBA SUBMERSIVEL BCS-220 3 CV TRIFASICA 220V SCHNEIDER",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "099600",
+    "descricao": "CALCETEIRO",
+    "preditor": "material",
+    "original": "mao de obra",
+    "base": "sbc"
+  },
+  {
+    "codigo": "032080",
+    "descricao": "CAMINHAO BASC.MERCEDES LK 620/42 5,0M3 200CV",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "032081",
+    "descricao": "CAMINHAO BASC.MERCEDES LK 620/42 6,0M3 200CV",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "032082",
+    "descricao": "CAMINHAO BASC.MERCEDES LK 620/42 8,0M3 200CV",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "032086",
+    "descricao": "CAMINHAO BASC.VOLKSWAGEN 17210 6,0M3 155CV",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030572",
+    "descricao": "CAMINHAO BASCULANTE DIESEL 140CV 8,0M3",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "031025",
+    "descricao": "CAMINHAO BETONEIRA S.PES.MERCEDES 4X2 5,0M3 134CV",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "032095",
+    "descricao": "CAMINHAO CARROCERIA FORD F12000 8TN 130CV",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "032096",
+    "descricao": "CAMINHAO CARROCERIA FORD F14000 10TN 130CV",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "032094",
+    "descricao": "CAMINHAO CARROCERIA MERCEDES L14620 10TN 200CV",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "032097",
+    "descricao": "CAMINHAO CARROCERIA VOLKSWAGEN 13190 8TN 132CV",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030591",
+    "descricao": "CAMINHAO FORD D-14000 CARROC.MADEIRA-10 TN",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "032462",
+    "descricao": "CAMINHAO GUINDAUTO FORD F12000 8TN 130CV",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030542",
+    "descricao": "CAMINHAO GUINDAUTO MERCEDES L1620 8TN 200CV",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030475",
+    "descricao": "CAMINHAO GUINDAUTO VOLKSWAGEN 17210 10TN 155CV",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "011514",
+    "descricao": "CAMINHAO IRRIGADOR 6000 LITROS - CHI",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "011513",
+    "descricao": "CAMINHAO IRRIGADOR 6000 LITROS - CHP",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030235",
+    "descricao": "CAMINHAO LAMA ASFALTICA VU-180CV 20000H/A (19210)",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "032467",
+    "descricao": "CAMINHAO MEDIO CARROCERIA VOLKSWAGEN 8150 133CV",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030573",
+    "descricao": "CAMINHAO PIPA C/IRRIGADOR-167CV 20.000 L",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "032090",
+    "descricao": "CAMINHAO PIPA FORD F14000 D4928 8000L 130CV",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "032087",
+    "descricao": "CAMINHAO PIPA MERCEDES BENZ LK1418 6000L 167CV",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "099360",
+    "descricao": "CARPINTEIRO DE ESQUADRIA",
+    "preditor": "material",
+    "original": "mao de obra",
+    "base": "sbc"
+  },
+  {
+    "codigo": "099135",
+    "descricao": "CARPINTEIRO DE TELHADOS/TELHADISTA",
+    "preditor": "material",
+    "original": "mao de obra",
+    "base": "sbc"
+  },
+  {
+    "codigo": "036630",
+    "descricao": "CARREGADOR VEICULAR EVLINK PARKING 2X22 KW T2S RIFD COM PEDESTAL EVF2S22P44R | SCHNEIDER",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "032481",
+    "descricao": "COMPACTADOR AUTOPROP.1 ROLO DYNAPAC CA25 127CV (19776)",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "032159",
+    "descricao": "COMPACTADOR AUTOPROP.PNEUS DYNAPAC 221 106CV",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "032161",
+    "descricao": "COMPACTADOR AUTOPROP.PNEUS MULLER 141CV",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "032163",
+    "descricao": "COMPACTADOR AUTOPROP.PNEUS TEMA SP80 107CV",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "032479",
+    "descricao": "COMPACTADOR MANUAL MOTOR DIESEL 5HP",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "031374",
+    "descricao": "COMPRESSOR REBOCAVEL ATLAS XAS 186 350PCM, MOTOR DIESEL, 111CV",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030375",
+    "descricao": "COMPRESSOR REBOCAVEL ATLAS XAS-96 260PCM, MOTOR DIESEL, 79CV",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "099322",
+    "descricao": "CONCRETISTA",
+    "preditor": "material",
+    "original": "mao de obra",
+    "base": "sbc"
+  },
+  {
+    "codigo": "012572",
+    "descricao": "CONJUNTO FILTRO BOMBA E AREIA DANCOR PISCINA DFR-12 COM BOMBA DE 1/4 CV MONOFASICA 110/220V - 20120058023",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "012574",
+    "descricao": "CONJUNTO FILTRO E BOMBA DANCOR PISCINA DFR 19-10 COM BOMBA 3/4 CV MONOFASICA",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "048753",
+    "descricao": "CONSULTORIA TABELA ABCE ARQUITETO JUNIOR",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "048752",
+    "descricao": "CONSULTORIA TABELA ABCE ARQUITETO PLENO",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "048751",
+    "descricao": "CONSULTORIA TABELA ABCE ARQUITETO SENIOR",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "048754",
+    "descricao": "CONSULTORIA TABELA ABCE ENGENHEIRO JUNIOR",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "048755",
+    "descricao": "CONSULTORIA TABELA ABCE ENGENHEIRO PLENO",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "048756",
+    "descricao": "CONSULTORIA TABELA ABCE ENGENHEIRO SENIOR",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "036819",
+    "descricao": "CORTINA DE AR VECAIR VEC 1800C 1,80M COM CONTROLE REMOTO 220V",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "036813",
+    "descricao": "CORTINA DE AR VIX ONE 1,20M COM CONTROLE REMOTO 220V",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023591",
+    "descricao": "CURSO DE CAPACITACAO PARA AJUDANTE DE ARMADOR",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023592",
+    "descricao": "CURSO DE CAPACITACAO PARA AJUDANTE DE CARPINTEIRO",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023594",
+    "descricao": "CURSO DE CAPACITACAO PARA AJUDANTE DE OPERACAO EM GERAL",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023596",
+    "descricao": "CURSO DE CAPACITACAO PARA AJUDANTE ESPECIALIZADO",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023680",
+    "descricao": "CURSO DE CAPACITACAO PARA AUXILIAR DE DESENHISTA",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023599",
+    "descricao": "CURSO DE CAPACITACAO PARA AUXILIAR DE ELETRICISTA",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023600",
+    "descricao": "CURSO DE CAPACITACAO PARA AUXILIAR DE ENCANADOR OU BOMBEIRO",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023681",
+    "descricao": "CURSO DE CAPACITACAO PARA AUXILIAR DE ESCRITORIO",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023601",
+    "descricao": "CURSO DE CAPACITACAO PARA AUXILIAR DE LABORATORIO",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023602",
+    "descricao": "CURSO DE CAPACITACAO PARA AUXILIAR DE MECANICO",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023603",
+    "descricao": "CURSO DE CAPACITACAO PARA AUXILIAR DE SERRALHEIRO",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023604",
+    "descricao": "CURSO DE CAPACITACAO PARA AUXILIAR DE SERVICOS GERAIS",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023605",
+    "descricao": "CURSO DE CAPACITACAO PARA AUXILIAR DE TOPOGRAFO",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023606",
+    "descricao": "CURSO DE CAPACITACAO PARA AUXILIAR TECNICO DE ENGENHARIA",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023614",
+    "descricao": "CURSO DE CAPACITACAO PARA CAVOUQUEIRO OU OPERADOR PERFURATRIZ",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023615",
+    "descricao": "CURSO DE CAPACITACAO PARA ELETRICISTA",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023616",
+    "descricao": "CURSO DE CAPACITACAO PARA ELETRICISTA INDUSTRIAL",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023684",
+    "descricao": "CURSO DE CAPACITACAO PARA ENGENHEIRO CIVIL DE OBRA JUNIOR",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023685",
+    "descricao": "CURSO DE CAPACITACAO PARA ENGENHEIRO CIVIL DE OBRA PLENO",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023686",
+    "descricao": "CURSO DE CAPACITACAO PARA ENGENHEIRO CIVIL DE OBRA SENIOR",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023688",
+    "descricao": "CURSO DE CAPACITACAO PARA ENGENHEIRO ELETRICISTA",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023629",
+    "descricao": "CURSO DE CAPACITACAO PARA MOTORISTA DE BASCULANTE",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023630",
+    "descricao": "CURSO DE CAPACITACAO PARA MOTORISTA DE CAMINHAO",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023631",
+    "descricao": "CURSO DE CAPACITACAO PARA MOTORISTA DE CAMINHAO/CARRETA",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023632",
+    "descricao": "CURSO DE CAPACITACAO PARA MOTORISTA DE VEICULO LEVE",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023633",
+    "descricao": "CURSO DE CAPACITACAO PARA MOTORISTA DE VEICULO PESADO",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023634",
+    "descricao": "CURSO DE CAPACITACAO PARA MOTORISTA OPERADOR DE MUNK",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023636",
+    "descricao": "CURSO DE CAPACITACAO PARA OPERADOR DE ACABADORA",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023637",
+    "descricao": "CURSO DE CAPACITACAO PARA OPERADOR DE BETONEIRA",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023672",
+    "descricao": "CURSO DE CAPACITACAO PARA OPERADOR DE BETONEIRA ESTACIONARIA",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023638",
+    "descricao": "CURSO DE CAPACITACAO PARA OPERADOR DE COMPRESSOR",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023639",
+    "descricao": "CURSO DE CAPACITACAO PARA OPERADOR DE DEMARCADORA DE FAIXAS",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023640",
+    "descricao": "CURSO DE CAPACITACAO PARA OPERADOR DE ESCAVADEIRA",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023641",
+    "descricao": "CURSO DE CAPACITACAO PARA OPERADOR DE GUINCHO",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023642",
+    "descricao": "CURSO DE CAPACITACAO PARA OPERADOR DE GUINDASTE",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023651",
+    "descricao": "CURSO DE CAPACITACAO PARA OPERADOR DE JATO DE AREIA",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023643",
+    "descricao": "CURSO DE CAPACITACAO PARA OPERADOR DE MAQUINAS E EQUIPAMENTOS",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023644",
+    "descricao": "CURSO DE CAPACITACAO PARA OPERADOR DE MARTELETE",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023645",
+    "descricao": "CURSO DE CAPACITACAO PARA OPERADOR DE MOTO-ESCREIPER",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023646",
+    "descricao": "CURSO DE CAPACITACAO PARA OPERADOR DE MOTONIVELADORA",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023647",
+    "descricao": "CURSO DE CAPACITACAO PARA OPERADOR DE PA CARREGADEIRA",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023648",
+    "descricao": "CURSO DE CAPACITACAO PARA OPERADOR DE PAVIMENTADORA",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023649",
+    "descricao": "CURSO DE CAPACITACAO PARA OPERADOR DE ROLO COMPACTADOR",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023650",
+    "descricao": "CURSO DE CAPACITACAO PARA OPERADOR DE USINA DE ASFALTO",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023652",
+    "descricao": "CURSO DE CAPACITACAO PARA OPERADOR PARA BATE ESTACAS",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023655",
+    "descricao": "CURSO DE CAPACITACAO PARA PINTOR",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023657",
+    "descricao": "CURSO DE CAPACITACAO PARA PINTOR PARA TINTA EPOXI",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023666",
+    "descricao": "CURSO DE CAPACITACAO PARA TECNICO DE LABORATORIO",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023667",
+    "descricao": "CURSO DE CAPACITACAO PARA TECNICO DE SONDAGEM",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "099453",
+    "descricao": "DESENHISTA EM AUTOCAD",
+    "preditor": "material",
+    "original": "mao de obra",
+    "base": "sbc"
+  },
+  {
+    "codigo": "099715",
+    "descricao": "DUTEIRO - MONTADOR",
+    "preditor": "material",
+    "original": "mao de obra",
+    "base": "sbc"
+  },
+  {
+    "codigo": "099031",
+    "descricao": "ELETROTECNICO",
+    "preditor": "material",
+    "original": "mao de obra",
+    "base": "sbc"
+  },
+  {
+    "codigo": "099930",
+    "descricao": "ENCARREGADO",
+    "preditor": "material",
+    "original": "mao de obra",
+    "base": "sbc"
+  },
+  {
+    "codigo": "099675",
+    "descricao": "ENCARREGADO DE ARMACAO",
+    "preditor": "material",
+    "original": "mao de obra",
+    "base": "sbc"
+  },
+  {
+    "codigo": "099672",
+    "descricao": "ENCARREGADO DE CONCRETO",
+    "preditor": "material",
+    "original": "mao de obra",
+    "base": "sbc"
+  },
+  {
+    "codigo": "003655",
+    "descricao": "ENCARREGADO DE OBRAS",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "099613",
+    "descricao": "ENCARREGADO DE SOLDA",
+    "preditor": "material",
+    "original": "mao de obra",
+    "base": "sbc"
+  },
+  {
+    "codigo": "099311",
+    "descricao": "ENCARREGADO DE TURMA",
+    "preditor": "material",
+    "original": "mao de obra",
+    "base": "sbc"
+  },
+  {
+    "codigo": "089998",
+    "descricao": "ENGENHEIRO AMBIENTAL SENIOR",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "003693",
+    "descricao": "EPI - MENSALISTA (ENCARGOS COMPLEMENTARES SINAPI)",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023693",
+    "descricao": "EPI - MENSALISTA (ENCARGOS COMPLEMENTARES SINAPI)",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "020774",
+    "descricao": "EQUIPAMENTO/ACESSORIOS PARA QUADRA DE BASQUETE SB700",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "020773",
+    "descricao": "EQUIPAMENTO/ACESSORIOS PARA QUADRA DE FUTEBOL DE SALAO (2 REDES) MASTER REDES",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "020772",
+    "descricao": "EQUIPAMENTO/ACESSORIOS PARA QUADRA DE VOLEI",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "099140",
+    "descricao": "ESTUCADOR",
+    "preditor": "material",
+    "original": "mao de obra",
+    "base": "sbc"
+  },
+  {
+    "codigo": "099525",
+    "descricao": "FEITOR/ENCARREGADO",
+    "preditor": "material",
+    "original": "mao de obra",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023694",
+    "descricao": "FERRAMENTAS - MENSALISTA (ENCARGOS COMPLEMENTARES SINAPI)",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "001236",
+    "descricao": "GERADOR DE ENERGIA A GASOLINA 4T PARTIDA MANUAL 8 KVA 110/ 220 V - MOTOMIL-MGG-8000CLE",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "099315",
+    "descricao": "GESSEIRO",
+    "preditor": "material",
+    "original": "mao de obra",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030700",
+    "descricao": "GRADE ARADORA DE DISCOS TATU 20X24\" PNEUS",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "011525",
+    "descricao": "GRADE DE DISCOS MECANICA 20X24\" COM 20 DISCOS 24\" X 6MM COM PNEUS PARA TRANSPORTE",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "001238",
+    "descricao": "GRUPO GERADOR DE ENERGIA YANMAR YBG55TE 55 KVA 49,5 KVA / 55 KVA 127/220/380/440V",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "006918",
+    "descricao": "GRUPO GERADOR DIESEL COM CARENAGEM POTENCIA 110KVA 1800RPM",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "001237",
+    "descricao": "GRUPO GERADOR DIESEL COM CARENAGEM POTENCIA 150KVA 1800RPM",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "008995",
+    "descricao": "GRUPO GERADOR TRIFASICO 30KVA",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "031302",
+    "descricao": "GUINDASTE AMERICAN 5530 PNEUS-LANCA 42,0M 40TON.",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "031303",
+    "descricao": "GUINDASTE BANTAN 628-PNEUS-LANCA 42,0M 60TON.",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030571",
+    "descricao": "GUINDASTE PNEUS T2-129CV-LANCA HIDR.28,1M 45TN.",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "036804",
+    "descricao": "GUINDASTE S/ PNEUS KRANE-KAR - 9T",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "099024",
+    "descricao": "IMPERMEABILIZADOR",
+    "preditor": "material",
+    "original": "mao de obra",
+    "base": "sbc"
+  },
+  {
+    "codigo": "099355",
+    "descricao": "JARDINEIRO",
+    "preditor": "material",
+    "original": "mao de obra",
+    "base": "sbc"
+  },
+  {
+    "codigo": "036530",
+    "descricao": "KIT MOTOR PARA PORTAO BASCULANTE 1/2 HP",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "036531",
+    "descricao": "KIT MOTOR PARA PORTAO DESLIZANTE 1/2 HP",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "099100",
+    "descricao": "LADRILHEIRO",
+    "preditor": "material",
+    "original": "mao de obra",
+    "base": "sbc"
+  },
+  {
+    "codigo": "020790",
+    "descricao": "LADRILHO HIDRAULICO 30 X 30CM E= 2CM MILANO, NATURAL",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "000043",
+    "descricao": "LOCACAO DE CUBETA(CABACINHA) PLASTICA PARA LAJE NERVURADA 61X61X18CM",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "000072",
+    "descricao": "LOCACAO DE CUBETA(CABACINHA) PLASTICA PARA LAJE NERVURADA 65X65X21CM",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "008041",
+    "descricao": "MACACO DE PROTENSAO DE FIOS COM BOMBA DE 5 CV",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "031072",
+    "descricao": "MAQUINA DEMARC.FAIXAS TRAFEGO CONSMAQ FX-10D",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "032394",
+    "descricao": "MAQUINA MINI EXTRUSORA PARA CURVAS, GUIAS, SARJETAS E MEIO FIO MOTOR DE 5.5HP A GASOLINA",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "099014",
+    "descricao": "MARCENEIRO 1A. CLASSE",
+    "preditor": "material",
+    "original": "mao de obra",
+    "base": "sbc"
+  },
+  {
+    "codigo": "099398",
+    "descricao": "MARMORISTA",
+    "preditor": "material",
+    "original": "mao de obra",
+    "base": "sbc"
+  },
+  {
+    "codigo": "032486",
+    "descricao": "MARTELETE ROMPEDOR AR COMPRIMIDO ATLAS TEX-32PS",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030589",
+    "descricao": "MARTELETE/ROMPEDOR/PERFURADOR ATLAS TEX-41",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "078287",
+    "descricao": "MARTELINHA PARA QUEBRA DE VIDRO - EQUIPAMENTO INCENDIO",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "099310",
+    "descricao": "MESTRE DE OBRAS",
+    "preditor": "material",
+    "original": "mao de obra",
+    "base": "sbc"
+  },
+  {
+    "codigo": "099272",
+    "descricao": "MESTRE DE OBRAS ESTRUTURA",
+    "preditor": "material",
+    "original": "mao de obra",
+    "base": "sbc"
+  },
+  {
+    "codigo": "007811",
+    "descricao": "MOBILIZACAO EQUIPAMENTO TERRAPLENAGEM DMT DE 50,1 A 100 KM",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "050657",
+    "descricao": "MOBILIZACAO/RETIRADA EQUIPAMENTO PERFURACAO DE TUBULAO ATE 50 KM",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "008935",
+    "descricao": "MOBILIZACAO/RETIRADA EQUIPAMENTO REBAIXAMENTO LENCOL",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "099022",
+    "descricao": "MONTADOR",
+    "preditor": "material",
+    "original": "mao de obra",
+    "base": "sbc"
+  },
+  {
+    "codigo": "099611",
+    "descricao": "MONTADOR DE CHAPAS DE ACO",
+    "preditor": "material",
+    "original": "mao de obra",
+    "base": "sbc"
+  },
+  {
+    "codigo": "099950",
+    "descricao": "MONTADOR DE ESTRUTURA EM ALUMINIO",
+    "preditor": "material",
+    "original": "mao de obra",
+    "base": "sbc"
+  },
+  {
+    "codigo": "099543",
+    "descricao": "MONTADOR DE ESTRUTURA METALICA",
+    "preditor": "material",
+    "original": "mao de obra",
+    "base": "sbc"
+  },
+  {
+    "codigo": "036547",
+    "descricao": "MOTOR ELETRICO 220 V PARA CORTINA TIPO ROLO (ROLLUX), RADIO FREQUENCIA COM RECEPTOR EMBUTIDO, ACIONAMENTO POR CONTROLE REMOTO",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030568",
+    "descricao": "PA CARREGADEIRA PNEUS 170CV 2,6M3",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "032149",
+    "descricao": "PA CARREGADEIRA PNEUS CATERPILLAR 1,72M3 105CV",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030567",
+    "descricao": "PA CARREGADEIRA PNEUS CATERPILLAR 213CV 1,91M3",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030227",
+    "descricao": "PA CARREGADEIRA PNEUS FIAT 200 2,50M3 195CV",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030239",
+    "descricao": "PA CARREGADEIRA PNEUS FIAT FR 12B 1,91M3 123CV",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "032150",
+    "descricao": "PA CARREGADEIRA PNEUS FIATALLIS 1,72M3 195CV",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "032151",
+    "descricao": "PA CARREGADEIRA PNEUS FIATALLIS 2,50M3 160CV",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "099538",
+    "descricao": "PASTILHEIRO",
+    "preditor": "material",
+    "original": "mao de obra",
+    "base": "sbc"
+  },
+  {
+    "codigo": "099050",
+    "descricao": "PEDREIRO",
+    "preditor": "material",
+    "original": "mao de obra",
+    "base": "sbc"
+  },
+  {
+    "codigo": "036575",
+    "descricao": "QUADRO DE TRANSFERENCIA AUTOMATICA PARA GRUPO GERADOR ATE 150KVA",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "099847",
+    "descricao": "RASTELEIRO",
+    "preditor": "material",
+    "original": "mao de obra",
+    "base": "sbc"
+  },
+  {
+    "codigo": "001211",
+    "descricao": "REMOCAO EQUIPAMENTO ESTACAS ATE 50KM",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "080163",
+    "descricao": "REMOCAO EQUIPAMENTO PERFURACAO ATE 50KM",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030366",
+    "descricao": "RETROESCAVADEIRA SOBRE PNEUS 101HP 75KW",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030586",
+    "descricao": "RETROESCAVADEIRA SOBRE PNEUS 75HP 56KW",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030406",
+    "descricao": "RETROESCAVADEIRA SOBRE PNEUS 79HP 59KW",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030217",
+    "descricao": "ROLO COMPACTADOR AUTOPROPELIDO, VIBRATORIO EM ACO, CILINDROS LISOS, 80 HP (59 KW), 6 T. CC21 DYNAPAC",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030218",
+    "descricao": "ROLO COMPACTADOR PNEUS TANDEN 6/8TON 126CV",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030220",
+    "descricao": "ROLO COMPACTADOR VIBRATORIO 1 CILINDRO PE DE CARNEIRO 7,5 T",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "031581",
+    "descricao": "ROLO COMPACTADOR VIBRATORIO COM PE DE CARNEIRO EM ACO, 121 A 127HP (90 A 93 KW) CA25PD DYNAPAC",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "011521",
+    "descricao": "ROLO COMPACTADOR VIBRATORIO DE UM CILINDRO/PN 7T",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "035452",
+    "descricao": "ROLO COMPACTADOR VIBRATORIO TANDEM RT-82",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "034445",
+    "descricao": "ROLO COMPACTADOR VIBRATORIO, PE DE CARNEIRO, AUTOPROPELIDO,125 HP, 11,1 T, IMPACTO 31,1 T",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "034444",
+    "descricao": "ROMPEDOR/PERFURADOR ATLAS COPCO TEX41 1CV",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "599900",
+    "descricao": "SERVENTE",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "035864",
+    "descricao": "SONDA ROTATIVA ACIONAMENTO HIDRAULICO, MONTADA SOBRE CHASSIS CAMINHAO ALONGADO ESPECIAL C/3 EIXOS TRASEIROS,12 RODAS, C/CAPACIDADE C/CAPACIDADE P/PERFURAR POCO 12.1/4\" ATE 800M E EM 17.1/2\"ATE 500M",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "099226",
+    "descricao": "SONDADOR",
+    "preditor": "material",
+    "original": "mao de obra",
+    "base": "sbc"
+  },
+  {
+    "codigo": "088129",
+    "descricao": "TOMADA PARA EQUIPAMENTO BIOMEDICO 110/220V COM PLACA",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "099291",
+    "descricao": "TOPOGRAFO",
+    "preditor": "material",
+    "original": "mao de obra",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023690",
+    "descricao": "TRANSPORTE - HORISTA (ENCARGOS COMPLEMENTARES SINAPI)",
+    "preditor": "servicos",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030661",
+    "descricao": "TRATOR AGRICOLA PNEUS NEW HOLLAND 110CV",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030562",
+    "descricao": "TRATOR PNEUS MULLER ATE 100HP",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030249",
+    "descricao": "TRATOR PNEUS VALTRA BM 120 4X4 128HP",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "031311",
+    "descricao": "USINA DE ASFALTO A QUENTE GRAVIMETRICA 100/140 T/H - 260 KW",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "031310",
+    "descricao": "USINA MISTURADORA MOVEL DE RECICLAGEM A FRIO - SISTEMA DE ESPUMA DE ASFALTO - 129 KW",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "016108",
+    "descricao": "VENTILADOR MOTOR AXIAL EXAUSTOR D355 35CM 220V 1/2 CV 1F 4P CONDENSADORA DANFOSS HCM HGM 28 36 42 64",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "031319",
+    "descricao": "VIBROACABADORA DE ASFALTO SOBRE PNEUS - 72 KW",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "099537",
+    "descricao": "VIDRACEIRO",
+    "preditor": "material",
+    "original": "mao de obra",
+    "base": "sbc"
+  },
+  {
+    "codigo": "077280",
+    "descricao": "VISTORIA EM PREDIOS VISINHOS POR ENGENHEIRO PERITO",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023691",
+    "descricao": "ALIMENTACAO - MENSALISTA (ENCARGOS COMPLEMENTARES SINAPI)",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "082270",
+    "descricao": "ALUGUEL CONJUNTO MISTURADOR 180 L DE ALTA ROTACAO E BOMBA DE INJECAO",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "078424",
+    "descricao": "ALUGUEL DE ESTACAO TOTAL E-1 ZTS607 (PRECISAO ANGULAR 10\")",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "078423",
+    "descricao": "ALUGUEL DE ESTACAO TOTAL E-2 RTS825 R3 (PRECISAO ANGULAR 5\")",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "078422",
+    "descricao": "ALUGUEL DE ESTACAO TOTAL E-3 RTS822 R3(PRECISAO ANGULAR 3\")",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "019739",
+    "descricao": "ALUGUEL HORA APARELHO DE SOLDA OXIACETILENO",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "077456",
+    "descricao": "ALUGUEL HORA BOMBA DE VACUO P/DESOBSTRUCAO FRIGORIGENA",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "019742",
+    "descricao": "ALUGUEL MENSAL TALHA TIRFOR 1,5 TONELADA",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "019731",
+    "descricao": "ALUGUEL REGUA VIBRATORIA ELETRICA 4.20M",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030881",
+    "descricao": "AQUECIMENTO ELETR.FLUIDO ASFALTO-CALDEIRA 8CV (19372)",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "032128",
+    "descricao": "AR CONDICIONADO - FANCOLETE BUILT-IN HIDRONICO 44.000 BTU'S SO FRIO 220V CARRIER",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "033275",
+    "descricao": "AR CONDICIONADO - SPLIT DUTO CARRIER BUILT-IN VERSATILE 30.000 BTU'S FRIO 42BQA030510HC - 220V",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "036939",
+    "descricao": "AR CONDICIONADO DE JANELA 30.000 BTU'S SPRINGER SILENTIA",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "036936",
+    "descricao": "AR CONDICIONADO DE JANELA 12.000 BTU'S SPRINGER MIDEA",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "006207",
+    "descricao": "AR CONDICIONADO DE JANELA 21.000 BTU'S MECANICO SPRINGER MIDEA",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "072511",
+    "descricao": "AR CONDICIONADO DE JANELA 27.000 BTU'S SPRINGER MIDEA MECANICO",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "036938",
+    "descricao": "AR CONDICIONADO DE JANELA 7.500 BTU'S SPRINGER CARRIER MECANICO",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "000912",
+    "descricao": "AR CONDICIONADO DUTO STANDARD CARRIER 48.000 BTU'S 380V",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "003644",
+    "descricao": "AR CONDICIONADO FAN COIL HI WALL 14.000 220V-1 (SEM FIO) CARRIER",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "036953",
+    "descricao": "AR CONDICIONADO MULTI SPLIT SPRINGER MIDEA 18.000 BTU'S 9.000+12.000",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "071411",
+    "descricao": "AR CONDICIONADO SPLIT 18000 BTU'S INVERTER DAIKIN",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "004810",
+    "descricao": "AR CONDICIONADO SPLIT 27.000 BTU'S HI WALL FUJITSU",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "071105",
+    "descricao": "AR CONDICIONADO SPLIT 9.000 BTU'S HI WALL SPRINGER MIDEA",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "071413",
+    "descricao": "AR CONDICIONADO SPLIT CASSETE TETO 18.000 BTU'S CARRIER",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "036901",
+    "descricao": "AR CONDICIONADO SPLIT HI-WALL 12.000 BTU'S ELECTROLUX ECOTURBO",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "005091",
+    "descricao": "AR CONDICIONADO SPLIT HI-WALL 24.000 BTUS ECO POWER FRIO 22",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "068690",
+    "descricao": "AR CONDICIONADO SPLIT HI-WALL ON/OFF 22.000 BTU'S SPRINGER MIDEA",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "005089",
+    "descricao": "AR CONDICIONADO SPLIT PISO/TETO 24.000 BTU'S SPRINGER MIDEA AIRVOLUTION 42TFCA22S5",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023139",
+    "descricao": "AR CONDICIONADO SPLIT PISO/TETO 30.000 BTU'S ATUALLE ECO ELGIN",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "045102",
+    "descricao": "AR CONDICIONADO SPLIT PISO/TETO 48.000 BTU'S CARRIER SPACE",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023140",
+    "descricao": "AR CONDICIONADO SPLIT PISO/TETO 60.000 BTU'S GREE",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "068857",
+    "descricao": "AR CONDICIONADO SPLIT PISO/TETO SPACE CARRIER 24.000 BTU'S 220V",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "036972",
+    "descricao": "AR CONDICIONADO SPLIT PISO/TETO SPACE CARRIER TRIFASICO 58.000 BTU'S",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "019777",
+    "descricao": "BANCADA DE MESA E SERRA CIRCULAR DE BANCADA COM DISCO 8\"",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030587",
+    "descricao": "BATE ESTACAS MAGAN 850PM 40TN LANCA 28,1M 29CV",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "032205",
+    "descricao": "BATE ESTACAS MAGAN IM 1200 PM/E 80TN 58CV",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "032204",
+    "descricao": "BATE ESTACAS MAGAN IM 1520 BS 160TN 160CV",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "032506",
+    "descricao": "BATE ESTACAS MAGAN IM 850/PM 40TN 29CV",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030500",
+    "descricao": "BETONEIRA 580L 7,03M3/H C/CARREG.MENEGOTTE 8CV",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030541",
+    "descricao": "BETONEIRA ELET.580L 8CV 7,03M3/H",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030435",
+    "descricao": "BETONEIRA ELETR. CS400 320L 3,2M3/H",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "050006",
+    "descricao": "BETONEIRA ELETRICA 400L 2CV",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030230",
+    "descricao": "BETONEIRA REVERSIVEL DIESEL 780 LITROS 7,03M3/H",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030305",
+    "descricao": "BOMBA AUTO ASPIRANTE ELETRICA ALTA PRESSAO 3KVA VZ.18M3/H",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030306",
+    "descricao": "BOMBA AUTO ASPIRANTE ELETRICA ALTA PRESSAO 3KVA VZ.30M3/H",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030401",
+    "descricao": "BOMBA PROJETAR CONCRETO PUTZMEISTER 10CV 5M3/H",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030400",
+    "descricao": "BOMBA PUTZMEISTER CONCRETO 66CV 35M3/H",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "035861",
+    "descricao": "BROCA DENTE TRICONICO BOTAO 26\" RSC 6.5/8\" DEPR.500 HS.",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "035863",
+    "descricao": "BROCA INSERTO CARBETO TUNGSTENIO 17.1/2\"",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "032459",
+    "descricao": "CALDEIRA DISTRIBUIDORA ASFALTO CONSMAQ 2500L 8CV",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "032167",
+    "descricao": "CALDEIRA REB.DISTR.ASFALTO 3000L ALMEIDA 11CV",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "031306",
+    "descricao": "CALDEIRA REBOC.DISTR.ASFALTO 2500L CONSMAQ 8CV (19011)",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030247",
+    "descricao": "CALDEIRA REBOC.DISTR.ASFALTO ALMEIDA 3000L 11CV",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030248",
+    "descricao": "CALDEIRA REBOC.DISTR.ASFALTO CONSMAQ 2500L 8CV (19081)",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030574",
+    "descricao": "CARRETA REBOCAVEL-\"CARREGA TUDO\"CAP.80TN",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030575",
+    "descricao": "CAVALO MECANICO FORD F12000 45 TN 110CV",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "004196",
+    "descricao": "CHAVE REVERSORA DE MOTOR TRIFASICO 90A 220V LOMBARD",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "004198",
+    "descricao": "CHAVE REVERSORA MOTOR TRIP 8 15A 2HP-LOMBARD",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030746",
+    "descricao": "COMPACTADOR AUTOPROP. VIBRATORIO TIPO TANDEM 130HP",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "032198",
+    "descricao": "COMPACTADOR AUTOPROP.1 CIL.CATERPILLAR 107CV",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "032202",
+    "descricao": "COMPACTADOR AUTOPROP.1 CIL.CATERPILLAR 145CV",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "032171",
+    "descricao": "COMPACTADOR AUTOPROP.1 CIL.DYNAPAC 145CV",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "032174",
+    "descricao": "COMPACTADOR AUTOPROP.1 CIL.DYNAPAC 77CV",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "032176",
+    "descricao": "COMPACTADOR AUTOPROP.1 CIL.DYNAPAC CA152P 95CV",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "032181",
+    "descricao": "COMPACTADOR AUTOPROP.1 CIL.MULLER 55P 75CV",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "032180",
+    "descricao": "COMPACTADOR AUTOPROP.1 CIL.MULLER VAP 75CV",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "031322",
+    "descricao": "COMPACTADOR AUTOPROP.1 CILINDRO CAT-31D 107CV",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030747",
+    "descricao": "COMPACTADOR AUTOPROP.TANDEN TEMA TH-10 44CV (19660)",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "031362",
+    "descricao": "COMPACTADOR AUTOPROP.TENDEN 84L 1 CILINDRO 138CV",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "035472",
+    "descricao": "COMPACTADOR AUTOPROP.VIBRAT.TANDEN CAT CB224C 33CV",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "032022",
+    "descricao": "COMPACTADOR AUTOPROP.VIBRAT.TANDEN DYNAPAC 27CV",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "032019",
+    "descricao": "COMPACTADOR MANUAL DE PLACA VIBRATORIA REVERSIVEL 282 KG",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "035455",
+    "descricao": "COMPACTADOR PLACA 156KG DYNAPAC 4HP",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "035464",
+    "descricao": "COMPACTADOR PLACA 415KG DYNAPAC 6HP",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "005141",
+    "descricao": "COMPRESSOR DE AR 60PCM",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "033379",
+    "descricao": "COMPRESSOR ESTACIONARIO ATLAS 75100 68PCM 100CV",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "033377",
+    "descricao": "COMPRESSOR ESTACIONARIO ATLAS 90100 621PCM 173CV",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "033374",
+    "descricao": "COMPRESSOR REBOCAVEL ATLAS XA186 350PCM 111CV",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "031250",
+    "descricao": "COMPRESSOR REBOCAVEL ATLAS XA360 762PCM 269CV",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "033376",
+    "descricao": "COMPRESSOR REBOCAVEL ATLAS XA96 80PCM 79CV",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "033375",
+    "descricao": "COMPRESSOR REBOCAVEL ATLAS XA96 SA 260PCM 79CV",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "036814",
+    "descricao": "CORTINA DE AR INOX VEC AIR - VEC1000C 1,00M CONTROLE REMOTO",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023595",
+    "descricao": "CURSO DE CAPACITACAO PARA AJUDANTE DE PEDREIRO",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023677",
+    "descricao": "CURSO DE CAPACITACAO PARA ARQUITETO DE OBRA JUNIOR",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023678",
+    "descricao": "CURSO DE CAPACITACAO PARA ARQUITETO DE OBRA PLENO",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "923678",
+    "descricao": "CURSO DE CAPACITACAO PARA ARQUITETO DE OBRA PLENO",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023679",
+    "descricao": "CURSO DE CAPACITACAO PARA ARQUITETO DE OBRA SENIOR",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023625",
+    "descricao": "CURSO DE CAPACITACAO PARA MECANICO EQUIPAMENTOS PESADOS",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023656",
+    "descricao": "CURSO DE CAPACITACAO PARA PINTOR DE LETREIROS",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030742",
+    "descricao": "DISTRIBUIDOR AGREGADOS REBOCAVEL CMV 1,90M3",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "050128",
+    "descricao": "DISTRIBUIDOR ASFALTO ALMEIDA 10000L 69CV (19078)",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "013764",
+    "descricao": "ELEVADOR CREMALHEIRA CABINE FECHADA 1,5X2,5X2,35M (UMA POR TORRE) ATE 20 METROS",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030442",
+    "descricao": "EMPILHADEIRA HYSTER XL2 4 TN TR.=4,35M 82CV",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030443",
+    "descricao": "EMPILHADEIRA HYSTER XL2 7TN TR=5,40M 82CV",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "032144",
+    "descricao": "ESCAVADEIRA HIDR.ESTEIRA CASE CX210 140HP",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030445",
+    "descricao": "ESCAVADEIRA HIDR.ESTEIRA VOLVO EC240 268HP",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "032109",
+    "descricao": "ESCAVADEIRA HIDR.ESTEIRAS CATERPILLAR 99HP",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030364",
+    "descricao": "ESCAVADEIRA HIDRAULICA DE ESTEIRA MODELO EC240 BLC, CAP=1,05M3, POT= 134,23KW",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "005142",
+    "descricao": "ESMERILHADEIRA ANGULAR DEWALT 402 (400H/V)",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023689",
+    "descricao": "EXAMES - MENSALISTA (ENCARGOS COMPLEMENTARES SINAPI)",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "004123",
+    "descricao": "FERRAMENTA - GIRICA (CACAMBA PNEUS) 112 LITROS",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "005882",
+    "descricao": "FURADEIRA DE IMPACTO BOSCH GSB 13RE",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "001235",
+    "descricao": "GERADOR DE ENERGIA A GASOLINA B4T-3500 E 7,0CV 3,5KW MONO 110/220V AVR COM PARTIDA ELETRICA BRANCO",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "032013",
+    "descricao": "GERADOR DIESEL KOLBACH 100KVA 123CV",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030577",
+    "descricao": "GRADE ARADORA DE DISCOS BALDAN 10\"X32\"",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "047717",
+    "descricao": "HELICOPTERO ESQUILO LOCACAO/HORA PARA ATE 3 PESSOAS",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "082123",
+    "descricao": "INSTALACAO DE AR CONDICIONADO SPLIT 9000 E 1200 BTU'S (MO E LINHA FRIGORIGENA)",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030300",
+    "descricao": "LAVAGEM E LUBRIFICACAO VEICULO GRANDE (/1000)",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030301",
+    "descricao": "LAVAGEM E LUBRIFICACAO VEICULO MEDIO (/1000)",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030302",
+    "descricao": "LAVAGEM E LUBRIFICACAO VEICULO PEQUENO (/1000)",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "019735",
+    "descricao": "MAQ.SOLDA ELETR.SMASHWELD 180 ESAB 6.1KVA (30447)",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "019734",
+    "descricao": "MAQ.SOLDA ELETR.SMASHWELD BANTAN 27,5KVA (30449)",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030470",
+    "descricao": "MAQUINA DE SOLDA ELETRICA",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "034422",
+    "descricao": "MAQUINA DE SOLDA RETIFICADOR 500A",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030448",
+    "descricao": "MAQUINA SOLDA ELETR.SMASHWELD 180 BANTAN 3,5KVA",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030447",
+    "descricao": "MAQUINA SOLDA ELETR.SMASHWELD 180E ESAB 6,1KVA",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "032554",
+    "descricao": "MARTELETE PNEUMATICO ATLAS COPCO TEX 32PS",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030644",
+    "descricao": "MARTELO ROMPEDOR BOSCH ELETRICO 1250W",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "036884",
+    "descricao": "MEDIDOR TEMPERATURA BLOCO DO MOTOR DIGITAL AZ SENSOR INCLUSO",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "031790",
+    "descricao": "MOBILIZACAO EQUIPAMENTO PERFURACAO ESTACAS TIPO STRAUSS",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "011518",
+    "descricao": "MOTONIVELADORA 140-H MEDIA - CHI",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "011517",
+    "descricao": "MOTONIVELADORA 140-H MEDIA - CHP",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "032104",
+    "descricao": "MOTONIVELADORA ARTIC.CATERPILLAR 135H 155CV",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030580",
+    "descricao": "MOTONIVELADORA ARTIC.CATERPILLAR 160H 165CV",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030581",
+    "descricao": "MOTONIVELADORA ARTICUL.CATERPILLAR 120B 125CV",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030373",
+    "descricao": "MOTONIVELADORA ARTICUL.CATERPILLAR 140H 155CV",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "037405",
+    "descricao": "PERFURATRIZ ATLAS COPCO RH 571",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "072797",
+    "descricao": "POCO ARTESIANO ENSAIO DE VAZAO COM BOMBA SUBMERSA",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030585",
+    "descricao": "REGUA VIBRATORIA ELETRICA 1,13CV",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "034443",
+    "descricao": "RETROESCAVADEIRA ESTEIRAS CASE 4X4 74CV",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030431",
+    "descricao": "RETROESCAVADEIRA ESTEIRAS CATERPILLAR 4X2 76CV",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030428",
+    "descricao": "RETROESCAVADEIRA ESTEIRAS FIAT ALIS 4X2 85CV",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "037403",
+    "descricao": "ROCADEIRA MANUAL ECCHO 1,5CV GASOLINA",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "032553",
+    "descricao": "ROCADEIRA SP2 GASOLINA 9CV (1000H/ANO)",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023692",
+    "descricao": "SEGURO - MENSALISTA (ENCARGOS COMPLEMENTARES SINAPI)",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "034447",
+    "descricao": "SEMI-REBOQUE CARGA ASFALTICA CONSMAQ 20/25TN",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "032555",
+    "descricao": "SERRA CIRCULAR MADEIRA MECAN PICA-PAU EL.3CV",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "037402",
+    "descricao": "SERRA CIRCULAR MECAN BANCADA MOT.ELETRICO 5CV",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030632",
+    "descricao": "SERRA CIRCULAR P/MADEIRA MECAN ELETR. 5CV",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "005140",
+    "descricao": "SERRA MAKITA REF.4100MHX (400H/V)",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030792",
+    "descricao": "SOQUETE VIBRATORIO DYNAPAC 4,0CV DIESEL",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "031308",
+    "descricao": "TANQUE ESTACIONARIO ASFALTO 20.000 LITROS (19505)",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "032770",
+    "descricao": "TORRE PERF.ROTATIVA CAM.MERCEDES L1620 (19880)",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "032556",
+    "descricao": "TRANSFORMADOR SOLDA ELETRICA BANTAN 250A",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "008075",
+    "descricao": "TRANSPORTE E REMOCAO DE EQUIPAMENTO DE PROTENSAO ATE 50KM",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030497",
+    "descricao": "TRATOR ESTEIRAS KOMATSU LAMINA 165CV",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030498",
+    "descricao": "TRATOR ESTEIRAS KOMATSU LAMINA D4E6 1,3M 80CV",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030371",
+    "descricao": "TRATOR ESTEIRAS LAMINA CATERPILLAR D5C 105CV",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030578",
+    "descricao": "TRATOR ESTEIRAS LAMINA CATERPILLAR D6N 140CV",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030579",
+    "descricao": "TRATOR ESTEIRAS LAMINA CATERPILLAR D8K 305CV",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "031314",
+    "descricao": "USINA ASF.FIXA GRAVIMETRICA 40/60TN/H 116CV (19018)",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030576",
+    "descricao": "USINA DE ASFALTO GRAVIMETRICA 100/150 T/H",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "006914",
+    "descricao": "VALVULA DE SERVICO 3/8\" CONDENSADORA AR CONDICIONADO SPLIT R410",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "002251",
+    "descricao": "VALVULA DE SERVICO 7/8\" CONDENSADORA AR CONDICIONADO SPLIT 48.000 A 80.000 BTUS",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030648",
+    "descricao": "VIBRADOR DE IMERSAO DIESEL 4,5HP 48MM COM MANGOTE",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "037431",
+    "descricao": "VIBRADOR DE IMERSAO ELETRICO 2,0CV",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030590",
+    "descricao": "VIBRADOR IMERSAO A DIESEL 2HP",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "037432",
+    "descricao": "VIBRADOR MANUAL ELETRICO DYNAPAC 2HP",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "037433",
+    "descricao": "VIBRADOR MANUAL ELETRICO DYNAPAC 3HP",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030588",
+    "descricao": "VIBROACABADORA AUTOP.ESTER.CIFALI L=4M 96CV (19030)",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "031320",
+    "descricao": "VIBROACABADORA AUTOPROP.CYBER PNEUS L=5M 80CV",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "031318",
+    "descricao": "VIBROACABADORA AUTOPROP.EST.VOGELE 162CV L=7,5M(19029)",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "070172",
+    "descricao": "VIBROALIZADORA CET 36 HONDA 20CV-1,7/2,8M",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "078421",
+    "descricao": "ALUGUEL DE GPS GEODESICO PM-500",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "021253",
+    "descricao": "ALUGUEL MENSAL BALANCIM MANUAL COM PLATAFORMA 3,0M",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "033276",
+    "descricao": "AR CONDICIONADO - SPLIT DUTO CARRIER BUILT-IN VERSATILE 60.000 BTU'S FRIO 220V-3 - 42BQA060510HC",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "060624",
+    "descricao": "BOMBA CENTRIFUGA CAM PADRAO 695 JM 20CV DANCOR",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "070254",
+    "descricao": "BOMBA CENTRIFUGA FNV 15CV 220/380/440V TRIFASICA FAMAC",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "003216",
+    "descricao": "BOMBA CENTRIFUGA MCI-RE IP-55 1CV TRIFASICA 4 VOLTAGENS SCHNEIDER",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "002476",
+    "descricao": "BOMBA CENTRIFUGA MSA-21 R 15CV TRIFASICA SCHNEIDER",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "032131",
+    "descricao": "CHILLER - RESFRIADOR DE LIQUIDO COM COMPRESSOR SCROLL FIXO DE 15TR MODULO FIXO LEVE - CONDENSACAO A AR - R410 - 220V/3PH - UNIDADE FUNCIONAL - FAMILIA CHILLER SCROLL INVERTER - RCU2A015AF5LZS",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "012575",
+    "descricao": "CONJUNTO FILTRO E BOMBA DANCOR PISCINA ATE 147.200 LITROS DFR-30-18 220/380V TRIFASICA",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023593",
+    "descricao": "CURSO DE CAPACITACAO PARA AJUDANTE DE ESTRUTURA METALICA",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023597",
+    "descricao": "CURSO DE CAPACITACAO PARA ARMADOR",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023608",
+    "descricao": "CURSO DE CAPACITACAO PARA BLASTER/DINAMITADOR",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023683",
+    "descricao": "CURSO DE CAPACITACAO PARA ENCARREGADO GERAL",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023661",
+    "descricao": "CURSO DE CAPACITACAO PARA SERVENTE",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023671",
+    "descricao": "CURSO DE CAPACITACAO PARA VIGIA NOTURNO",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "036532",
+    "descricao": "KIT PARA AUTOMACAO DE PORTA DE ENROLAR 500 KG (MOTOR ELETRICO 50/60HZ COM TERMOSTATO, CENTRAL DE COMAMDO, NOBREAK, BOTOEIRA PARA ACIONAMENTO, 02 CONTROLES REMOTOS)",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "002073",
+    "descricao": "MAQUINA DE SOLDA PARA TUBOS PEAD",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "036733",
+    "descricao": "MOTOBOMBA CENTRIFUGA MULTI-ESTAGIO 2 CV TRIFASICA - ECM-200T",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030488",
+    "descricao": "PERFURATRIZ MANUAL ATLAS 15H GAS.2,0CV",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "016125",
+    "descricao": "VALVULA DE CONTROLE 3 VIAS DE 3/4'' COM CV 7,4 BELIMO",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "026078",
+    "descricao": "ALUGUEL MENSAL SILO CIMENTO CAPACIDADE 50 TONELADAS",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "036732",
+    "descricao": "BOMBA BC-92S 1B 3,0CV ROTOR 155MM 220/380V TRIFASICA SCHNEIDER",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "071395",
+    "descricao": "BOMBA DE VACUO ESTAGIO DUPLO 7 CFM 560 W/H 60HZ BIVOLT TBV",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "001015",
+    "descricao": "BOMBA SUBMERSIVEL (SAPO) DS-9 1/2CV COM AUTOMATICO - 220V TRIFASICA DANCOR",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "099350",
+    "descricao": "CARPINTEIRO DE FORMAS",
+    "preditor": "material",
+    "original": "mao de obra",
+    "base": "sbc"
+  },
+  {
+    "codigo": "099012",
+    "descricao": "ENGENHEIRO CIVIL JUNIOR RESIDENTE EM OBRAS JORNADA DE 6 HORAS (120 HORAS)",
+    "preditor": "material",
+    "original": "mao de obra",
+    "base": "sbc"
+  },
+  {
+    "codigo": "036533",
+    "descricao": "KIT PARA AUTOMACAO DE PORTA DE ENROLAR 300KG (MOTOR ELETRICO 50/60HZ COM TERMOSTATO, CENTRAL DE COMANDO, NOBREAK, BOTOEIRA PARA ACIONAMENTO E 2 CONTROLES REMOTOS)",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "019708",
+    "descricao": "ALUGUEL HORA GUINCHO PARA TORRE METALICA",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "005037",
+    "descricao": "ALUGUEL HORA TORRE PARA SONDAGEM PERCUSSAO/TRIPE 6,0M",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "019091",
+    "descricao": "ALUGUEL MENSAL GUINCHO DE MASTRO MECAN M-400KG",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "008435",
+    "descricao": "ANDAIME SUSPENSO ELETRICO PLAT3M.+CABOS ICAMENTO/ELETRICO",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030446",
+    "descricao": "CAMPANULA ACO FUNDACOES AR COMPR.BHEMER 3,0M3",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "032130",
+    "descricao": "CHILLER - RESFRIADOR DE LIQUIDO COM COMPRESSOR SCROLL DE 15TR MODULO INVERTER LEVE - CONDENSACAO A AR - R410 - 220V/3PH - UNIDADE FUNCIONAL - FAMILIA CHILLER SCROLL INVERTER - RCU2A015AI5LZS",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023675",
+    "descricao": "CURSO DE CAPACITACAO PARA ALMOXARIFE",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023676",
+    "descricao": "CURSO DE CAPACITACAO PARA APONTADOR OU APROPRIADOR",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023598",
+    "descricao": "CURSO DE CAPACITACAO PARA ASSENTADOR DE TUBOS",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023607",
+    "descricao": "CURSO DE CAPACITACAO PARA AZULEJISTA OU LADRILHISTA",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023609",
+    "descricao": "CURSO DE CAPACITACAO PARA CADASTRISTA DE REDES",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023610",
+    "descricao": "CURSO DE CAPACITACAO PARA CALAFETADOR",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023611",
+    "descricao": "CURSO DE CAPACITACAO PARA CALCETEIRO",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023612",
+    "descricao": "CURSO DE CAPACITACAO PARA CARPINTEIRO DE ESQUADRIA",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023613",
+    "descricao": "CURSO DE CAPACITACAO PARA CARPINTEIRO DE FORMAS",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023682",
+    "descricao": "CURSO DE CAPACITACAO PARA DESENHISTA COPISTA",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023674",
+    "descricao": "CURSO DE CAPACITACAO PARA DESENHISTA DETALHISTA",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023617",
+    "descricao": "CURSO DE CAPACITACAO PARA ELETROTECNICO",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023618",
+    "descricao": "CURSO DE CAPACITACAO PARA ENCANADOR OU BOMBEIRO",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023619",
+    "descricao": "CURSO DE CAPACITACAO PARA ESTUCADOR",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023620",
+    "descricao": "CURSO DE CAPACITACAO PARA GESSEIRO",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023621",
+    "descricao": "CURSO DE CAPACITACAO PARA IMPERMEABILIZADOR",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023673",
+    "descricao": "CURSO DE CAPACITACAO PARA JARDINEIRO",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023622",
+    "descricao": "CURSO DE CAPACITACAO PARA MACARIQUEIRO",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023623",
+    "descricao": "CURSO DE CAPACITACAO PARA MARCENEIRO",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023624",
+    "descricao": "CURSO DE CAPACITACAO PARA MARMORISTA/GRANITEIRO",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023628",
+    "descricao": "CURSO DE CAPACITACAO PARA MONTADOR ELETROMECANICO",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023627",
+    "descricao": "CURSO DE CAPACITACAO PARA MONTADOR ESTRUTURA METALICA",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023635",
+    "descricao": "CURSO DE CAPACITACAO PARA NIVELADOR",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023653",
+    "descricao": "CURSO DE CAPACITACAO PARA PASTILHEIRO",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023654",
+    "descricao": "CURSO DE CAPACITACAO PARA PEDREIRO",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023658",
+    "descricao": "CURSO DE CAPACITACAO PARA POCEIRO",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023659",
+    "descricao": "CURSO DE CAPACITACAO PARA RASTELEIRO",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023660",
+    "descricao": "CURSO DE CAPACITACAO PARA SERRALHEIRO",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023662",
+    "descricao": "CURSO DE CAPACITACAO PARA SOLDADOR",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023663",
+    "descricao": "CURSO DE CAPACITACAO PARA SOLDADOR A",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023664",
+    "descricao": "CURSO DE CAPACITACAO PARA SONDADOR",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023665",
+    "descricao": "CURSO DE CAPACITACAO PARA TAQUEADOR OU TAQUEIRO",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023668",
+    "descricao": "CURSO DE CAPACITACAO PARA TELHADISTA",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023687",
+    "descricao": "CURSO DE CAPACITACAO PARA TOPOGRAFO",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023669",
+    "descricao": "CURSO DE CAPACITACAO PARA TRATORISTA",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "023670",
+    "descricao": "CURSO DE CAPACITACAO PARA VIDRACEIRO",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "007215",
+    "descricao": "FERRAMENTA - CAVADEIRA DE BOLA COM LAMINA 3/4X1,5M",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "015513",
+    "descricao": "FERRAMENTA - FURADEIRA IMPACTO BOSCH 3/8\" 450W 127V",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "077728",
+    "descricao": "LAVA-JATO COMPLETO COM MANGUEIRA E BICO",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "006688",
+    "descricao": "LAVA-JATO DEWALT 1,5CV ELETRICO COM MANGUEIRA",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "008072",
+    "descricao": "MACACO PARA PROTENSAO MAC 7",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "013541",
+    "descricao": "MAQUINA PARA PINTURA (DEMARCACAO) DE FAIXA A QUENTE PARA MATERIAL TERMOPLASTICO",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "036805",
+    "descricao": "PERFURATRIZ ESTACA TIPO HELICE CONTINUA - DN 30 A DN 90",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "030560",
+    "descricao": "PICK-UP GM CHEVROLET S10 GAS.7TN 48,5CV",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "031026",
+    "descricao": "REGUA VIBROALISADORA PARA PISO CONCRETO 2500W",
+    "preditor": "mao de obra",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "010071",
+    "descricao": "ALUGUEL MENSAL CONTAINER ESCRITORIO 6X2,3M SEM SANITARIO",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "006208",
+    "descricao": "AR CONDICIONADO DE JANELA 10.000 BTU'S ELETRONICO MODERNO 110V CONSUL",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "036937",
+    "descricao": "AR CONDICIONADO DE JANELA 18.000 BTU'S CONSUL",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "000357",
+    "descricao": "AR CONDICIONADO DE JANELA 21.000 BTU'S SILENTIA SPRINGER MIDEA",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "010694",
+    "descricao": "AR CONDICIONADO DUTO CARRIER 60.000 BTU'S TRIFASICO",
+    "preditor": "equipamento permanente",
+    "original": "material",
+    "base": "sbc"
+  },
+  {
+    "codigo": "087606",
+    "descricao": "REPOSICAO CAPITAL CAMINHAO FORD F-14.000 130CV(/1000)",
+    "preditor": "equipamento",
+    "original": "material",
+    "base": "sbc"
+  }
+]

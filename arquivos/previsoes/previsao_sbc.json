@@ -2537,7 +2537,7 @@
   },
   "082270": {
     "descricao": "ALUGUEL CONJUNTO MISTURADOR 180 L DE ALTA ROTACAO E BOMBA DE INJECAO",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "H",
     "preco_desonerado": 36.3,
     "preco_onerado": 36.3,
@@ -2545,7 +2545,7 @@
   },
   "030308": {
     "descricao": "ALUGUEL DE BOMBA CENTRIFUGA 7,5 CV 2.1/2\"x2\"",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "H",
     "preco_desonerado": 1.79,
     "preco_onerado": 1.79,
@@ -2593,7 +2593,7 @@
   },
   "078423": {
     "descricao": "ALUGUEL DE ESTACAO TOTAL E-2 RTS825 R3 (PRECISAO ANGULAR 5\")",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "MES",
     "preco_desonerado": 4972.0,
     "preco_onerado": 4972.0,
@@ -2601,7 +2601,7 @@
   },
   "078422": {
     "descricao": "ALUGUEL DE ESTACAO TOTAL E-3 RTS822 R3(PRECISAO ANGULAR 3\")",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "MES",
     "preco_desonerado": 1486.2,
     "preco_onerado": 1486.2,
@@ -2609,7 +2609,7 @@
   },
   "078421": {
     "descricao": "ALUGUEL DE GPS GEODESICO PM-500",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "MES",
     "preco_desonerado": 60.5,
     "preco_onerado": 60.5,
@@ -2617,7 +2617,7 @@
   },
   "007819": {
     "descricao": "ALUGUEL DE GRUPO GERADOR 80 a 125KVA MOTOR A DIESEL, REBOCAVEL",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "H",
     "preco_desonerado": 25.3,
     "preco_onerado": 25.3,
@@ -2641,7 +2641,7 @@
   },
   "019770": {
     "descricao": "ALUGUEL DIA JATO DE AREIA EQUIPAMENTO COMPLETO",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "MES",
     "preco_desonerado": 460.0,
     "preco_onerado": 460.0,
@@ -2681,7 +2681,7 @@
   },
   "019739": {
     "descricao": "ALUGUEL HORA APARELHO DE SOLDA OXIACETILENO",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.9,
     "preco_onerado": 0.9,
@@ -2689,7 +2689,7 @@
   },
   "077456": {
     "descricao": "ALUGUEL HORA BOMBA DE VACUO P/DESOBSTRUCAO FRIGORIGENA",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 3.16,
     "preco_onerado": 3.16,
@@ -2769,7 +2769,7 @@
   },
   "010071": {
     "descricao": "ALUGUEL MENSAL CONTAINER ESCRITORIO 6x2,3m SEM SANITARIO",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "MES",
     "preco_desonerado": 417.96,
     "preco_onerado": 417.96,
@@ -2881,7 +2881,7 @@
   },
   "026078": {
     "descricao": "ALUGUEL MENSAL SILO CIMENTO CAPACIDADE 50 TONELADAS",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "MES",
     "preco_desonerado": 8000.0,
     "preco_onerado": 8000.0,
@@ -2889,7 +2889,7 @@
   },
   "019742": {
     "descricao": "ALUGUEL MENSAL TALHA TIRFOR 1,5 TONELADA",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 1.25,
     "preco_onerado": 1.25,
@@ -4049,7 +4049,7 @@
   },
   "099753": {
     "descricao": "APLICADOR DE LAN DE VIDRO",
-    "tipo": 3,
+    "tipo": 4,
     "unidade": "H",
     "preco_desonerado": 8.5,
     "preco_onerado": 8.5,
@@ -4353,7 +4353,7 @@
   },
   "064035": {
     "descricao": "AR CONDICIONADO - FANCOLETE 1,5 TR'S 220V CARRIER DUTO FRIO 42BBA018A510HDC",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 3270.0,
     "preco_onerado": 3270.0,
@@ -4361,7 +4361,7 @@
   },
   "032126": {
     "descricao": "AR CONDICIONADO - FANCOLETE BUILT-IN HIDRONICO 18.000 BTU'S SO FRIO 220V CARRIER",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 2979.0,
     "preco_onerado": 2979.0,
@@ -4369,7 +4369,7 @@
   },
   "032127": {
     "descricao": "AR CONDICIONADO - FANCOLETE BUILT-IN HIDRONICO 30.000 BTU'S SO FRIO 220V CARRIER",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 3333.55,
     "preco_onerado": 3333.55,
@@ -4377,7 +4377,7 @@
   },
   "032128": {
     "descricao": "AR CONDICIONADO - FANCOLETE BUILT-IN HIDRONICO 44.000 BTU'S SO FRIO 220V CARRIER",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 4099.0,
     "preco_onerado": 4099.0,
@@ -4385,7 +4385,7 @@
   },
   "000354": {
     "descricao": "AR CONDICIONADO - FANCOLETE CASSETE 1,7 TR'S 220V FRIO CARRIER",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 4062.0,
     "preco_onerado": 4062.0,
@@ -4393,7 +4393,7 @@
   },
   "001384": {
     "descricao": "AR CONDICIONADO - FANCOLETE DUTO CARRIER 0,8 TR",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 3012.05,
     "preco_onerado": 3012.05,
@@ -4401,7 +4401,7 @@
   },
   "001385": {
     "descricao": "AR CONDICIONADO - FANCOLETE DUTO CARRIER 1,5 TR'S",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 3270.0,
     "preco_onerado": 3270.0,
@@ -4409,7 +4409,7 @@
   },
   "002070": {
     "descricao": "AR CONDICIONADO - FANCOLETE HW 1,8 TR'S FRIO 220V HITACHI",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 3609.0,
     "preco_onerado": 3609.0,
@@ -4417,7 +4417,7 @@
   },
   "032129": {
     "descricao": "AR CONDICIONADO - FANCOLETE PISO TETO HIDRONICO 55.000 BTU'S SO FRIO 220V CARRIER",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 6099.0,
     "preco_onerado": 6099.0,
@@ -4425,7 +4425,7 @@
   },
   "012531": {
     "descricao": "AR CONDICIONADO - MULTI SPLIT/SPLITAO CARRIER 5 TR'S",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 13579.0,
     "preco_onerado": 13579.0,
@@ -4433,7 +4433,7 @@
   },
   "033274": {
     "descricao": "AR CONDICIONADO - SPLIT BUILT-IN VERSATILE 18.000 BTU'S FRIO 220V - 42BQA018510HC",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 4495.5,
     "preco_onerado": 4495.5,
@@ -4489,7 +4489,7 @@
   },
   "064036": {
     "descricao": "AR CONDICIONADO - SPLIT DUTO INVERTER DAIKIN SKY AIR 36.000 BTU'S QUENTE FRIO SBQ36AVL - 220V",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 16999.0,
     "preco_onerado": 16999.0,
@@ -4521,7 +4521,7 @@
   },
   "010028": {
     "descricao": "AR CONDICIONADO - UNIDADE CONDENSADORA VRF COM CAPACIDADE ENTRE 14,0 A 16,0 TR'S",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 61840.0,
     "preco_onerado": 61840.0,
@@ -4529,7 +4529,7 @@
   },
   "036699": {
     "descricao": "AR CONDICIONADO - UNIDADE EVAPORADORA PAREDE DE 2,5 HP 220V/1PH C/ RECEPTOR",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 4162.0,
     "preco_onerado": 4162.0,
@@ -4537,7 +4537,7 @@
   },
   "036700": {
     "descricao": "AR CONDICIONADO - UNIDADE EVAPORADORA PAREDE DE 3,0 HP 220V/1PH C/ RECEPTOR",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 4564.0,
     "preco_onerado": 4564.0,
@@ -4545,7 +4545,7 @@
   },
   "036702": {
     "descricao": "AR CONDICIONADO - UNIDADE EVAPORADORA PAREDE DE 5,0 HP 220V/1PH C/ RECEPTOR",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 5100.0,
     "preco_onerado": 5100.0,
@@ -4577,7 +4577,7 @@
   },
   "064034": {
     "descricao": "AR CONDICIONADO - UNIDADE EVAPORADORA VRF TIPO HI-WALL 2,0 TR'S",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 3980.0,
     "preco_onerado": 3980.0,
@@ -4585,7 +4585,7 @@
   },
   "064037": {
     "descricao": "AR CONDICIONADO - UNIDADE EVAPORADORA VRF TIPO PISO/TETO 1,0 TR",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 2683.75,
     "preco_onerado": 2683.75,
@@ -4593,7 +4593,7 @@
   },
   "080622": {
     "descricao": "AR CONDICIONADO - UNIDADE EVAPORADORA VRF TIPO PISO/TETO 2,0 TR'S",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 4116.35,
     "preco_onerado": 4116.35,
@@ -4601,7 +4601,7 @@
   },
   "080623": {
     "descricao": "AR CONDICIONADO - UNIDADE EVAPORADORA VRF TIPO PISO/TETO 3,0 TR'S",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 4116.35,
     "preco_onerado": 4116.35,
@@ -4609,7 +4609,7 @@
   },
   "080625": {
     "descricao": "AR CONDICIONADO - UNIDADE EVAPORADORA VRF TIPO PISO/TETO 4,0 TR'S",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 3841.8,
     "preco_onerado": 3841.8,
@@ -4617,7 +4617,7 @@
   },
   "016101": {
     "descricao": "AR CONDICIONADO - UNIDADE RESFRIADORA 150 TR'S COM COMPRESSOR PARAFUSO",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 350000.0,
     "preco_onerado": 350000.0,
@@ -4625,7 +4625,7 @@
   },
   "036939": {
     "descricao": "AR CONDICIONADO DE JANELA 30.000 BTU'S SPRINGER SILENTIA",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 4429.0,
     "preco_onerado": 4429.0,
@@ -4633,7 +4633,7 @@
   },
   "006208": {
     "descricao": "AR CONDICIONADO DE JANELA 10.000 BTU'S ELETRONICO MODERNO 110V CONSUL",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 3749.0,
     "preco_onerado": 3749.0,
@@ -4641,7 +4641,7 @@
   },
   "000355": {
     "descricao": "AR CONDICIONADO DE JANELA 12.000 BTU'S CONSUL FRIO",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 2182.95,
     "preco_onerado": 2182.95,
@@ -4649,7 +4649,7 @@
   },
   "036936": {
     "descricao": "AR CONDICIONADO DE JANELA 12.000 BTU'S SPRINGER MIDEA",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 2399.0,
     "preco_onerado": 2399.0,
@@ -4657,7 +4657,7 @@
   },
   "036937": {
     "descricao": "AR CONDICIONADO DE JANELA 18.000 BTU'S CONSUL",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 3839.9,
     "preco_onerado": 3839.9,
@@ -4665,7 +4665,7 @@
   },
   "006207": {
     "descricao": "AR CONDICIONADO DE JANELA 21.000 BTU'S MECANICO SPRINGER MIDEA",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 4609.0,
     "preco_onerado": 4609.0,
@@ -4673,7 +4673,7 @@
   },
   "000357": {
     "descricao": "AR CONDICIONADO DE JANELA 21.000 BTU'S SILENTIA SPRINGER MIDEA",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 4849.9,
     "preco_onerado": 4849.9,
@@ -4681,7 +4681,7 @@
   },
   "072511": {
     "descricao": "AR CONDICIONADO DE JANELA 27.000 BTU'S SPRINGER MIDEA MECANICO",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 4429.0,
     "preco_onerado": 4429.0,
@@ -4689,7 +4689,7 @@
   },
   "003707": {
     "descricao": "AR CONDICIONADO DE JANELA 7.500 BTU'S MANUAL FRIO SPRINGER MIDEA",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 1640.98,
     "preco_onerado": 1640.98,
@@ -4697,7 +4697,7 @@
   },
   "036938": {
     "descricao": "AR CONDICIONADO DE JANELA 7.500 BTU'S SPRINGER CARRIER MECANICO",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 1329.0,
     "preco_onerado": 1329.0,
@@ -4705,7 +4705,7 @@
   },
   "010694": {
     "descricao": "AR CONDICIONADO DUTO CARRIER 60.000 BTU'S TRIFASICO",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 10329.0,
     "preco_onerado": 10329.0,
@@ -4713,7 +4713,7 @@
   },
   "036703": {
     "descricao": "AR CONDICIONADO DUTO HEAVY CARRIER 36.000 BTU'S - QUENTE/FRIO",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 9421.21,
     "preco_onerado": 9421.21,
@@ -4721,7 +4721,7 @@
   },
   "036701": {
     "descricao": "AR CONDICIONADO DUTO HEAVY CARRIER 48.000 BTU'S QUENTE/FRIO",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 10206.31,
     "preco_onerado": 10206.31,
@@ -4753,7 +4753,7 @@
   },
   "003706": {
     "descricao": "AR CONDICIONADO FAN COIL ZEN 39EB10P68HVA 10 TR'S CARRIER",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 24045.3,
     "preco_onerado": 24045.3,
@@ -4769,7 +4769,7 @@
   },
   "069753": {
     "descricao": "AR CONDICIONADO SPLIT 12.000 BTU'S DUAL INVERTER ECONOMICO FRIO 127V LG",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 2967.0,
     "preco_onerado": 2967.0,
@@ -4777,7 +4777,7 @@
   },
   "071411": {
     "descricao": "AR CONDICIONADO SPLIT 18000 BTU'S INVERTER DAIKIN",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 5299.0,
     "preco_onerado": 5299.0,
@@ -4785,7 +4785,7 @@
   },
   "071412": {
     "descricao": "AR CONDICIONADO SPLIT 24.000 BTU'S CASSETE QUENTE/FRIO LG",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 10552.53,
     "preco_onerado": 10552.53,
@@ -4793,7 +4793,7 @@
   },
   "004810": {
     "descricao": "AR CONDICIONADO SPLIT 27.000 BTU'S HI WALL FUJITSU",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 8597.5,
     "preco_onerado": 8597.5,
@@ -4801,7 +4801,7 @@
   },
   "000363": {
     "descricao": "AR CONDICIONADO SPLIT 36.000 BTUS TETO INVERTER XPOWER FRIO 220V MONO 42ZQVB36C5 CARRIER",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 9214.05,
     "preco_onerado": 9214.05,
@@ -4809,7 +4809,7 @@
   },
   "085775": {
     "descricao": "AR CONDICIONADO SPLIT 9.000 BTU'S DUAL INVERTER ECONOMICO LG",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 1699.0,
     "preco_onerado": 1699.0,
@@ -4817,7 +4817,7 @@
   },
   "036950": {
     "descricao": "AR CONDICIONADO SPLIT 9.000 BTU'S DUAL INVERTER VOICE LG S4-Q09WA51",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 2129.0,
     "preco_onerado": 2129.0,
@@ -4825,7 +4825,7 @@
   },
   "071105": {
     "descricao": "AR CONDICIONADO SPLIT 9.000 BTU'S HI WALL SPRINGER MIDEA",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 1485.28,
     "preco_onerado": 1485.28,
@@ -4833,7 +4833,7 @@
   },
   "036964": {
     "descricao": "AR CONDICIONADO SPLIT CASSETE 24.000 BTU'S SO FRIO 220V CARRIER",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 7519.0,
     "preco_onerado": 7519.0,
@@ -4841,7 +4841,7 @@
   },
   "036965": {
     "descricao": "AR CONDICIONADO SPLIT CASSETE 36.000 BTU'S SO FRIO 220V MONOFASICO CARRIER",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 12165.2,
     "preco_onerado": 12165.2,
@@ -4849,7 +4849,7 @@
   },
   "036967": {
     "descricao": "AR CONDICIONADO SPLIT CASSETE 42.000 BTU'S INVERTER - QUENTE/FRIO 220V FUJITSU",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 18243.8,
     "preco_onerado": 18243.8,
@@ -4857,7 +4857,7 @@
   },
   "036963": {
     "descricao": "AR CONDICIONADO SPLIT CASSETE ATUALLE QUENTE/FRIO 48.000 BTU'S ELGIN",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 10918.66,
     "preco_onerado": 10918.66,
@@ -4865,7 +4865,7 @@
   },
   "085774": {
     "descricao": "AR CONDICIONADO SPLIT CASSETE INVERTER 60.000 BTUS QUENTE E FRIO ATUW60GMLP0.AWGZBRZ LG",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 18822.35,
     "preco_onerado": 18822.35,
@@ -4873,7 +4873,7 @@
   },
   "071413": {
     "descricao": "AR CONDICIONADO SPLIT CASSETE TETO 18.000 BTU'S CARRIER",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 6079.0,
     "preco_onerado": 6079.0,
@@ -4881,7 +4881,7 @@
   },
   "094249": {
     "descricao": "AR CONDICIONADO SPLIT DUTO INVERTER SKYAIR 36.000 BTUS QUENTE/FRIO 220V MONOFASICO DAIKIN",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 16999.0,
     "preco_onerado": 16999.0,
@@ -4889,7 +4889,7 @@
   },
   "036968": {
     "descricao": "AR CONDICIONADO SPLIT ECOLOGIC 18.000 BTU'S QUENTE/FRIO 220V ELGIM",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 2299.0,
     "preco_onerado": 2299.0,
@@ -4897,7 +4897,7 @@
   },
   "036901": {
     "descricao": "AR CONDICIONADO SPLIT HI-WALL 12.000 BTU'S ELECTROLUX ECOTURBO",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 2379.0,
     "preco_onerado": 2379.0,
@@ -4905,7 +4905,7 @@
   },
   "045101": {
     "descricao": "AR CONDICIONADO SPLIT HI-WALL 18.000 BTUS FRIO 220V SPRINGER MIDEA",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 3499.0,
     "preco_onerado": 3499.0,
@@ -4921,7 +4921,7 @@
   },
   "030779": {
     "descricao": "AR CONDICIONADO SPLIT HI-WALL 30.000 BTUS FRIO 220V SPRINGER MIDEA",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 5647.84,
     "preco_onerado": 5647.84,
@@ -4929,7 +4929,7 @@
   },
   "005088": {
     "descricao": "AR CONDICIONADO SPLIT HI-WALL 9.000 BTUS ECOTURBO FRIO R410 220 VOLTS ELECTROLUX",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 1768.0,
     "preco_onerado": 1768.0,
@@ -4937,7 +4937,7 @@
   },
   "068690": {
     "descricao": "AR CONDICIONADO SPLIT HI-WALL ON/OFF 22.000 BTU'S SPRINGER MIDEA",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 4543.16,
     "preco_onerado": 4543.16,
@@ -4945,7 +4945,7 @@
   },
   "071104": {
     "descricao": "AR CONDICIONADO SPLIT HW 9.000 BTUS DUAL INVERTER VOICE QUENTE/FRIO LG S4NW09WA51A.EB2GAMZ",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 2332.22,
     "preco_onerado": 2332.22,
@@ -4953,7 +4953,7 @@
   },
   "071106": {
     "descricao": "AR CONDICIONADO SPLIT HW SPRINGER MIDEA AIR VOLUTION 12.000 BTU'S SO FRIO 220V",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 2665.95,
     "preco_onerado": 2665.95,
@@ -4961,7 +4961,7 @@
   },
   "072411": {
     "descricao": "AR CONDICIONADO SPLIT INVERTER SMART 22.000 BTUS FRIO 220V LG",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 3490.37,
     "preco_onerado": 3490.37,
@@ -4969,7 +4969,7 @@
   },
   "003698": {
     "descricao": "AR CONDICIONADO SPLIT INVERTER TRANE 9.000 BTU'S FRIO 4MYW16",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 2098.94,
     "preco_onerado": 2098.94,
@@ -4977,7 +4977,7 @@
   },
   "000444": {
     "descricao": "AR CONDICIONADO SPLIT PISO/TETO 18.000 BTU'S CARRIER FRIO 220V",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 5572.6,
     "preco_onerado": 5572.6,
@@ -4985,7 +4985,7 @@
   },
   "005089": {
     "descricao": "AR CONDICIONADO SPLIT PISO/TETO 24.000 BTU'S SPRINGER MIDEA AirVolution 42TFCA22S5",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 5349.0,
     "preco_onerado": 5349.0,
@@ -4993,7 +4993,7 @@
   },
   "023139": {
     "descricao": "AR CONDICIONADO SPLIT PISO/TETO 30.000 BTU'S ATUALLE ECO ELGIN",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 5749.11,
     "preco_onerado": 5749.11,
@@ -5001,7 +5001,7 @@
   },
   "045103": {
     "descricao": "AR CONDICIONADO SPLIT PISO/TETO 36.000 BTU'S QUENTE/FRIO 220V GREE",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 9166.55,
     "preco_onerado": 9166.55,
@@ -5009,7 +5009,7 @@
   },
   "045102": {
     "descricao": "AR CONDICIONADO SPLIT PISO/TETO 48.000 BTU'S CARRIER SPACE",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 9951.25,
     "preco_onerado": 9951.25,
@@ -5017,7 +5017,7 @@
   },
   "023140": {
     "descricao": "AR CONDICIONADO SPLIT PISO/TETO 60.000 BTU'S GREE",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 9254.26,
     "preco_onerado": 9254.26,
@@ -5033,7 +5033,7 @@
   },
   "036972": {
     "descricao": "AR CONDICIONADO SPLIT PISO/TETO SPACE CARRIER TRIFASICO 58.000 BTU'S",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 10931.0,
     "preco_onerado": 10931.0,
@@ -5041,7 +5041,7 @@
   },
   "068750": {
     "descricao": "AR CONDICIONADO SPLITAO 10 TR'S 220V TRIFASICO CARRIER",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 22679.35,
     "preco_onerado": 22679.35,
@@ -5049,7 +5049,7 @@
   },
   "023138": {
     "descricao": "AR CONDICIONADO SPLITAO 15 TR'S VERTICAL 380V TRIFASICO CARRIER",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 29344.55,
     "preco_onerado": 29344.55,
@@ -5057,7 +5057,7 @@
   },
   "068752": {
     "descricao": "AR CONDICIONADO SPLITAO 20 TR'S 220V TRIFASICO CARRIER",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 34623.7,
     "preco_onerado": 34623.7,
@@ -5065,7 +5065,7 @@
   },
   "036966": {
     "descricao": "AR CONDICIONADO SPLITAO 30 TR'S ECO STANDART 220V-3 CARRIER",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 53402.35,
     "preco_onerado": 53402.35,
@@ -5073,7 +5073,7 @@
   },
   "012544": {
     "descricao": "AR CONDICIONADO SPLITAO FIXO 25 TR'S ECO STANDER 220V CARRIER",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 46016.1,
     "preco_onerado": 46016.1,
@@ -5081,7 +5081,7 @@
   },
   "036962": {
     "descricao": "AR CONDICIONADO TRI SPLIT 3 x 12.000 BTU'S 220V FRIO SPRINGER MIDEA",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 10788.37,
     "preco_onerado": 10788.37,
@@ -5089,7 +5089,7 @@
   },
   "068856": {
     "descricao": "AR CONDICIONADO TRI SPLIT INVERTER 3 x 9.000 BTU'S DAIKIN",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 17495.2,
     "preco_onerado": 17495.2,
@@ -7297,7 +7297,7 @@
   },
   "030587": {
     "descricao": "BATE ESTACAS MAGAN 850PM 40tn LANCA 28,1m 29CV",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 66.12,
     "preco_onerado": 66.12,
@@ -7305,7 +7305,7 @@
   },
   "032205": {
     "descricao": "BATE ESTACAS MAGAN IM 1200 PM/E 80tn 58CV",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 94.25,
     "preco_onerado": 94.25,
@@ -7313,7 +7313,7 @@
   },
   "032204": {
     "descricao": "BATE ESTACAS MAGAN IM 1520 BS 160tn 160CV",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 115.0,
     "preco_onerado": 115.0,
@@ -7321,7 +7321,7 @@
   },
   "032506": {
     "descricao": "BATE ESTACAS MAGAN IM 850/PM 40tn 29CV",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 83.32,
     "preco_onerado": 83.32,
@@ -7425,7 +7425,7 @@
   },
   "030500": {
     "descricao": "BETONEIRA 580L 7,03m3/h C/CARREG.MENEGOTTE 8CV",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 3.17,
     "preco_onerado": 3.17,
@@ -7441,7 +7441,7 @@
   },
   "030541": {
     "descricao": "BETONEIRA ELET.580L 8CV 7,03m3/h",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 3.18,
     "preco_onerado": 3.18,
@@ -7449,7 +7449,7 @@
   },
   "030435": {
     "descricao": "BETONEIRA ELETR. CS400 320L 3,2m3/h",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 3.18,
     "preco_onerado": 3.18,
@@ -7457,7 +7457,7 @@
   },
   "050006": {
     "descricao": "BETONEIRA ELETRICA 400L 2CV",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 2.06,
     "preco_onerado": 2.06,
@@ -7921,7 +7921,7 @@
   },
   "030309": {
     "descricao": "BOMBA CENTRIFUGA BC-22 F2 10 CV TRIFASICA 220/380V SCHNEIDER",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "H",
     "preco_desonerado": 1.43,
     "preco_onerado": 1.43,
@@ -7929,7 +7929,7 @@
   },
   "030303": {
     "descricao": "BOMBA CENTRIFUGA BC-98 1/3 CV 220V MONOFASICA SCHNEIDER",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 723.0,
     "preco_onerado": 723.0,
@@ -7961,7 +7961,7 @@
   },
   "063008": {
     "descricao": "BOMBA CENTRIFUGA COM MOTOR ELETRICO TRIFASICO, 2HP, PARA RECALQUE D'AGUA SCM-1500 FERRARI",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 1561.9,
     "preco_onerado": 1561.9,
@@ -7969,7 +7969,7 @@
   },
   "063009": {
     "descricao": "BOMBA CENTRIFUGA COM MOTOR ELETRICO TRIFASICO, BC-21 F 2 SCHNEIDER PARA RECALQUE D'AGUA",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 7898.1,
     "preco_onerado": 7898.1,
@@ -8033,7 +8033,7 @@
   },
   "042254": {
     "descricao": "BOMBA DE LIMPEZA DE PRESSAO EOS PARA AR CONDICIONADO SPLIT EOS PCW-4S 220V",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 1031.0,
     "preco_onerado": 1031.0,
@@ -8065,7 +8065,7 @@
   },
   "004611": {
     "descricao": "BOMBA EJETORA EP 1-0 1 CV MONOFASICO 127V DANCOR",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 1181.0,
     "preco_onerado": 1181.0,
@@ -8097,7 +8097,7 @@
   },
   "060623": {
     "descricao": "BOMBA INCENDIO CENTRIFUGA 15 CV TRI TJM 678 DANCOR",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 10998.67,
     "preco_onerado": 10998.67,
@@ -8113,7 +8113,7 @@
   },
   "001801": {
     "descricao": "BOMBA MONOESTAGIO BC-22R 1.1/2 7,5 CV TRIFASICA SCHNEIDER",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 7227.0,
     "preco_onerado": 7227.0,
@@ -8121,7 +8121,7 @@
   },
   "030315": {
     "descricao": "BOMBA MONOESTAGIO COM BOCAIS ROSQUEADOS BSP CA-7 ROTOR F F 3500 RPM 3 CV MONOFASICA 110/220V 20130082012 DARKA",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 3783.84,
     "preco_onerado": 3783.84,
@@ -8201,7 +8201,7 @@
   },
   "003215": {
     "descricao": "BOMBA SUBMERSA EBARA OP4 4BPS8I-9 3 CV MONOFASICA 220V",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 2263.25,
     "preco_onerado": 2263.25,
@@ -8225,7 +8225,7 @@
   },
   "032572": {
     "descricao": "BOMBA SUBMERSA R20A-12 12 CV TRIFASICA 220V LEAO",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 10216.96,
     "preco_onerado": 10216.96,
@@ -8241,7 +8241,7 @@
   },
   "030316": {
     "descricao": "BOMBA SUBMERSIVEL BCS-220 3 CV TRIFASICA 220V SCHNEIDER",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 4586.73,
     "preco_onerado": 4586.73,
@@ -8633,7 +8633,7 @@
   },
   "035861": {
     "descricao": "BROCA DENTE TRICONICO BOTAO 26\" RSC 6.5/8\" depr.500 hs.",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 31.56,
     "preco_onerado": 31.56,
@@ -8641,7 +8641,7 @@
   },
   "035863": {
     "descricao": "BROCA INSERTO CARBETO TUNGSTENIO 17.1/2\"",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.39,
     "preco_onerado": 0.39,
@@ -13809,7 +13809,7 @@
   },
   "032080": {
     "descricao": "CAMINHAO BASC.MERCEDES LK 620/42 5,0m3 200CV",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 62.3,
     "preco_onerado": 62.3,
@@ -13817,7 +13817,7 @@
   },
   "032081": {
     "descricao": "CAMINHAO BASC.MERCEDES LK 620/42 6,0m3 200CV",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 62.3,
     "preco_onerado": 62.3,
@@ -13825,7 +13825,7 @@
   },
   "032082": {
     "descricao": "CAMINHAO BASC.MERCEDES LK 620/42 8,0m3 200CV",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 62.3,
     "preco_onerado": 62.3,
@@ -13833,7 +13833,7 @@
   },
   "032086": {
     "descricao": "CAMINHAO BASC.VOLKSWAGEN 17210 6,0M3 155CV",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 65.7,
     "preco_onerado": 65.7,
@@ -13841,7 +13841,7 @@
   },
   "030572": {
     "descricao": "CAMINHAO BASCULANTE DIESEL 140CV 8,0m3",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 74.12,
     "preco_onerado": 74.12,
@@ -13849,7 +13849,7 @@
   },
   "031025": {
     "descricao": "CAMINHAO BETONEIRA S.PES.MERCEDES 4x2 5,0m3 134CV",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 142.2,
     "preco_onerado": 142.2,
@@ -13857,7 +13857,7 @@
   },
   "032095": {
     "descricao": "CAMINHAO CARROCERIA FORD F12000 8tn 130CV",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 42.0,
     "preco_onerado": 42.0,
@@ -13865,7 +13865,7 @@
   },
   "032096": {
     "descricao": "CAMINHAO CARROCERIA FORD F14000 10tn 130CV",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 53.0,
     "preco_onerado": 53.0,
@@ -13873,7 +13873,7 @@
   },
   "032094": {
     "descricao": "CAMINHAO CARROCERIA MERCEDES L14620 10tn 200CV",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 53.0,
     "preco_onerado": 53.0,
@@ -13881,7 +13881,7 @@
   },
   "032097": {
     "descricao": "CAMINHAO CARROCERIA VOLKSWAGEN 13190 8tn 132CV",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 42.0,
     "preco_onerado": 42.0,
@@ -13889,7 +13889,7 @@
   },
   "030591": {
     "descricao": "CAMINHAO FORD D-14000 CARROC.MADEIRA-10 tn",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 53.0,
     "preco_onerado": 53.0,
@@ -13897,7 +13897,7 @@
   },
   "032462": {
     "descricao": "CAMINHAO GUINDAUTO FORD F12000 8tn 130CV",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 65.5,
     "preco_onerado": 65.5,
@@ -13905,7 +13905,7 @@
   },
   "030542": {
     "descricao": "CAMINHAO GUINDAUTO MERCEDES L1620 8tn 200CV",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 65.5,
     "preco_onerado": 65.5,
@@ -13913,7 +13913,7 @@
   },
   "030475": {
     "descricao": "CAMINHAO GUINDAUTO VOLKSWAGEN 17210 10tn 155CV",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 72.0,
     "preco_onerado": 72.0,
@@ -13921,7 +13921,7 @@
   },
   "011514": {
     "descricao": "CAMINHAO IRRIGADOR 6000 LITROS - CHI",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 16.96,
     "preco_onerado": 16.96,
@@ -13929,7 +13929,7 @@
   },
   "011513": {
     "descricao": "CAMINHAO IRRIGADOR 6000 LITROS - CHP",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 48.76,
     "preco_onerado": 48.76,
@@ -13937,7 +13937,7 @@
   },
   "030235": {
     "descricao": "CAMINHAO LAMA ASFALTICA Vu-180CV 20000h/a (19210)",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 105.0,
     "preco_onerado": 105.0,
@@ -13945,7 +13945,7 @@
   },
   "032467": {
     "descricao": "CAMINHAO MEDIO CARROCERIA VOLKSWAGEN 8150 133CV",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 42.0,
     "preco_onerado": 42.0,
@@ -13953,7 +13953,7 @@
   },
   "030573": {
     "descricao": "CAMINHAO PIPA C/IRRIGADOR-167CV 20.000 L",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 73.0,
     "preco_onerado": 73.0,
@@ -13961,7 +13961,7 @@
   },
   "032090": {
     "descricao": "CAMINHAO PIPA FORD F14000 D4928 8000L 130CV",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 67.97,
     "preco_onerado": 67.97,
@@ -13969,7 +13969,7 @@
   },
   "032087": {
     "descricao": "CAMINHAO PIPA MERCEDES BENZ LK1418 6000L 167CV",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 67.97,
     "preco_onerado": 67.97,
@@ -14809,7 +14809,7 @@
   },
   "036630": {
     "descricao": "CARREGADOR VEICULAR EVLINK PARKING 2X22 KW T2S RIFD COM PEDESTAL EVF2S22P44R | SCHNEIDER",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 42184.88,
     "preco_onerado": 42184.88,
@@ -14817,7 +14817,7 @@
   },
   "030574": {
     "descricao": "CARRETA REBOCAVEL-\"CARREGA TUDO\"CAP.80tn",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 31.0,
     "preco_onerado": 31.0,
@@ -14929,7 +14929,7 @@
   },
   "030575": {
     "descricao": "CAVALO MECANICO FORD F12000 45 tn 110CV",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 110.1,
     "preco_onerado": 110.1,
@@ -17705,7 +17705,7 @@
   },
   "030746": {
     "descricao": "COMPACTADOR AUTOPROP. VIBRATORIO TIPO TANDEM 130HP",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 30.17,
     "preco_onerado": 30.17,
@@ -17713,7 +17713,7 @@
   },
   "032198": {
     "descricao": "COMPACTADOR AUTOPROP.1 CIL.CATERPILLAR 107CV",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 23.15,
     "preco_onerado": 23.15,
@@ -17721,7 +17721,7 @@
   },
   "032202": {
     "descricao": "COMPACTADOR AUTOPROP.1 CIL.CATERPILLAR 145CV",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 25.65,
     "preco_onerado": 25.65,
@@ -17729,7 +17729,7 @@
   },
   "032171": {
     "descricao": "COMPACTADOR AUTOPROP.1 CIL.DYNAPAC 145CV",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 25.65,
     "preco_onerado": 25.65,
@@ -17737,7 +17737,7 @@
   },
   "032174": {
     "descricao": "COMPACTADOR AUTOPROP.1 CIL.DYNAPAC 77CV",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 23.1,
     "preco_onerado": 23.1,
@@ -17745,7 +17745,7 @@
   },
   "032176": {
     "descricao": "COMPACTADOR AUTOPROP.1 CIL.DYNAPAC CA152P 95CV",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 23.1,
     "preco_onerado": 23.1,
@@ -17753,7 +17753,7 @@
   },
   "032181": {
     "descricao": "COMPACTADOR AUTOPROP.1 CIL.MULLER 55P 75CV",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 23.1,
     "preco_onerado": 23.1,
@@ -17761,7 +17761,7 @@
   },
   "032180": {
     "descricao": "COMPACTADOR AUTOPROP.1 CIL.MULLER VAP 75CV",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 23.1,
     "preco_onerado": 23.1,
@@ -17769,7 +17769,7 @@
   },
   "031322": {
     "descricao": "COMPACTADOR AUTOPROP.1 CILINDRO CAT-31D 107CV",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 23.15,
     "preco_onerado": 23.15,
@@ -17777,7 +17777,7 @@
   },
   "032481": {
     "descricao": "COMPACTADOR AUTOPROP.1 ROLO DYNAPAC CA25 127CV (19776)",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 64.1,
     "preco_onerado": 64.1,
@@ -17785,7 +17785,7 @@
   },
   "032159": {
     "descricao": "COMPACTADOR AUTOPROP.PNEUS DYNAPAC 221 106CV",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 64.12,
     "preco_onerado": 64.12,
@@ -17793,7 +17793,7 @@
   },
   "032161": {
     "descricao": "COMPACTADOR AUTOPROP.PNEUS MULLER 141CV",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 141.27,
     "preco_onerado": 141.27,
@@ -17801,7 +17801,7 @@
   },
   "032163": {
     "descricao": "COMPACTADOR AUTOPROP.PNEUS TEMA SP80 107CV",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 139.0,
     "preco_onerado": 139.0,
@@ -17809,7 +17809,7 @@
   },
   "030747": {
     "descricao": "COMPACTADOR AUTOPROP.TANDEN TEMA TH-10 44CV (19660)",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 94.27,
     "preco_onerado": 94.27,
@@ -17817,7 +17817,7 @@
   },
   "031362": {
     "descricao": "COMPACTADOR AUTOPROP.TENDEN 84L 1 CILINDRO 138CV",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 103.18,
     "preco_onerado": 103.18,
@@ -17825,7 +17825,7 @@
   },
   "035472": {
     "descricao": "COMPACTADOR AUTOPROP.VIBRAT.TANDEN CAT CB224C 33CV",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 90.1,
     "preco_onerado": 90.1,
@@ -17833,7 +17833,7 @@
   },
   "032022": {
     "descricao": "COMPACTADOR AUTOPROP.VIBRAT.TANDEN DYNAPAC 27CV",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 86.56,
     "preco_onerado": 86.56,
@@ -17841,7 +17841,7 @@
   },
   "032019": {
     "descricao": "COMPACTADOR MANUAL DE PLACA VIBRATORIA REVERSIVEL 282 KG",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 41.52,
     "preco_onerado": 41.52,
@@ -17849,7 +17849,7 @@
   },
   "032479": {
     "descricao": "COMPACTADOR MANUAL MOTOR DIESEL 5HP",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "H",
     "preco_desonerado": 1.63,
     "preco_onerado": 1.63,
@@ -17857,7 +17857,7 @@
   },
   "035455": {
     "descricao": "COMPACTADOR PLACA 156KG DYNAPAC 4HP",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 1.35,
     "preco_onerado": 1.35,
@@ -17865,7 +17865,7 @@
   },
   "035464": {
     "descricao": "COMPACTADOR PLACA 415KG DYNAPAC 6HP",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 1.62,
     "preco_onerado": 1.62,
@@ -17897,7 +17897,7 @@
   },
   "005141": {
     "descricao": "COMPRESSOR DE AR 60PCM",
-    "tipo": 1,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 30.06,
     "preco_onerado": 30.06,
@@ -17905,7 +17905,7 @@
   },
   "033379": {
     "descricao": "COMPRESSOR ESTACIONARIO ATLAS 75100 68pcm 100CV",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 89.35,
     "preco_onerado": 89.35,
@@ -17913,7 +17913,7 @@
   },
   "033377": {
     "descricao": "COMPRESSOR ESTACIONARIO ATLAS 90100 621pcm 173CV",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 89.35,
     "preco_onerado": 89.35,
@@ -17921,7 +17921,7 @@
   },
   "033374": {
     "descricao": "COMPRESSOR REBOCAVEL ATLAS XA186 350pcm 111CV",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "H",
     "preco_desonerado": 13.07,
     "preco_onerado": 13.07,
@@ -17929,7 +17929,7 @@
   },
   "031250": {
     "descricao": "COMPRESSOR REBOCAVEL ATLAS XA360 762pcm 269CV",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "H",
     "preco_desonerado": 14.61,
     "preco_onerado": 14.61,
@@ -17937,7 +17937,7 @@
   },
   "033376": {
     "descricao": "COMPRESSOR REBOCAVEL ATLAS XA96 80pcm 79CV",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "H",
     "preco_desonerado": 12.95,
     "preco_onerado": 12.95,
@@ -17945,7 +17945,7 @@
   },
   "033375": {
     "descricao": "COMPRESSOR REBOCAVEL ATLAS XA96 SA 260pcm 79CV",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "H",
     "preco_desonerado": 12.95,
     "preco_onerado": 12.95,
@@ -17953,7 +17953,7 @@
   },
   "031374": {
     "descricao": "COMPRESSOR REBOCAVEL ATLAS XAS 186 350pcm, MOTOR DIESEL, 111CV",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "H",
     "preco_desonerado": 12.9,
     "preco_onerado": 12.9,
@@ -17961,7 +17961,7 @@
   },
   "030375": {
     "descricao": "COMPRESSOR REBOCAVEL ATLAS XAS-96 260pcm, MOTOR DIESEL, 79CV",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "H",
     "preco_desonerado": 12.96,
     "preco_onerado": 12.96,
@@ -19617,7 +19617,7 @@
   },
   "012572": {
     "descricao": "CONJUNTO FILTRO BOMBA E AREIA DANCOR PISCINA DFR-12 COM BOMBA DE 1/4 CV MONOFASICA 110/220V - 20120058023",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 1544.0,
     "preco_onerado": 1544.0,
@@ -19673,7 +19673,7 @@
   },
   "048753": {
     "descricao": "CONSULTORIA TABELA ABCE ARQUITETO JUNIOR",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 136.62,
     "preco_onerado": 136.62,
@@ -19681,7 +19681,7 @@
   },
   "048752": {
     "descricao": "CONSULTORIA TABELA ABCE ARQUITETO PLENO",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 219.51,
     "preco_onerado": 219.51,
@@ -19689,7 +19689,7 @@
   },
   "048751": {
     "descricao": "CONSULTORIA TABELA ABCE ARQUITETO SENIOR",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 258.0,
     "preco_onerado": 258.0,
@@ -19697,7 +19697,7 @@
   },
   "048754": {
     "descricao": "CONSULTORIA TABELA ABCE ENGENHEIRO JUNIOR",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 207.0,
     "preco_onerado": 207.0,
@@ -19705,7 +19705,7 @@
   },
   "048755": {
     "descricao": "CONSULTORIA TABELA ABCE ENGENHEIRO PLENO",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 311.0,
     "preco_onerado": 311.0,
@@ -19713,7 +19713,7 @@
   },
   "048756": {
     "descricao": "CONSULTORIA TABELA ABCE ENGENHEIRO SENIOR",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 345.0,
     "preco_onerado": 345.0,
@@ -20225,7 +20225,7 @@
   },
   "036819": {
     "descricao": "CORTINA DE AR VECAIR VEC 1800C 1,80m COM CONTROLE REMOTO 220V",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 666.99,
     "preco_onerado": 666.99,
@@ -20233,7 +20233,7 @@
   },
   "036813": {
     "descricao": "CORTINA DE AR VIX ONE 1,20m COM CONTROLE REMOTO 220V",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 898.96,
     "preco_onerado": 898.96,
@@ -21233,7 +21233,7 @@
   },
   "023591": {
     "descricao": "CURSO DE CAPACITACAO PARA AJUDANTE DE ARMADOR",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.12,
     "preco_onerado": 0.12,
@@ -21241,7 +21241,7 @@
   },
   "023592": {
     "descricao": "CURSO DE CAPACITACAO PARA AJUDANTE DE CARPINTEIRO",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.17,
     "preco_onerado": 0.17,
@@ -21249,7 +21249,7 @@
   },
   "023593": {
     "descricao": "CURSO DE CAPACITACAO PARA AJUDANTE DE ESTRUTURA METALICA",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.13,
     "preco_onerado": 0.13,
@@ -21257,7 +21257,7 @@
   },
   "023594": {
     "descricao": "CURSO DE CAPACITACAO PARA AJUDANTE DE OPERACAO EM GERAL",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.12,
     "preco_onerado": 0.12,
@@ -21265,7 +21265,7 @@
   },
   "023595": {
     "descricao": "CURSO DE CAPACITACAO PARA AJUDANTE DE PEDREIRO",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.16,
     "preco_onerado": 0.16,
@@ -21273,7 +21273,7 @@
   },
   "023596": {
     "descricao": "CURSO DE CAPACITACAO PARA AJUDANTE ESPECIALIZADO",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.16,
     "preco_onerado": 0.16,
@@ -21305,7 +21305,7 @@
   },
   "023677": {
     "descricao": "CURSO DE CAPACITACAO PARA ARQUITETO DE OBRA JUNIOR",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.4,
     "preco_onerado": 0.4,
@@ -21313,7 +21313,7 @@
   },
   "023678": {
     "descricao": "CURSO DE CAPACITACAO PARA ARQUITETO DE OBRA PLENO",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.57,
     "preco_onerado": 0.57,
@@ -21321,7 +21321,7 @@
   },
   "923678": {
     "descricao": "CURSO DE CAPACITACAO PARA ARQUITETO DE OBRA PLENO",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.57,
     "preco_onerado": 0.57,
@@ -21329,7 +21329,7 @@
   },
   "023679": {
     "descricao": "CURSO DE CAPACITACAO PARA ARQUITETO DE OBRA SENIOR",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.75,
     "preco_onerado": 0.75,
@@ -21345,7 +21345,7 @@
   },
   "023680": {
     "descricao": "CURSO DE CAPACITACAO PARA AUXILIAR DE DESENHISTA",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.09,
     "preco_onerado": 0.09,
@@ -21353,7 +21353,7 @@
   },
   "023599": {
     "descricao": "CURSO DE CAPACITACAO PARA AUXILIAR DE ELETRICISTA",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.39,
     "preco_onerado": 0.39,
@@ -21361,7 +21361,7 @@
   },
   "023600": {
     "descricao": "CURSO DE CAPACITACAO PARA AUXILIAR DE ENCANADOR OU BOMBEIRO",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.19,
     "preco_onerado": 0.19,
@@ -21369,7 +21369,7 @@
   },
   "023681": {
     "descricao": "CURSO DE CAPACITACAO PARA AUXILIAR DE ESCRITORIO",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.07,
     "preco_onerado": 0.07,
@@ -21377,7 +21377,7 @@
   },
   "023601": {
     "descricao": "CURSO DE CAPACITACAO PARA AUXILIAR DE LABORATORIO",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.15,
     "preco_onerado": 0.15,
@@ -21385,7 +21385,7 @@
   },
   "023602": {
     "descricao": "CURSO DE CAPACITACAO PARA AUXILIAR DE MECANICO",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.15,
     "preco_onerado": 0.15,
@@ -21393,7 +21393,7 @@
   },
   "023603": {
     "descricao": "CURSO DE CAPACITACAO PARA AUXILIAR DE SERRALHEIRO",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.13,
     "preco_onerado": 0.13,
@@ -21401,7 +21401,7 @@
   },
   "023604": {
     "descricao": "CURSO DE CAPACITACAO PARA AUXILIAR DE SERVICOS GERAIS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.13,
     "preco_onerado": 0.13,
@@ -21409,7 +21409,7 @@
   },
   "023605": {
     "descricao": "CURSO DE CAPACITACAO PARA AUXILIAR DE TOPOGRAFO",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.04,
     "preco_onerado": 0.04,
@@ -21417,7 +21417,7 @@
   },
   "023606": {
     "descricao": "CURSO DE CAPACITACAO PARA AUXILIAR TECNICO DE ENGENHARIA",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.19,
     "preco_onerado": 0.19,
@@ -21481,7 +21481,7 @@
   },
   "023614": {
     "descricao": "CURSO DE CAPACITACAO PARA CAVOUQUEIRO OU OPERADOR PERFURATRIZ",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.11,
     "preco_onerado": 0.11,
@@ -21489,7 +21489,7 @@
   },
   "023682": {
     "descricao": "CURSO DE CAPACITACAO PARA DESENHISTA COPISTA",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.09,
     "preco_onerado": 0.09,
@@ -21497,7 +21497,7 @@
   },
   "023674": {
     "descricao": "CURSO DE CAPACITACAO PARA DESENHISTA DETALHISTA",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.09,
     "preco_onerado": 0.09,
@@ -21505,7 +21505,7 @@
   },
   "023615": {
     "descricao": "CURSO DE CAPACITACAO PARA ELETRICISTA",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.56,
     "preco_onerado": 0.56,
@@ -21513,7 +21513,7 @@
   },
   "023616": {
     "descricao": "CURSO DE CAPACITACAO PARA ELETRICISTA INDUSTRIAL",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.48,
     "preco_onerado": 0.48,
@@ -21537,7 +21537,7 @@
   },
   "023683": {
     "descricao": "CURSO DE CAPACITACAO PARA ENCARREGADO GERAL",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.53,
     "preco_onerado": 0.53,
@@ -21545,7 +21545,7 @@
   },
   "023684": {
     "descricao": "CURSO DE CAPACITACAO PARA ENGENHEIRO CIVIL DE OBRA JUNIOR",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.97,
     "preco_onerado": 0.97,
@@ -21553,7 +21553,7 @@
   },
   "023685": {
     "descricao": "CURSO DE CAPACITACAO PARA ENGENHEIRO CIVIL DE OBRA PLENO",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 1.1,
     "preco_onerado": 1.1,
@@ -21561,7 +21561,7 @@
   },
   "023686": {
     "descricao": "CURSO DE CAPACITACAO PARA ENGENHEIRO CIVIL DE OBRA SENIOR",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 1.51,
     "preco_onerado": 1.51,
@@ -21569,7 +21569,7 @@
   },
   "023688": {
     "descricao": "CURSO DE CAPACITACAO PARA ENGENHEIRO ELETRICISTA",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 2.27,
     "preco_onerado": 2.27,
@@ -21633,7 +21633,7 @@
   },
   "023625": {
     "descricao": "CURSO DE CAPACITACAO PARA MECANICO EQUIPAMENTOS PESADOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.17,
     "preco_onerado": 0.17,
@@ -21665,7 +21665,7 @@
   },
   "023629": {
     "descricao": "CURSO DE CAPACITACAO PARA MOTORISTA DE BASCULANTE",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.07,
     "preco_onerado": 0.07,
@@ -21673,7 +21673,7 @@
   },
   "023630": {
     "descricao": "CURSO DE CAPACITACAO PARA MOTORISTA DE CAMINHAO",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.07,
     "preco_onerado": 0.07,
@@ -21681,7 +21681,7 @@
   },
   "023631": {
     "descricao": "CURSO DE CAPACITACAO PARA MOTORISTA DE CAMINHAO/CARRETA",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.1,
     "preco_onerado": 0.1,
@@ -21689,7 +21689,7 @@
   },
   "023632": {
     "descricao": "CURSO DE CAPACITACAO PARA MOTORISTA DE VEICULO LEVE",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.05,
     "preco_onerado": 0.05,
@@ -21697,7 +21697,7 @@
   },
   "023633": {
     "descricao": "CURSO DE CAPACITACAO PARA MOTORISTA DE VEICULO PESADO",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.08,
     "preco_onerado": 0.08,
@@ -21705,7 +21705,7 @@
   },
   "023634": {
     "descricao": "CURSO DE CAPACITACAO PARA MOTORISTA OPERADOR DE MUNK",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.18,
     "preco_onerado": 0.18,
@@ -21721,7 +21721,7 @@
   },
   "023636": {
     "descricao": "CURSO DE CAPACITACAO PARA OPERADOR DE ACABADORA",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.1,
     "preco_onerado": 0.1,
@@ -21729,7 +21729,7 @@
   },
   "023637": {
     "descricao": "CURSO DE CAPACITACAO PARA OPERADOR DE BETONEIRA",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.11,
     "preco_onerado": 0.11,
@@ -21737,7 +21737,7 @@
   },
   "023672": {
     "descricao": "CURSO DE CAPACITACAO PARA OPERADOR DE BETONEIRA ESTACIONARIA",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.11,
     "preco_onerado": 0.11,
@@ -21745,7 +21745,7 @@
   },
   "023638": {
     "descricao": "CURSO DE CAPACITACAO PARA OPERADOR DE COMPRESSOR",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.12,
     "preco_onerado": 0.12,
@@ -21753,7 +21753,7 @@
   },
   "023639": {
     "descricao": "CURSO DE CAPACITACAO PARA OPERADOR DE DEMARCADORA DE FAIXAS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.14,
     "preco_onerado": 0.14,
@@ -21761,7 +21761,7 @@
   },
   "023640": {
     "descricao": "CURSO DE CAPACITACAO PARA OPERADOR DE ESCAVADEIRA",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.21,
     "preco_onerado": 0.21,
@@ -21769,7 +21769,7 @@
   },
   "023641": {
     "descricao": "CURSO DE CAPACITACAO PARA OPERADOR DE GUINCHO",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.29,
     "preco_onerado": 0.29,
@@ -21777,7 +21777,7 @@
   },
   "023642": {
     "descricao": "CURSO DE CAPACITACAO PARA OPERADOR DE GUINDASTE",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.29,
     "preco_onerado": 0.29,
@@ -21785,7 +21785,7 @@
   },
   "023651": {
     "descricao": "CURSO DE CAPACITACAO PARA OPERADOR DE JATO DE AREIA",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.19,
     "preco_onerado": 0.19,
@@ -21793,7 +21793,7 @@
   },
   "023643": {
     "descricao": "CURSO DE CAPACITACAO PARA OPERADOR DE MAQUINAS E EQUIPAMENTOS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.21,
     "preco_onerado": 0.21,
@@ -21801,7 +21801,7 @@
   },
   "023644": {
     "descricao": "CURSO DE CAPACITACAO PARA OPERADOR DE MARTELETE",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.13,
     "preco_onerado": 0.13,
@@ -21809,7 +21809,7 @@
   },
   "023645": {
     "descricao": "CURSO DE CAPACITACAO PARA OPERADOR DE MOTO-ESCREIPER",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.14,
     "preco_onerado": 0.14,
@@ -21817,7 +21817,7 @@
   },
   "023646": {
     "descricao": "CURSO DE CAPACITACAO PARA OPERADOR DE MOTONIVELADORA",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.17,
     "preco_onerado": 0.17,
@@ -21825,7 +21825,7 @@
   },
   "023647": {
     "descricao": "CURSO DE CAPACITACAO PARA OPERADOR DE PA CARREGADEIRA",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.14,
     "preco_onerado": 0.14,
@@ -21833,7 +21833,7 @@
   },
   "023648": {
     "descricao": "CURSO DE CAPACITACAO PARA OPERADOR DE PAVIMENTADORA",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.14,
     "preco_onerado": 0.14,
@@ -21841,7 +21841,7 @@
   },
   "023649": {
     "descricao": "CURSO DE CAPACITACAO PARA OPERADOR DE ROLO COMPACTADOR",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.13,
     "preco_onerado": 0.13,
@@ -21849,7 +21849,7 @@
   },
   "023650": {
     "descricao": "CURSO DE CAPACITACAO PARA OPERADOR DE USINA DE ASFALTO",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.12,
     "preco_onerado": 0.12,
@@ -21857,7 +21857,7 @@
   },
   "023652": {
     "descricao": "CURSO DE CAPACITACAO PARA OPERADOR PARA BATE ESTACAS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.14,
     "preco_onerado": 0.14,
@@ -21881,7 +21881,7 @@
   },
   "023655": {
     "descricao": "CURSO DE CAPACITACAO PARA PINTOR",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.22,
     "preco_onerado": 0.22,
@@ -21889,7 +21889,7 @@
   },
   "023656": {
     "descricao": "CURSO DE CAPACITACAO PARA PINTOR DE LETREIROS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.24,
     "preco_onerado": 0.24,
@@ -21897,7 +21897,7 @@
   },
   "023657": {
     "descricao": "CURSO DE CAPACITACAO PARA PINTOR PARA TINTA EPOXI",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.24,
     "preco_onerado": 0.24,
@@ -21937,7 +21937,7 @@
   },
   "023662": {
     "descricao": "CURSO DE CAPACITACAO PARA SOLDADOR",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.18,
     "preco_onerado": 0.18,
@@ -21945,7 +21945,7 @@
   },
   "023663": {
     "descricao": "CURSO DE CAPACITACAO PARA SOLDADOR A",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.2,
     "preco_onerado": 0.2,
@@ -21969,7 +21969,7 @@
   },
   "023666": {
     "descricao": "CURSO DE CAPACITACAO PARA TECNICO DE LABORATORIO",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.23,
     "preco_onerado": 0.23,
@@ -21977,7 +21977,7 @@
   },
   "023667": {
     "descricao": "CURSO DE CAPACITACAO PARA TECNICO DE SONDAGEM",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.22,
     "preco_onerado": 0.22,
@@ -24561,7 +24561,7 @@
   },
   "030742": {
     "descricao": "DISTRIBUIDOR AGREGADOS REBOCAVEL CMV 1,90m3",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "H",
     "preco_desonerado": 9.16,
     "preco_onerado": 9.16,
@@ -27081,7 +27081,7 @@
   },
   "013764": {
     "descricao": "ELEVADOR CREMALHEIRA CABINE FECHADA 1,5x2,5x2,35m (UMA POR TORRE) ATE 20 METROS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 22.1,
     "preco_onerado": 22.1,
@@ -27289,7 +27289,7 @@
   },
   "030442": {
     "descricao": "EMPILHADEIRA HYSTER XL2 4 Tn TR.=4,35m 82CV",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 67.2,
     "preco_onerado": 67.2,
@@ -27297,7 +27297,7 @@
   },
   "030443": {
     "descricao": "EMPILHADEIRA HYSTER XL2 7Tn TR=5,40m 82CV",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 70.3,
     "preco_onerado": 70.3,
@@ -27369,7 +27369,7 @@
   },
   "003655": {
     "descricao": "ENCARREGADO DE OBRAS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 11.04,
     "preco_onerado": 11.04,
@@ -28001,7 +28001,7 @@
   },
   "003693": {
     "descricao": "EPI - MENSALISTA (ENCARGOS COMPLEMENTARES SINAPI)",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "H",
     "preco_desonerado": 0.58,
     "preco_onerado": 0.58,
@@ -28009,7 +28009,7 @@
   },
   "023693": {
     "descricao": "EPI - MENSALISTA (ENCARGOS COMPLEMENTARES SINAPI)",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "H",
     "preco_desonerado": 0.58,
     "preco_onerado": 0.58,
@@ -28097,7 +28097,7 @@
   },
   "020774": {
     "descricao": "EQUIPAMENTO/ACESSORIOS PARA QUADRA DE BASQUETE SB700",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 1999.99,
     "preco_onerado": 1999.99,
@@ -28105,7 +28105,7 @@
   },
   "020773": {
     "descricao": "EQUIPAMENTO/ACESSORIOS PARA QUADRA DE FUTEBOL DE SALAO (2 REDES) MASTER REDES",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 229.9,
     "preco_onerado": 229.9,
@@ -28113,7 +28113,7 @@
   },
   "020772": {
     "descricao": "EQUIPAMENTO/ACESSORIOS PARA QUADRA DE VOLEI",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 999.99,
     "preco_onerado": 999.99,
@@ -28209,7 +28209,7 @@
   },
   "032144": {
     "descricao": "ESCAVADEIRA HIDR.ESTEIRA CASE CX210 140HP",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 99.5,
     "preco_onerado": 99.5,
@@ -28217,7 +28217,7 @@
   },
   "030445": {
     "descricao": "ESCAVADEIRA HIDR.ESTEIRA VOLVO EC240 268HP",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 156.5,
     "preco_onerado": 156.5,
@@ -28225,7 +28225,7 @@
   },
   "032109": {
     "descricao": "ESCAVADEIRA HIDR.ESTEIRAS CATERPILLAR 99HP",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 99.5,
     "preco_onerado": 99.5,
@@ -28233,7 +28233,7 @@
   },
   "030364": {
     "descricao": "ESCAVADEIRA HIDRAULICA DE ESTEIRA MODELO EC240 BLC, CAP=1,05M3, POT= 134,23KW",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "H",
     "preco_desonerado": 99.5,
     "preco_onerado": 99.5,
@@ -28297,7 +28297,7 @@
   },
   "005142": {
     "descricao": "ESMERILHADEIRA ANGULAR DEWALT 402 (400H/V)",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.9,
     "preco_onerado": 0.9,
@@ -30537,7 +30537,7 @@
   },
   "004123": {
     "descricao": "FERRAMENTA - GIRICA (CACAMBA PNEUS) 112 LITROS",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 559.8,
     "preco_onerado": 559.8,
@@ -30921,7 +30921,7 @@
   },
   "023694": {
     "descricao": "FERRAMENTAS - MENSALISTA (ENCARGOS COMPLEMENTARES SINAPI)",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "H",
     "preco_desonerado": 0.64,
     "preco_onerado": 0.64,
@@ -33073,7 +33073,7 @@
   },
   "005882": {
     "descricao": "FURADEIRA DE IMPACTO BOSCH GSB 13RE",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.65,
     "preco_onerado": 0.65,
@@ -33425,7 +33425,7 @@
   },
   "001236": {
     "descricao": "GERADOR DE ENERGIA A GASOLINA 4T PARTIDA MANUAL 8 KVA 110/ 220 V - MOTOMIL-MGG-8000CLE",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 6859.9,
     "preco_onerado": 6859.9,
@@ -33537,7 +33537,7 @@
   },
   "011525": {
     "descricao": "GRADE DE DISCOS MECANICA 20x24\" COM 20 DISCOS 24\" x 6mm COM PNEUS PARA TRANSPORTE",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "H",
     "preco_desonerado": 13.41,
     "preco_onerado": 13.41,
@@ -34913,7 +34913,7 @@
   },
   "001238": {
     "descricao": "GRUPO GERADOR DE ENERGIA YANMAR YBG55TE 55 KVA 49,5 KVA / 55 KVA 127/220/380/440V",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 63118.0,
     "preco_onerado": 63118.0,
@@ -34921,7 +34921,7 @@
   },
   "006918": {
     "descricao": "GRUPO GERADOR DIESEL COM CARENAGEM POTENCIA 110KVA 1800RPM",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 84306.47,
     "preco_onerado": 84306.47,
@@ -34929,7 +34929,7 @@
   },
   "001237": {
     "descricao": "GRUPO GERADOR DIESEL COM CARENAGEM POTENCIA 150KVA 1800RPM",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 96583.96,
     "preco_onerado": 96583.96,
@@ -34937,7 +34937,7 @@
   },
   "008995": {
     "descricao": "GRUPO GERADOR TRIFASICO 30KVA",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "H",
     "preco_desonerado": 26.0,
     "preco_onerado": 26.0,
@@ -35137,7 +35137,7 @@
   },
   "047717": {
     "descricao": "HELICOPTERO ESQUILO LOCACAO/HORA PARA ATE 3 PESSOAS",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "H",
     "preco_desonerado": 1800.0,
     "preco_onerado": 1800.0,
@@ -35441,7 +35441,7 @@
   },
   "082123": {
     "descricao": "INSTALACAO DE AR CONDICIONADO SPLIT 9000 E 1200 BTU'S (MO E LINHA FRIGORIGENA)",
-    "tipo": 4,
+    "tipo": 2,
     "unidade": "UN",
     "preco_desonerado": 850.0,
     "preco_onerado": 850.0,
@@ -39353,7 +39353,7 @@
   },
   "036530": {
     "descricao": "KIT MOTOR PARA PORTAO BASCULANTE 1/2 HP",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 1400.32,
     "preco_onerado": 1400.32,
@@ -39361,7 +39361,7 @@
   },
   "036531": {
     "descricao": "KIT MOTOR PARA PORTAO DESLIZANTE 1/2 HP",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 1099.9,
     "preco_onerado": 1099.9,
@@ -39377,7 +39377,7 @@
   },
   "036532": {
     "descricao": "KIT PARA AUTOMACAO DE PORTA DE ENROLAR 500 KG (MOTOR ELETRICO 50/60HZ COM TERMOSTATO, CENTRAL DE COMAMDO, NOBREAK, BOTOEIRA PARA ACIONAMENTO, 02 CONTROLES REMOTOS)",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 2133.99,
     "preco_onerado": 2133.99,
@@ -39585,7 +39585,7 @@
   },
   "020790": {
     "descricao": "LADRILHO HIDRAULICO 30 x 30cm E= 2cm MILANO, NATURAL",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "m\u00b2",
     "preco_desonerado": 79.9,
     "preco_onerado": 79.9,
@@ -40289,7 +40289,7 @@
   },
   "030300": {
     "descricao": "LAVAGEM E LUBRIFICACAO VEICULO GRANDE (/1000)",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.25,
     "preco_onerado": 0.25,
@@ -40297,7 +40297,7 @@
   },
   "030301": {
     "descricao": "LAVAGEM E LUBRIFICACAO VEICULO MEDIO (/1000)",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.18,
     "preco_onerado": 0.18,
@@ -40305,7 +40305,7 @@
   },
   "030302": {
     "descricao": "LAVAGEM E LUBRIFICACAO VEICULO PEQUENO (/1000)",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.13,
     "preco_onerado": 0.13,
@@ -41953,7 +41953,7 @@
   },
   "000043": {
     "descricao": "LOCACAO DE CUBETA(CABACINHA) PLASTICA PARA LAJE NERVURADA 61x61x18cm",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "M2/MES",
     "preco_desonerado": 7.86,
     "preco_onerado": 7.86,
@@ -41961,7 +41961,7 @@
   },
   "000072": {
     "descricao": "LOCACAO DE CUBETA(CABACINHA) PLASTICA PARA LAJE NERVURADA 65x65x21cm",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "M2/MES",
     "preco_desonerado": 7.86,
     "preco_onerado": 7.86,
@@ -44289,7 +44289,7 @@
   },
   "008041": {
     "descricao": "MACACO DE PROTENSAO DE FIOS COM BOMBA DE 5 CV",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "H",
     "preco_desonerado": 41.5,
     "preco_onerado": 41.5,
@@ -44985,7 +44985,7 @@
   },
   "030470": {
     "descricao": "MAQUINA DE SOLDA ELETRICA",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 1.92,
     "preco_onerado": 1.92,
@@ -45001,7 +45001,7 @@
   },
   "034422": {
     "descricao": "MAQUINA DE SOLDA RETIFICADOR 500A",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 8.15,
     "preco_onerado": 8.15,
@@ -45009,7 +45009,7 @@
   },
   "031072": {
     "descricao": "MAQUINA DEMARC.FAIXAS TRAFEGO CONSMAQ FX-10D",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 36.2,
     "preco_onerado": 36.2,
@@ -45017,7 +45017,7 @@
   },
   "032394": {
     "descricao": "MAQUINA MINI EXTRUSORA PARA CURVAS, GUIAS, SARJETAS E MEIO FIO MOTOR DE 5.5HP A GASOLINA",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 23500.0,
     "preco_onerado": 23500.0,
@@ -45033,7 +45033,7 @@
   },
   "030448": {
     "descricao": "MAQUINA SOLDA ELETR.SMASHWELD 180 BANTAN 3,5kVA",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 1.92,
     "preco_onerado": 1.92,
@@ -45041,7 +45041,7 @@
   },
   "030447": {
     "descricao": "MAQUINA SOLDA ELETR.SMASHWELD 180E ESAB 6,1kVA",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.96,
     "preco_onerado": 0.96,
@@ -45257,7 +45257,7 @@
   },
   "032554": {
     "descricao": "MARTELETE PNEUMATICO ATLAS COPCO TEX 32PS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 2.22,
     "preco_onerado": 2.22,
@@ -45265,7 +45265,7 @@
   },
   "032486": {
     "descricao": "MARTELETE ROMPEDOR AR COMPRIMIDO ATLAS TEX-32PS",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 25.13,
     "preco_onerado": 25.13,
@@ -45273,7 +45273,7 @@
   },
   "030589": {
     "descricao": "MARTELETE/ROMPEDOR/PERFURADOR ATLAS TEX-41",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 23.51,
     "preco_onerado": 23.51,
@@ -45281,7 +45281,7 @@
   },
   "078287": {
     "descricao": "MARTELINHA PARA QUEBRA DE VIDRO - EQUIPAMENTO INCENDIO",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 26.73,
     "preco_onerado": 26.73,
@@ -46025,7 +46025,7 @@
   },
   "007811": {
     "descricao": "MOBILIZACAO EQUIPAMENTO TERRAPLENAGEM DMT DE 50,1 A 100 KM",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 10500.0,
     "preco_onerado": 10500.0,
@@ -46041,7 +46041,7 @@
   },
   "050657": {
     "descricao": "MOBILIZACAO/RETIRADA EQUIPAMENTO PERFURACAO DE TUBULAO ATE 50 KM",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 8500.0,
     "preco_onerado": 8500.0,
@@ -46049,7 +46049,7 @@
   },
   "008935": {
     "descricao": "MOBILIZACAO/RETIRADA EQUIPAMENTO REBAIXAMENTO LENCOL",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 7000.0,
     "preco_onerado": 7000.0,
@@ -46257,7 +46257,7 @@
   },
   "099611": {
     "descricao": "MONTADOR DE CHAPAS DE ACO",
-    "tipo": 3,
+    "tipo": 4,
     "unidade": "H",
     "preco_desonerado": 10.27,
     "preco_onerado": 10.27,
@@ -46265,7 +46265,7 @@
   },
   "099950": {
     "descricao": "MONTADOR DE ESTRUTURA EM ALUMINIO",
-    "tipo": 3,
+    "tipo": 4,
     "unidade": "H",
     "preco_desonerado": 10.27,
     "preco_onerado": 10.27,
@@ -46345,7 +46345,7 @@
   },
   "011518": {
     "descricao": "MOTONIVELADORA 140-H MEDIA - CHI",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 28.51,
     "preco_onerado": 28.51,
@@ -46353,7 +46353,7 @@
   },
   "011517": {
     "descricao": "MOTONIVELADORA 140-H MEDIA - CHP",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 130.14,
     "preco_onerado": 130.14,
@@ -46361,7 +46361,7 @@
   },
   "032104": {
     "descricao": "MOTONIVELADORA ARTIC.CATERPILLAR 135H 155CV",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 145.54,
     "preco_onerado": 145.54,
@@ -46369,7 +46369,7 @@
   },
   "030580": {
     "descricao": "MOTONIVELADORA ARTIC.CATERPILLAR 160H 165CV",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 186.15,
     "preco_onerado": 186.15,
@@ -46377,7 +46377,7 @@
   },
   "030581": {
     "descricao": "MOTONIVELADORA ARTICUL.CATERPILLAR 120B 125CV",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 140.0,
     "preco_onerado": 140.0,
@@ -46385,7 +46385,7 @@
   },
   "030373": {
     "descricao": "MOTONIVELADORA ARTICUL.CATERPILLAR 140H 155CV",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 151.0,
     "preco_onerado": 151.0,
@@ -49385,7 +49385,7 @@
   },
   "037405": {
     "descricao": "PERFURATRIZ ATLAS COPCO RH 571",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 32.3,
     "preco_onerado": 32.3,
@@ -54929,7 +54929,7 @@
   },
   "036575": {
     "descricao": "QUADRO DE TRANSFERENCIA AUTOMATICA PARA GRUPO GERADOR ATE 150KVA",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 16200.0,
     "preco_onerado": 16200.0,
@@ -56961,7 +56961,7 @@
   },
   "001211": {
     "descricao": "REMOCAO EQUIPAMENTO ESTACAS ATE 50KM",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 7600.0,
     "preco_onerado": 7600.0,
@@ -56969,7 +56969,7 @@
   },
   "080163": {
     "descricao": "REMOCAO EQUIPAMENTO PERFURACAO ATE 50KM",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 4200.0,
     "preco_onerado": 4200.0,
@@ -57017,7 +57017,7 @@
   },
   "087606": {
     "descricao": "REPOSICAO CAPITAL CAMINHAO FORD F-14.000 130CV(/1000)",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 16.58,
     "preco_onerado": 16.58,
@@ -57817,7 +57817,7 @@
   },
   "030217": {
     "descricao": "ROLO COMPACTADOR AUTOPROPELIDO, VIBRATORIO EM ACO, CILINDROS LISOS, 80 HP (59 KW), 6 T. CC21 DYNAPAC",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "H",
     "preco_desonerado": 107.5,
     "preco_onerado": 107.5,
@@ -57825,7 +57825,7 @@
   },
   "030218": {
     "descricao": "ROLO COMPACTADOR PNEUS TANDEN 6/8ton 126CV",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 100.0,
     "preco_onerado": 100.0,
@@ -57833,7 +57833,7 @@
   },
   "030220": {
     "descricao": "ROLO COMPACTADOR VIBRATORIO 1 CILINDRO PE DE CARNEIRO 7,5 T",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 118.0,
     "preco_onerado": 118.0,
@@ -57841,7 +57841,7 @@
   },
   "031581": {
     "descricao": "ROLO COMPACTADOR VIBRATORIO COM PE DE CARNEIRO EM ACO, 121 A 127HP (90 A 93 KW) CA25PD DYNAPAC",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "H",
     "preco_desonerado": 170.0,
     "preco_onerado": 170.0,
@@ -57849,7 +57849,7 @@
   },
   "011521": {
     "descricao": "ROLO COMPACTADOR VIBRATORIO DE UM CILINDRO/PN 7T",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 90.1,
     "preco_onerado": 90.1,
@@ -57857,7 +57857,7 @@
   },
   "035452": {
     "descricao": "ROLO COMPACTADOR VIBRATORIO TANDEM RT-82",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "H",
     "preco_desonerado": 72.1,
     "preco_onerado": 72.1,
@@ -57865,7 +57865,7 @@
   },
   "034445": {
     "descricao": "ROLO COMPACTADOR VIBRATORIO, PE DE CARNEIRO, AUTOPROPELIDO,125 HP, 11,1 T, IMPACTO 31,1 T",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "H",
     "preco_desonerado": 77.0,
     "preco_onerado": 77.0,
@@ -57881,7 +57881,7 @@
   },
   "034444": {
     "descricao": "ROMPEDOR/PERFURADOR ATLAS COPCO TEX41 1CV",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 25.1,
     "preco_onerado": 25.1,
@@ -58673,7 +58673,7 @@
   },
   "032555": {
     "descricao": "SERRA CIRCULAR MADEIRA MECAN PICA-PAU EL.3CV",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.77,
     "preco_onerado": 0.77,
@@ -58681,7 +58681,7 @@
   },
   "037402": {
     "descricao": "SERRA CIRCULAR MECAN BANCADA MOT.ELETRICO 5CV",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.8,
     "preco_onerado": 0.8,
@@ -58689,7 +58689,7 @@
   },
   "030632": {
     "descricao": "SERRA CIRCULAR P/MADEIRA MECAN ELETR. 5CV",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.82,
     "preco_onerado": 0.82,
@@ -58697,7 +58697,7 @@
   },
   "005140": {
     "descricao": "SERRA MAKITA REF.4100MHX (400H/v)",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 0.24,
     "preco_onerado": 0.24,
@@ -59529,7 +59529,7 @@
   },
   "035864": {
     "descricao": "SONDA ROTATIVA ACIONAMENTO HIDRAULICO, MONTADA SOBRE CHASSIS CAMINHAO ALONGADO ESPECIAL C/3 EIXOS TRASEIROS,12 RODAS, C/CAPACIDADE C/CAPACIDADE P/PERFURAR POCO 12.1/4\" ATE 800M E EM 17.1/2\"ATE 500M",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "H",
     "preco_desonerado": 114.46,
     "preco_onerado": 114.46,
@@ -59633,7 +59633,7 @@
   },
   "030792": {
     "descricao": "SOQUETE VIBRATORIO DYNAPAC 4,0CV DIESEL",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "H",
     "preco_desonerado": 24.84,
     "preco_onerado": 24.84,
@@ -65129,7 +65129,7 @@
   },
   "088129": {
     "descricao": "TOMADA PARA EQUIPAMENTO BIOMEDICO 110/220V COM PLACA",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 59.71,
     "preco_onerado": 59.71,
@@ -65577,7 +65577,7 @@
   },
   "032770": {
     "descricao": "TORRE PERF.ROTATIVA CAM.MERCEDES L1620 (19880)",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 100.0,
     "preco_onerado": 100.0,
@@ -65889,7 +65889,7 @@
   },
   "023690": {
     "descricao": "TRANSPORTE - HORISTA (ENCARGOS COMPLEMENTARES SINAPI)",
-    "tipo": 4,
+    "tipo": 5,
     "unidade": "H",
     "preco_desonerado": 1.0,
     "preco_onerado": 1.0,
@@ -65897,7 +65897,7 @@
   },
   "008075": {
     "descricao": "TRANSPORTE E REMOCAO DE EQUIPAMENTO DE PROTENSAO ATE 50Km",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 5000.0,
     "preco_onerado": 5000.0,
@@ -65913,7 +65913,7 @@
   },
   "030661": {
     "descricao": "TRATOR AGRICOLA PNEUS NEW HOLLAND 110CV",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 16.15,
     "preco_onerado": 16.15,
@@ -65921,7 +65921,7 @@
   },
   "030497": {
     "descricao": "TRATOR ESTEIRAS KOMATSU LAMINA 165CV",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 198.32,
     "preco_onerado": 198.32,
@@ -65929,7 +65929,7 @@
   },
   "030498": {
     "descricao": "TRATOR ESTEIRAS KOMATSU LAMINA D4E6 1,3m 80CV",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 163.0,
     "preco_onerado": 163.0,
@@ -65937,7 +65937,7 @@
   },
   "030371": {
     "descricao": "TRATOR ESTEIRAS LAMINA CATERPILLAR D5C 105CV",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 178.2,
     "preco_onerado": 178.2,
@@ -65945,7 +65945,7 @@
   },
   "030578": {
     "descricao": "TRATOR ESTEIRAS LAMINA CATERPILLAR D6N 140CV",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 178.2,
     "preco_onerado": 178.2,
@@ -65953,7 +65953,7 @@
   },
   "030579": {
     "descricao": "TRATOR ESTEIRAS LAMINA CATERPILLAR D8K 305CV",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 287.5,
     "preco_onerado": 287.5,
@@ -65961,7 +65961,7 @@
   },
   "030562": {
     "descricao": "TRATOR PNEUS MULLER ATE 100HP",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 88.7,
     "preco_onerado": 88.7,
@@ -65969,7 +65969,7 @@
   },
   "030249": {
     "descricao": "TRATOR PNEUS VALTRA BM 120 4x4 128HP",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 103.0,
     "preco_onerado": 103.0,
@@ -69289,7 +69289,7 @@
   },
   "031314": {
     "descricao": "USINA ASF.FIXA GRAVIMETRICA 40/60tn/h 116CV (19018)",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 720.0,
     "preco_onerado": 720.0,
@@ -69297,7 +69297,7 @@
   },
   "031311": {
     "descricao": "USINA DE ASFALTO A QUENTE GRAVIMETRICA 100/140 T/H - 260 KW",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "H",
     "preco_desonerado": 725.0,
     "preco_onerado": 725.0,
@@ -69305,7 +69305,7 @@
   },
   "030576": {
     "descricao": "USINA DE ASFALTO GRAVIMETRICA 100/150 T/H",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 955.0,
     "preco_onerado": 955.0,
@@ -69313,7 +69313,7 @@
   },
   "031310": {
     "descricao": "USINA MISTURADORA MOVEL DE RECICLAGEM A FRIO - SISTEMA DE ESPUMA DE ASFALTO - 129 KW",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "H",
     "preco_desonerado": 274.0,
     "preco_onerado": 274.0,
@@ -71425,7 +71425,7 @@
   },
   "016108": {
     "descricao": "VENTILADOR MOTOR AXIAL EXAUSTOR D355 35cm 220V 1/2 CV 1F 4P CONDENSADORA DANFOSS HCM HGM 28 36 42 64",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "UN",
     "preco_desonerado": 657.7,
     "preco_onerado": 657.7,
@@ -71617,7 +71617,7 @@
   },
   "030648": {
     "descricao": "VIBRADOR DE IMERSAO DIESEL 4,5HP 48MM COM MANGOTE",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "H",
     "preco_desonerado": 0.77,
     "preco_onerado": 0.77,
@@ -71641,7 +71641,7 @@
   },
   "037431": {
     "descricao": "VIBRADOR DE IMERSAO ELETRICO 2,0CV",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "H",
     "preco_desonerado": 2.15,
     "preco_onerado": 2.15,
@@ -71649,7 +71649,7 @@
   },
   "030590": {
     "descricao": "VIBRADOR IMERSAO A DIESEL 2HP",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "H",
     "preco_desonerado": 3.15,
     "preco_onerado": 3.15,
@@ -71657,7 +71657,7 @@
   },
   "037432": {
     "descricao": "VIBRADOR MANUAL ELETRICO DYNAPAC 2HP",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "H",
     "preco_desonerado": 1.11,
     "preco_onerado": 1.11,
@@ -71665,7 +71665,7 @@
   },
   "037433": {
     "descricao": "VIBRADOR MANUAL ELETRICO DYNAPAC 3HP",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "H",
     "preco_desonerado": 1.15,
     "preco_onerado": 1.15,
@@ -71673,7 +71673,7 @@
   },
   "030588": {
     "descricao": "VIBROACABADORA AUTOP.ESTER.CIFALI L=4m 96CV (19030)",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 34.3,
     "preco_onerado": 34.3,
@@ -71689,7 +71689,7 @@
   },
   "031318": {
     "descricao": "VIBROACABADORA AUTOPROP.EST.VOGELE 162CV L=7,5m(19029)",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 37.6,
     "preco_onerado": 37.6,
@@ -71697,7 +71697,7 @@
   },
   "031319": {
     "descricao": "VIBROACABADORA DE ASFALTO SOBRE PNEUS - 72 KW",
-    "tipo": 4,
+    "tipo": 1,
     "unidade": "H",
     "preco_desonerado": 32.6,
     "preco_onerado": 32.6,
@@ -71705,7 +71705,7 @@
   },
   "070172": {
     "descricao": "VIBROALIZADORA CET 36 HONDA 20CV-1,7/2,8m",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 25.06,
     "preco_onerado": 25.06,
@@ -72089,7 +72089,7 @@
   },
   "077280": {
     "descricao": "VISTORIA EM PREDIOS VISINHOS POR ENGENHEIRO PERITO",
-    "tipo": 4,
+    "tipo": 3,
     "unidade": "H",
     "preco_desonerado": 300.0,
     "preco_onerado": 300.0,
